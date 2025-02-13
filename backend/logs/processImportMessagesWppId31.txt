@@ -1,0 +1,1772 @@
+Aguardando conexão para iniciar a importação de mensagens:
+    Whatsapp nome: leonardo
+    Whatsapp Id: 31
+    Criação do arquivo de logs: 08/01/2025 11:32:51
+    Selecionado Data de inicio de importação: 07/01/2025 10:24:00 
+    Selecionado Data final da importação: 08/01/2025 10:23:00 
+     
+
+Mensagem 1 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "50763092260@s.whatsapp.net",
+    "fromMe": false,
+    "id": "2364FF3D4EC3FEDB26F2A6F5C82CD2A6"
+  },
+  "message": {
+    "audioMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7117-24/12324039_1812488956179525_2562472520935617315_n.enc?ccb=11-4&oh=01_Q5AaIACU2S00sG14x8GjDAgBFuqh5VWr4OdwupAtdi3g58Ss&oe=67A591C9&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "audio/ogg; codecs=opus",
+      "fileSha256": "1J0oMxj07ZfcLy6zIHNyx4yV+sLeIREf9eFjIre3me0=",
+      "fileLength": "5408",
+      "seconds": 2,
+      "ptt": true,
+      "mediaKey": "jryvWackD9EeDuBFEUkXZDZszz0o/umnW+dGhzBAnio=",
+      "fileEncSha256": "mNmS1iuJ5efbNAGAvDCXBLpN0en76febg/9BOW6/TGs=",
+      "directPath": "/v/t62.7117-24/12324039_1812488956179525_2562472520935617315_n.enc?ccb=11-4&oh=01_Q5AaIACU2S00sG14x8GjDAgBFuqh5VWr4OdwupAtdi3g58Ss&oe=67A591C9&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1736313208",
+      "waveform": "BwcHBgECAwUIChAgEwsQKjg8OkRKS0dDPzoWJVRaWlhWU1FJMRcfUFlbWVlQTlRVWFtbWlpcXFxdXVdORT4sHw=="
+    }
+  },
+  "messageTimestamp": "1736313209",
+  "status": "PLAYED",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Voice Notes/202502/PTT-20250108-WA0001.opus"
+  },
+  "messageSecret": "RiidDVhiqlOvO90M6mjiR17gCDOAzTjaqOaQro05l9c=",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAL30ufNMArjBAKnyQ4s/YU="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 2 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "50763092260@s.whatsapp.net",
+    "fromMe": false,
+    "id": "E86FCD367571C918544D269E7D84E4CF"
+  },
+  "message": {
+    "audioMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7117-24/19085805_626149376644381_3860153459265005663_n.enc?ccb=11-4&oh=01_Q5AaIHp_l9OjgVUypyKn_wL_FsdUAAGeiaQvDheD4nyLbXwd&oe=67A58015&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "audio/ogg; codecs=opus",
+      "fileSha256": "nOzkqdm+KECmcGVajEfaxK5ULwKe1RhBQHbaDh00BzI=",
+      "fileLength": "176619",
+      "seconds": 83,
+      "ptt": true,
+      "mediaKey": "3pHyxDJej/5MJ1+L1Cpd9zsFG19P9rBcvSPV6pNEmQQ=",
+      "fileEncSha256": "MorNfRg4Ef/Lr/p1axvs9y/WKpBYYYk7PoTSSvP0kdY=",
+      "directPath": "/v/t62.7117-24/19085805_626149376644381_3860153459265005663_n.enc?ccb=11-4&oh=01_Q5AaIHp_l9OjgVUypyKn_wL_FsdUAAGeiaQvDheD4nyLbXwd&oe=67A58015&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1736313122",
+      "waveform": "BAs1CQdPJD9HDEEHVB1aUE1dJVZeVAJTV0gwMwdEIzJXWzEzO0VZBzsEU05NAko7U0BYDhlXLwtITk0NQkwRHg=="
+    }
+  },
+  "messageTimestamp": "1736313204",
+  "status": "PLAYED",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Voice Notes/202502/PTT-20250108-WA0000.opus"
+  },
+  "messageSecret": "rrmndTffIWOK2VsEfiDu/h5tM5Us8oYefGPpT9pZ7TA=",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAJI40QSMl/jBALXK9fdYVo="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 3 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": true,
+    "id": "9B7EDF8EA6CBD68D174EA50689B644F3"
+  },
+  "message": {
+    "conversation": "Dale hermano",
+    "messageContextInfo": {
+      "messageSecret": "R+MUVOFUcN2IbL8Au9ikLjP31a92/oTXryr+9Uj+6Qo="
+    }
+  },
+  "messageTimestamp": "1736309554",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "51918855503@s.whatsapp.net",
+      "receiptTimestamp": "1736309559",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "R+MUVOFUcN2IbL8Au9ikLjP31a92/oTXryr+9Uj+6Qo="
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 4 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": false,
+    "id": "89AE037BD1B8B39F8253EFE673632722"
+  },
+  "message": {
+    "conversation": "Esperar entonces cuando me paguen en el trabajo cdt más tarde trabajo. Estamos en contacto 🤙🏻"
+  },
+  "messageTimestamp": "1736309090",
+  "messageSecret": "n1qdXm+3t5B4S2h+C+s4cd07dF/eyf4YbihuCanYOF4=",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAJts+ot2mTjBALb68FRjE4="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 5 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": true,
+    "id": "980792C0950A3DC484001281A89C79AD"
+  },
+  "message": {
+    "conversation": "Si",
+    "messageContextInfo": {
+      "messageSecret": "CS4m2C0FIWJyiR2spqpgV8eqpnkLsAFv5MDxR76NjeE="
+    }
+  },
+  "messageTimestamp": "1736308991",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "51918855503@s.whatsapp.net",
+      "receiptTimestamp": "1736308991",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ],
+  "messageSecret": "CS4m2C0FIWJyiR2spqpgV8eqpnkLsAFv5MDxR76NjeE="
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 6 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": false,
+    "id": "AD14D14E344CE668E8C654242F747D84"
+  },
+  "message": {
+    "imageMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7118-24/56154279_964215382300974_5116831256517285482_n.enc?ccb=11-4&oh=01_Q5AaILuHDTOEV5YvLhslZoHXvSKmReywjFKFatoecgGMv4VB&oe=67A553C9&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "image/jpeg",
+      "caption": "Espero que no me falles, Mira ya tengo más deudas y debo a varias personas también al banco y si es verdad con las ganancias tengo buenos contactos en el trabajo y en un gym cuando termine de operarme mi pierna izquierda mientras me recupere esta plataforma de Paysup se ira para arriba solo queda confiar en ti, estamos en contacto 🤙🏻 voy a descansar más tarde trabajo. Eso me emociono que recibiré pagos me dijo por Binance y yape, ahora me dice que solo faltan 35 dolares y que solo por Binance recibiré 🤷🏻‍♂️solo espero con una sonrisa que sea mi último pago, me das tu palabra cdt.",
+      "fileSha256": "wE0nwxO1B0YQXbv75SGhBWlkd+TcYcTd767tzpbLc8o=",
+      "fileLength": "138361",
+      "height": 1491,
+      "width": 1080,
+      "mediaKey": "Ea+sB5ln9UpgI1fggPbFBkURhBiGFSKg64Fb0h7akAQ=",
+      "fileEncSha256": "/dZPLg/TYTQHE6iT3/VHQv+GM1hOQcKUGaXX2RZP9lg=",
+      "directPath": "/v/t62.7118-24/56154279_964215382300974_5116831256517285482_n.enc?ccb=11-4&oh=01_Q5AaILuHDTOEV5YvLhslZoHXvSKmReywjFKFatoecgGMv4VB&oe=67A553C9&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1736308733",
+      "scansSidecar": "PTTDFE8nAZx1lSHtwY/BvrxdLjK/pSWVFA0pUbMeoBnoiLIVK4SPvA==",
+      "scanLengths": [
+        14175,
+        70307,
+        24901,
+        28978
+      ],
+      "midQualityFileSha256": "0tQHEuaqUHqO0q1hjiMuC4Cm+w2CPn7UzcCTW9C6PBM="
+    }
+  },
+  "messageTimestamp": "1736308734",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Images/IMG-20250107-WA0002.jpg"
+  },
+  "messageSecret": "Hx4hH73sYzQQCuhl4hBRH0oN30fjEfAdxJfKxcGMqFs=",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAKNgzChFErjBAIvmUup4+8="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 7 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": true,
+    "id": "21BC2388D6C04978D259CCBF398AE878"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "No va pasar eso",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "FFE7F9F077A50D6CDC731C808B4DBA67",
+        "participant": "51918855503@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "No quiero que me salgas con la excusa de que tu Billetera de Binance no puede recibir esa cantidad de dinero 💵 eso si me dolería 💔que gaste tanto dinero para esa respuesta 🤷🏻‍♂️ 🙄"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1736296015",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "51918855503@s.whatsapp.net",
+      "receiptTimestamp": "1736296016",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 8 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": false,
+    "id": "FFE7F9F077A50D6CDC731C808B4DBA67"
+  },
+  "message": {
+    "conversation": "No quiero que me salgas con la excusa de que tu Billetera de Binance no puede recibir esa cantidad de dinero 💵 eso si me dolería 💔que gaste tanto dinero para esa respuesta 🤷🏻‍♂️ 🙄"
+  },
+  "messageTimestamp": "1736294344",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAKXfPhohUrjBAIo7KzC3RU="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 9 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": true,
+    "id": "F9E2C5200A762ACEBF462CE97A919018"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "Ok",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3EB06C0C0E574BFBF18007",
+        "participant": "51918855503@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "este es mi biannce hermano!!!"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1736293725",
+  "status": "DELIVERY_ACK",
+  "messageC2STimestamp": "1736293726",
+  "userReceipt": [
+    {
+      "userJid": "51918855503@s.whatsapp.net",
+      "receiptTimestamp": "1736293726",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 10 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB06C0C0E574BFBF18007"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "este es mi biannce hermano!!!",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "2C9FED61C0B2C94B04DD97A63099C485",
+        "participant": "584263217534@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Mi Binance TVshRKFc9LN29JLrn9LaufiTzEzVQKsDrK"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1736293024",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBALSOLvCW5bjBAIUXBLR8Ak="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 11 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB01D3FBA18CCC6525B3F"
+  },
+  "message": {
+    "conversation": "confio en ti."
+  },
+  "messageTimestamp": "1736292851",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAKq+1s3QezjBAJoPErQe1Y="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 12 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB0FACC2941C3E1C19471"
+  },
+  "message": {
+    "conversation": "primero pagar todas mis deudas porfavor!!!"
+  },
+  "messageTimestamp": "1736292328",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAKl1VcXo6zjBALGdYmH7hQ="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 13 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "50763092260@s.whatsapp.net",
+    "fromMe": false,
+    "id": "EDAE703661B71B8D1D62D5DD941485B5"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "Que hora tienes haya? Sería en tu mañana o en la mía que eso nos confunde",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "607A83C9E57F82573A840177711F2349",
+        "participant": "584263217534@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Necesito que este pendiente mañana"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1736291702",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAKC9ZUBSybjBAL8lwJje+s="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 14 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "50763092260@s.whatsapp.net",
+    "fromMe": false,
+    "id": "90E147B470313B8889F7345F1669CB39"
+  },
+  "message": {
+    "conversation": "Pues estaba en el chat que lo encontré hay"
+  },
+  "messageTimestamp": "1736291631",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAIEf8zw1rHjBALlnZnXDmE="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 15 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "50763092260@s.whatsapp.net",
+    "fromMe": false,
+    "id": "29C3476A1DA34B5671900AA69EEC9544"
+  },
+  "message": {
+    "imageMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7118-24/19242238_28022424214070046_1474636216331066549_n.enc?ccb=11-4&oh=01_Q5AaIBZsav5qlyrXoF0mqTCQwB7lDs_AUA1Qkd3YGmrLn6v2&oe=67A51BC5&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "image/jpeg",
+      "fileSha256": "/K8nVta+Xt02+FOQTb1+wG3wlof77j26sHH4yy09/+Q=",
+      "fileLength": "76805",
+      "height": 1280,
+      "width": 940,
+      "mediaKey": "CXD4wmlEqG49Vs04GWJ6b5zb0HL6k6W87LVvp2mWKV0=",
+      "fileEncSha256": "RsDE6YUKMHvfk/762uxyoXSRiWIHsnuMYkw9gtRoMN4=",
+      "directPath": "/v/t62.7118-24/19242238_28022424214070046_1474636216331066549_n.enc?ccb=11-4&oh=01_Q5AaIBZsav5qlyrXoF0mqTCQwB7lDs_AUA1Qkd3YGmrLn6v2&oe=67A51BC5&_nc_sid=5e03e0&_nc_hot=1736291610",
+      "mediaKeyTimestamp": "1736291604"
+    }
+  },
+  "messageTimestamp": "1736291610",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Images/IMG-20250107-WA0001.jpg"
+  },
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAI7RkzK0WHjBAIHCiw2sRQ="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 16 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "50763092260@s.whatsapp.net",
+    "fromMe": false,
+    "id": "BE6D4E6F4B42A1248EB2F68BFAC5A296"
+  },
+  "message": {
+    "conversation": "No es ese?"
+  },
+  "messageTimestamp": "1736291608",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAK+ONXnntDjBAJHklPxMOc="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 17 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "50763092260@s.whatsapp.net",
+    "fromMe": false,
+    "id": "4D3E8F58E3CB2D0FBAB6B8817A0C5987"
+  },
+  "message": {
+    "conversation": "El papel del préstamo ese?"
+  },
+  "messageTimestamp": "1736291581",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAJGP5hvwv3jBAKem3v1lF0="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 18 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": true,
+    "id": "B7C5F3A7FEB28F64ED20782DA25DD88A"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "Ya todo esta listo ✅",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "295DD8BA923DF850B3CDA7D744CA9C8B",
+        "participant": "51918855503@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Y no me salgas con más excusas que faltan estas cosas y esto también por favor 🙏🏻"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1736291369",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "51918855503@s.whatsapp.net",
+      "receiptTimestamp": "1736291369",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 19 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": true,
+    "id": "95597A064FD663B095543A2683F72D15"
+  },
+  "message": {
+    "conversation": "Si hermano"
+  },
+  "messageTimestamp": "1736291356",
+  "status": "DELIVERY_ACK",
+  "messageC2STimestamp": "1736291357",
+  "userReceipt": [
+    {
+      "userJid": "51918855503@s.whatsapp.net",
+      "receiptTimestamp": "1736291357",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 20 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "50763092260@s.whatsapp.net",
+    "fromMe": true,
+    "id": "9BAE047420F813F838462AEBE35E49D1"
+  },
+  "message": {
+    "conversation": "Necesito que me haga llegar el papel que te hice"
+  },
+  "messageTimestamp": "1736291340",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "50763092260@s.whatsapp.net",
+      "receiptTimestamp": "1736291343",
+      "readTimestamp": "1736291564",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 21 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "50763092260@s.whatsapp.net",
+    "fromMe": true,
+    "id": "126185DE281159EF674BE6345CF10E21"
+  },
+  "message": {
+    "conversation": "Enviaré documentos"
+  },
+  "messageTimestamp": "1736291302",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "50763092260@s.whatsapp.net",
+      "receiptTimestamp": "1736291302",
+      "readTimestamp": "1736291564",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 22 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "50763092260@s.whatsapp.net",
+    "fromMe": true,
+    "id": "607A83C9E57F82573A840177711F2349"
+  },
+  "message": {
+    "conversation": "Necesito que este pendiente mañana"
+  },
+  "messageTimestamp": "1736291292",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "50763092260@s.whatsapp.net",
+      "receiptTimestamp": "1736291293",
+      "readTimestamp": "1736291564",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 23 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "50763092260@s.whatsapp.net",
+    "fromMe": true,
+    "id": "B8A69E39969FE7F62DE160EF32B96239"
+  },
+  "message": {
+    "conversation": "Procedo"
+  },
+  "messageTimestamp": "1736291282",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "50763092260@s.whatsapp.net",
+      "receiptTimestamp": "1736291283",
+      "readTimestamp": "1736291564",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 24 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "50763092260@s.whatsapp.net",
+    "fromMe": true,
+    "id": "87D53A5A04D6A7FFF56C0D4FFC8243AF"
+  },
+  "message": {
+    "conversation": "Señora Angela"
+  },
+  "messageTimestamp": "1736291278",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "50763092260@s.whatsapp.net",
+      "receiptTimestamp": "1736291280",
+      "readTimestamp": "1736291564",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 25 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "584241278885@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB073A16F50E6DC414801"
+  },
+  "message": {
+    "imageMessage": {
+      "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f2/m269/AQNQYK_bvIepcXqEfmpsF5_LuSuyzKpXkxMRHbzep0k0fTUA4Nuasr7AnUM6PNBKWx94XG96r18jVfc695j6t2d6kUPIZ_zCQFn9A5FIHw?ccb=9-4&oh=01_Q5AaIEGUFsehnSBn2COTp_qp3tT5SsvO7Bz0AiQyAT7Xs0fv&oe=67A4FB9D&_nc_sid=e6ed6c&mms3=true",
+      "mimetype": "image/jpeg",
+      "caption": "hola como estas",
+      "fileSha256": "bn+bzY882Y1I46XfuIa/VkSdsyN+2yzi9f9FpVu2hNI=",
+      "fileLength": "23477",
+      "height": 450,
+      "width": 450,
+      "mediaKey": "9UySBHxfkTUbxQ0R45QV/8pXTt5Jg8+ISJPFYK+YrAU=",
+      "fileEncSha256": "+M3herBqXfVy60496k/c33XF/WODeZ1CFYOdmkeH414=",
+      "directPath": "/o1/v/t62.7118-24/f2/m269/AQNQYK_bvIepcXqEfmpsF5_LuSuyzKpXkxMRHbzep0k0fTUA4Nuasr7AnUM6PNBKWx94XG96r18jVfc695j6t2d6kUPIZ_zCQFn9A5FIHw?ccb=9-4&oh=01_Q5AaIEGUFsehnSBn2COTp_qp3tT5SsvO7Bz0AiQyAT7Xs0fv&oe=67A4FB9D&_nc_sid=e6ed6c",
+      "mediaKeyTimestamp": "1736284491"
+    }
+  },
+  "messageTimestamp": "1736284493",
+  "status": "READ",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Images/Sent/IMG-20250107-WA0000.jpg"
+  },
+  "userReceipt": [
+    {
+      "userJid": "584241278885@s.whatsapp.net",
+      "receiptTimestamp": "1736284493",
+      "readTimestamp": "1736284493",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 26 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "584241278885@s.whatsapp.net",
+    "fromMe": false,
+    "id": "CA6A4F772A5E9154A39195F71B693D13"
+  },
+  "message": {
+    "conversation": "2"
+  },
+  "messageTimestamp": "1736284475",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAJkdVExwULjBAJd2SEcA3w="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 27 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "584241278885@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0239D613283259F6889"
+  },
+  "message": {
+    "imageMessage": {
+      "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f2/m234/AQNkx-kOfxjRHVjC9UvCG40uZWmd7eTKABpl7OwvepWcJqG15_ouubwmv1aiqzsYkBq0y3JtFoqPRqsVz-3g6GfuuNzh1sDTb9AJohIVxw?ccb=9-4&oh=01_Q5AaIFP9wHs5TxBdp-Siw7C-Du11lbufAVs3ky9QeZlIRTE2&oe=67A51955&_nc_sid=e6ed6c&mms3=true",
+      "mimetype": "image/jpeg",
+      "caption": "hola como estas",
+      "fileSha256": "bn+bzY882Y1I46XfuIa/VkSdsyN+2yzi9f9FpVu2hNI=",
+      "fileLength": "23477",
+      "height": 450,
+      "width": 450,
+      "mediaKey": "cS9QWc3r0iznA39Ass59TRT5Gj8IZ1YXpMPgo50XAio=",
+      "fileEncSha256": "Egu70inpoNwTNNdxN1PfCuROTAsguehPui646cif4yM=",
+      "directPath": "/o1/v/t62.7118-24/f2/m234/AQNkx-kOfxjRHVjC9UvCG40uZWmd7eTKABpl7OwvepWcJqG15_ouubwmv1aiqzsYkBq0y3JtFoqPRqsVz-3g6GfuuNzh1sDTb9AJohIVxw?ccb=9-4&oh=01_Q5AaIFP9wHs5TxBdp-Siw7C-Du11lbufAVs3ky9QeZlIRTE2&oe=67A51955&_nc_sid=e6ed6c",
+      "mediaKeyTimestamp": "1736284467"
+    }
+  },
+  "messageTimestamp": "1736284468",
+  "status": "READ",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Images/Sent/IMG-20250107-WA0000.jpg"
+  },
+  "userReceipt": [
+    {
+      "userJid": "584241278885@s.whatsapp.net",
+      "receiptTimestamp": "1736284468",
+      "readTimestamp": "1736284471",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 28 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "584241278885@s.whatsapp.net",
+    "fromMe": false,
+    "id": "AF7DAFB253DD64FAED9037512192751D"
+  },
+  "message": {
+    "conversation": "1"
+  },
+  "messageTimestamp": "1736284450",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAKTLigZ667jBALh+4fKEmA="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 29 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "584241278885@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB004CDA367112C5FD8B3"
+  },
+  "message": {
+    "conversation": "este es un chatbot de whatsapp  con lista de mensajes interativas"
+  },
+  "messageTimestamp": "1736284433",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "584241278885@s.whatsapp.net",
+      "receiptTimestamp": "1736284434",
+      "readTimestamp": "1736284448",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 30 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "584241278885@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB00CCE2CCA44A8D613AF"
+  },
+  "message": {
+    "conversation": "este es un chatbot de whatsapp  con lista de mensajes interativas"
+  },
+  "messageTimestamp": "1736284416",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "584241278885@s.whatsapp.net",
+      "receiptTimestamp": "1736284416",
+      "readTimestamp": "1736284417",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 31 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "584241278885@s.whatsapp.net",
+    "fromMe": false,
+    "id": "1DC3A62CE7839FAAA7B4ADE5A9CE659A"
+  },
+  "message": {
+    "conversation": "2"
+  },
+  "messageTimestamp": "1736284412",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBALbzf2g0ArjBAIPj6Fct2Q="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 32 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "584241278885@s.whatsapp.net",
+    "fromMe": false,
+    "id": "EBF634235205A6AD04F0D21FDD071E08"
+  },
+  "message": {
+    "conversation": "1"
+  },
+  "messageTimestamp": "1736284394",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAJqdoI7qJbjBAK4jaV2yJg="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 33 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": false,
+    "id": "5B924DA116695188EEFE22A00E46D2B7"
+  },
+  "message": {
+    "conversation": "Estamos en contacto 🤙🏻 Bendiciones 😇 🙏🏻"
+  },
+  "messageTimestamp": "1736283677",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAJkmY6nO5DjBAIQZzFBZO8="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 34 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": false,
+    "id": "295DD8BA923DF850B3CDA7D744CA9C8B"
+  },
+  "message": {
+    "conversation": "Y no me salgas con más excusas que faltan estas cosas y esto también por favor 🙏🏻"
+  },
+  "messageTimestamp": "1736283668",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAKfVAQE8o3jBAIwKjWwRt4="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 35 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": false,
+    "id": "850A8A3D4E1E68D2FB66A5579184F08E"
+  },
+  "message": {
+    "conversation": "Igualmente las cosas claras, solo espero que esta vez no me falles 😕"
+  },
+  "messageTimestamp": "1736283619",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBALhyKkqUNTjBAKk9AIz+7k="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 36 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": true,
+    "id": "8B25E4D6B35EF00859EBADFC8D8AF5D6"
+  },
+  "message": {
+    "conversation": "Quedamos asi hermano éxcelente dia"
+  },
+  "messageTimestamp": "1736283594",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "51918855503@s.whatsapp.net",
+      "receiptTimestamp": "1736283594",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 37 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": true,
+    "id": "67D18B2503091AC63F9883E1D68EFCFA"
+  },
+  "message": {
+    "conversation": "Necesito tus datos de binance para confirmar ese dia"
+  },
+  "messageTimestamp": "1736283576",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "51918855503@s.whatsapp.net",
+      "receiptTimestamp": "1736283576",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 38 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": false,
+    "id": "838012AFE22748B8BC0FA86B2A888535"
+  },
+  "message": {
+    "conversation": "Claro quincena es todo"
+  },
+  "messageTimestamp": "1736283565",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAK836jpeQjjBALB/CAGn1k="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 39 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": true,
+    "id": "F4FE41A16A3E47B04305BCA1196C9E1D"
+  },
+  "message": {
+    "conversation": "Bueno hermano me avisas cuando tengas los 35$ antes del 24 ya que es el retiro"
+  },
+  "messageTimestamp": "1736283547",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "51918855503@s.whatsapp.net",
+      "receiptTimestamp": "1736283548",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 40 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": false,
+    "id": "DD5BE62F5085824AC34E1E95CCC898D9"
+  },
+  "message": {
+    "conversation": "Hacer crecer la plataforma Paysup 🫶🏻"
+  },
+  "messageTimestamp": "1736283532",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAIxrTgJe3LjBALQl8xb7ZA="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 41 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": false,
+    "id": "22C3A98D2E8F4C340CB717BD6D3E23BE"
+  },
+  "message": {
+    "conversation": "Claro esa es la idea hermano ❣️"
+  },
+  "messageTimestamp": "1736283512",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAInTe/q5SvjBAJE7Gln6Fc="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 42 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": true,
+    "id": "7DE15280B4E6426C2C04B352B9E93CB8"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "Al recibir esas ganancias altas y veer varios que te operaste con esto entraran contigo",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "C3DA606F6DFB1EE2BFE658CF2C169D57",
+        "participant": "51918855503@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Para que varios se interesen"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1736283492",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "51918855503@s.whatsapp.net",
+      "receiptTimestamp": "1736283493",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 43 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": true,
+    "id": "66503EA9CF7B80EAE42D02C9CAB8B34D"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "Así sera",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "69475FD85EE4164F960E15FD65D4F633",
+        "participant": "51918855503@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "El logo y darle gracias a la plataforma Paysup"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1736283451",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "51918855503@s.whatsapp.net",
+      "receiptTimestamp": "1736283451",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 44 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": false,
+    "id": "0047EBC8689F00F3BE8732A12ED8039F"
+  },
+  "message": {
+    "conversation": "Quincena que me paguen esa fecha pagaré"
+  },
+  "messageTimestamp": "1736283449",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBALPBmUtFmnjBAIVtTwyOCE="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 45 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": true,
+    "id": "B10EC663AC60C9229F9BEDA3099B3161"
+  },
+  "message": {
+    "conversation": "Por eso pase el mensaje"
+  },
+  "messageTimestamp": "1736283426",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "51918855503@s.whatsapp.net",
+      "receiptTimestamp": "1736283426",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 46 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": false,
+    "id": "C3DA606F6DFB1EE2BFE658CF2C169D57"
+  },
+  "message": {
+    "conversation": "Para que varios se interesen"
+  },
+  "messageTimestamp": "1736283424",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAIuEI1m4y7jBALRNlhbKJU="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 47 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": true,
+    "id": "E6FD47CAFE4527B8B7304D8576C95FDC"
+  },
+  "message": {
+    "conversation": "Si pero se necesita los 35$ de tu plataforma nueva cuando puedas bro"
+  },
+  "messageTimestamp": "1736283416",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "51918855503@s.whatsapp.net",
+      "receiptTimestamp": "1736283416",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 48 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": false,
+    "id": "69475FD85EE4164F960E15FD65D4F633"
+  },
+  "message": {
+    "conversation": "El logo y darle gracias a la plataforma Paysup"
+  },
+  "messageTimestamp": "1736283410",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAIfNFE4dx3jBALjVPBNyww="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 49 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": false,
+    "id": "A40AD4BAE951CE9B883884ADC8B54B83"
+  },
+  "message": {
+    "conversation": "Cierto necesitaré el logo por cada operación agregarle a mi foto"
+  },
+  "messageTimestamp": "1736283395",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAIy63835jnjBALEGJmobpU="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 50 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": false,
+    "id": "30AC1E1AE70B69D8FA7F54E140A51499"
+  },
+  "message": {
+    "conversation": "Para el 24 estaré recibiendo por fin lo que me toca"
+  },
+  "messageTimestamp": "1736283366",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAKPsgpFWf/jBAKtDEyt8u8="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 51 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": true,
+    "id": "2D01AA6896C700159DC4A0FC4647633A"
+  },
+  "message": {
+    "conversation": "Este mes estamos cerrando los retiros"
+  },
+  "messageTimestamp": "1736283336",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "51918855503@s.whatsapp.net",
+      "receiptTimestamp": "1736283337",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 52 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": true,
+    "id": "E5FBE02B21472B3EEAE360753545FB9B"
+  },
+  "message": {
+    "conversation": "Y por ahí será tus ganancias también por binance"
+  },
+  "messageTimestamp": "1736283318",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "51918855503@s.whatsapp.net",
+      "receiptTimestamp": "1736283318",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 53 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": false,
+    "id": "5F4D005990AF13BE4516512E5ABDE5E9"
+  },
+  "message": {
+    "conversation": "Si ya se que por Binance tengo que enviar los 35 dolares"
+  },
+  "messageTimestamp": "1736283299",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAKNF9ztkwjjBAIDBfVSZYk="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 54 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": true,
+    "id": "4B055C18E5B686199DFB05A60A049D3F"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "Binance",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "034D39C49D0A5243297FCD5279FDC9A8",
+        "participant": "51918855503@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Por donde voy a recibir mis ganancias 🤷🏻‍♂️"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1736283284",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "51918855503@s.whatsapp.net",
+      "receiptTimestamp": "1736283285",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 55 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": true,
+    "id": "15F6993407903F9BBD0B6315EC82A63C"
+  },
+  "message": {
+    "conversation": "Y por ahí enviaremos lo que te pertenece"
+  },
+  "messageTimestamp": "1736283280",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "51918855503@s.whatsapp.net",
+      "receiptTimestamp": "1736283280",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 56 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": false,
+    "id": "034D39C49D0A5243297FCD5279FDC9A8"
+  },
+  "message": {
+    "conversation": "Por donde voy a recibir mis ganancias 🤷🏻‍♂️"
+  },
+  "messageTimestamp": "1736283273",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAI9xCupwc3jBAIh58S1bJw="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 57 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": true,
+    "id": "06B34B01D9CBA3EDB638E15D9D7BE186"
+  },
+  "message": {
+    "conversation": "Por binance"
+  },
+  "messageTimestamp": "1736283262",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "51918855503@s.whatsapp.net",
+      "receiptTimestamp": "1736283262",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 58 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": true,
+    "id": "062A23384D6888F21661805392C0D7BF"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "Los 35$ es en usdt",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "FD9A46E65F6E9B8CF2DE0D7527AC3729",
+        "participant": "51918855503@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Por Binance y yape no 🤷🏻‍♂️"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1736283257",
+  "status": "DELIVERY_ACK",
+  "messageC2STimestamp": "1736283258",
+  "userReceipt": [
+    {
+      "userJid": "51918855503@s.whatsapp.net",
+      "receiptTimestamp": "1736283258",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 59 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": false,
+    "id": "BC1A1C4D6A441E894731656E0D9D87FB"
+  },
+  "message": {
+    "conversation": "Claro que si hermano eso no lo dudes"
+  },
+  "messageTimestamp": "1736283256",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAK5y/2E6EXjBAIr/vwnGik="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 60 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": false,
+    "id": "432E5E2E895FCB93BF0D42BDAD8BF0DD"
+  },
+  "message": {
+    "conversation": "Rodilla izquierda y tibia y peroné izquierdo"
+  },
+  "messageTimestamp": "1736283243",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBALkHaqinvbjBAJb+B9WwnI="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 61 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": true,
+    "id": "828724FB251C24F9CB14A5FF56EDCDC1"
+  },
+  "message": {
+    "conversation": "Depues necesitaré tu testimonio de lo que hiciste con nosotros"
+  },
+  "messageTimestamp": "1736283236",
+  "status": "DELIVERY_ACK",
+  "messageC2STimestamp": "1736283237",
+  "userReceipt": [
+    {
+      "userJid": "51918855503@s.whatsapp.net",
+      "receiptTimestamp": "1736283237",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 62 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": false,
+    "id": "6CC1197FFA86035291AB3972EA5952C3"
+  },
+  "message": {
+    "conversation": "Claro que si tengo 2 operaciones que me esperan"
+  },
+  "messageTimestamp": "1736283217",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAIuFc/Pny/jBAIoJAsnre4="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 63 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": true,
+    "id": "29763DEBDDB675678FA38E11D9A36EA0"
+  },
+  "message": {
+    "conversation": "Te vas operar"
+  },
+  "messageTimestamp": "1736283198",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "51918855503@s.whatsapp.net",
+      "receiptTimestamp": "1736283198",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 64 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": false,
+    "id": "FD9A46E65F6E9B8CF2DE0D7527AC3729"
+  },
+  "message": {
+    "conversation": "Por Binance y yape no 🤷🏻‍♂️"
+  },
+  "messageTimestamp": "1736283197",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAJCqd4O237jBAIWRwD/8bw="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 65 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": false,
+    "id": "FF8D7C77FC8C5831B59BA082304C8092"
+  },
+  "message": {
+    "conversation": "Listo cuando me paguen en el trabajo cancelare, solo no me falles hermano quiero operarme pronto y dejar de recibir humillaciones y golpearlos con mi éxito masivo hermano ❣️ 😉"
+  },
+  "messageTimestamp": "1736283180",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAL5HbeWFejjBALBimOOwI4="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 66 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": true,
+    "id": "8E8BF90ADDB784689037D7790B498A80"
+  },
+  "message": {
+    "conversation": "Este mes recibirás lo que te pertenece"
+  },
+  "messageTimestamp": "1736283138",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "51918855503@s.whatsapp.net",
+      "receiptTimestamp": "1736283139",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 67 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": true,
+    "id": "F22401D891A7012A24E1EA8FA45F96B1"
+  },
+  "message": {
+    "conversation": "Hemos mandado hacer una nueva plataforma"
+  },
+  "messageTimestamp": "1736283124",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "51918855503@s.whatsapp.net",
+      "receiptTimestamp": "1736283124",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 68 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": true,
+    "id": "4FDD947AF2CE4C82AF756C732E7768D3"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "Es de la plataforma nueva que tendras",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "070A4685EE9027029017DAB4CAA83FA4",
+        "participant": "51918855503@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Por fin esos 35 serán mi último pago 🤷🏻‍♂️"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1736283098",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "51918855503@s.whatsapp.net",
+      "receiptTimestamp": "1736283099",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 69 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": false,
+    "id": "6660532EC40211BFB9D20524092821AC"
+  },
+  "message": {
+    "conversation": "No 🤷🏻‍♂️"
+  },
+  "messageTimestamp": "1736283082",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAKbHSE559bjBAKdjb8XOc4="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 70 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": false,
+    "id": "070A4685EE9027029017DAB4CAA83FA4"
+  },
+  "message": {
+    "conversation": "Por fin esos 35 serán mi último pago 🤷🏻‍♂️"
+  },
+  "messageTimestamp": "1736283076",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAIge6+oBHnjBALdTKJSq98="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 71 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": false,
+    "id": "8B7ADECEBF045EE411EDAC7B8C22BA83"
+  },
+  "message": {
+    "conversation": "Entonces tengo que pagar 🤷🏻‍♂️"
+  },
+  "messageTimestamp": "1736283012",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAKlD7S0ZKLjBAImWFZz/L8="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 72 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "584241278885@s.whatsapp.net",
+    "fromMe": true,
+    "id": "58772692FE56DB5F9B4C5F393E81DFEB"
+  },
+  "message": {
+    "conversation": "Entendemos que esta es la última etapa del proceso y que ya contamos con toda la información necesaria.\n\nAgradecemos su comprensión y colaboración."
+  },
+  "messageTimestamp": "1736280442",
+  "status": "READ",
+  "messageC2STimestamp": "1736280443",
+  "userReceipt": [
+    {
+      "userJid": "584241278885@s.whatsapp.net",
+      "receiptTimestamp": "1736280443",
+      "readTimestamp": "1736280461",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 73 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "584241278885@s.whatsapp.net",
+    "fromMe": true,
+    "id": "D46B015AFF3E743A913ADBA4CB46F83D"
+  },
+  "message": {
+    "conversation": "Estimado Moisés,\n\nLe informamos que, de acuerdo con nuestro desarrollador, es necesario adquirir un certificado de seguridad (valor: 57 USD) para finalizar la configuración del servidor y proceder con la liberación de su retiro."
+  },
+  "messageTimestamp": "1736280427",
+  "status": "READ",
+  "messageC2STimestamp": "1736280428",
+  "userReceipt": [
+    {
+      "userJid": "584241278885@s.whatsapp.net",
+      "receiptTimestamp": "1736280428",
+      "readTimestamp": "1736280461",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 74 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "584241278885@s.whatsapp.net",
+    "fromMe": false,
+    "id": "B182EE858F0A166AA6E52163B9099B9D"
+  },
+  "message": {
+    "conversation": "Que paso con la cuenta de alesilla"
+  },
+  "messageTimestamp": "1736280412",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAIHFqEg5gzjBAK2ATNcm+Q="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 75 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "584241278885@s.whatsapp.net",
+    "fromMe": true,
+    "id": "461C74B2A413BDFC3EB881CBB63F5A4E"
+  },
+  "message": {
+    "conversation": "Moisés"
+  },
+  "messageTimestamp": "1736280384",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "584241278885@s.whatsapp.net",
+      "receiptTimestamp": "1736280384",
+      "readTimestamp": "1736280398",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 76 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": true,
+    "id": "6BD025221CEF9103F6AB636F1C3A88BF"
+  },
+  "message": {
+    "conversation": "Agradecemos su pronta atención a este comunicado y los invitamos a realizar el pago lo antes posible para no interrumpir su experiencia en Paysup"
+  },
+  "messageTimestamp": "1736259534",
+  "status": "DELIVERY_ACK",
+  "messageC2STimestamp": "1736259537",
+  "userReceipt": [
+    {
+      "userJid": "51918855503@s.whatsapp.net",
+      "receiptTimestamp": "1736281868",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 77 de 77
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "51918855503@s.whatsapp.net",
+    "fromMe": true,
+    "id": "F6E931A8C7851DAA094D6FA855DF840F"
+  },
+  "message": {
+    "conversation": "Estimados usuarios de Paysup,\n\nLes informamos que a partir del 24 de enero se implementará una nueva tarifa de suscripción a nuestra plataforma, con un valor de 35 dólares estadounidenses. Este pago es un requisito indispensable para continuar accediendo a todas las funcionalidades y poder realizar retiros de sus ganancias."
+  },
+  "messageTimestamp": "1736259524",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "51918855503@s.whatsapp.net",
+      "receiptTimestamp": "1736281868",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 

@@ -1,0 +1,118 @@
+/* General root style for the login container */
+.root-login {
+  display: flex;
+  height: 100vh;
+}
+
+/* Login container styles */
+.container-login {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 50%;
+  padding: 32px;
+}
+
+/* Image container for the login page */
+.container-img-login {
+  width: 50%;
+  background-image: url('../../assets/backgroundStep.png');
+  background-size: cover;
+  background-position: center;
+}
+
+/* Login form styling */
+.form-login {
+  width: 100%;
+  max-width: 500px;
+  margin-top: 24px;
+}
+
+/* Submit button styles */
+.submit-login {
+  margin: 24px 0 16px;
+  background-color: #3489ff;
+  color: #fff;
+  border-radius: 30px;
+  padding: 15px;
+  font-weight: bold;
+}
+
+.submit-login:hover {
+  background-color: #285ec9;
+}
+
+/* Logo styling for the header */
+.logo-login {
+  width: 150px;
+  margin-bottom: 16px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Footer styling */
+.container-footer {
+  text-align: center;
+}
+
+.footer .p {
+  font-size: 14px;
+  color: #666;
+}
+
+.footer a {
+  color: #3489ff;
+  text-decoration: none;
+}
+
+/* Image login styling */
+.img-login {
+  background-image: url('../../assets/backgroundStep.png');
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: fixed;
+  width: 700px;
+  height: 100vh;
+  object-fit: cover;
+}
+
+/* Link styles for the login link */
+.link-login {
+  color: #3489ff;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.link-login:hover {
+  text-decoration: underline;
+}
+
+/* Mobile Responsive Adjustments */
+@media (max-width: 768px) {
+  .root-login {
+    flex-direction: column;
+  }
+
+  .container-login, .container-img-login {
+    width: 100%;
+  }
+
+  .img-login {
+    display: none;
+  }
+
+  .container-login {
+    padding: 16px;
+  }
+
+  .form-login {
+    max-width: 100%;
+  }
+
+  .logo-login {
+    width: 100px;
+  }
+}

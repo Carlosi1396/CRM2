@@ -1,0 +1,103 @@
+Aguardando conexão para iniciar a importação de mensagens:
+    Whatsapp nome: Linocards
+    Whatsapp Id: 13
+    Criação do arquivo de logs: 23/12/2024 17:51:34
+    Selecionado Data de inicio de importação: 22/12/2024 14:49:00 
+    Selecionado Data final da importação: 23/12/2024 14:48:00 
+     
+
+Mensagem 1 de 3
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "120363168376689117@g.us",
+    "fromMe": false,
+    "id": "3EB0B5B5FE86D655BD06B6"
+  },
+  "message": {
+    "conversation": "🛑 Varios avisos importantes 👆",
+    "messageContextInfo": {
+      "messageSecret": "m3/9njwkyfigH4z5AhOrHb6AQnCFMUF65nlvm8fLFQs="
+    }
+  },
+  "messageTimestamp": "1734960780",
+  "participant": "34684306616@s.whatsapp.net",
+  "messageSecret": "m3/9njwkyfigH4z5AhOrHb6AQnCFMUF65nlvm8fLFQs=",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAKNPaZtlkvjBAIGU5l4lx0="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 2 de 3
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "120363168376689117@g.us",
+    "fromMe": false,
+    "id": "3EB0F117800B07D828FC4C"
+  },
+  "message": {
+    "audioMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7117-24/19935114_1621393475927899_2709874424489793443_n.enc?ccb=11-4&oh=01_Q5AaIEDn6_SCAeDo_EPaqe1DzRM83NJrBJeEfcqVQil524pU&oe=6790DC5E&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "audio/ogg; codecs=opus",
+      "fileSha256": "h5LJMahCRGVPnJrD0IGFsFm9fTE7qN1I/7KqjqybiKk=",
+      "fileLength": "320540",
+      "seconds": 134,
+      "ptt": false,
+      "mediaKey": "CAj3mdksuqqYm1mcrRp1BVUWpH/eBSpLMucPF8It5lo=",
+      "fileEncSha256": "KDkgYkx5MpVDM6ha2pEuyi5tNvAh5mvVEVTnmBcAW6s=",
+      "directPath": "/v/t62.7117-24/19935114_1621393475927899_2709874424489793443_n.enc?ccb=11-4&oh=01_Q5AaIEDn6_SCAeDo_EPaqe1DzRM83NJrBJeEfcqVQil524pU&oe=6790DC5E&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1734960539",
+      "waveform": "AFxOSE9PACQ5Qi1TJgBIQUdDP2BeRUhRQwwTSzpDUl1GNFJKVgBWTzlWWzdZYitKUEZOWFNFGidUQU1TKypUAA=="
+    },
+    "messageContextInfo": {
+      "messageSecret": "OIIOfhPsSNIcjI0MTCGovIjiZek9OyH1rujxCQzmjQ4="
+    }
+  },
+  "messageTimestamp": "1734960725",
+  "participant": "34684306616@s.whatsapp.net",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Audio/AUD-20241223-WA0001.opus"
+  },
+  "messageSecret": "OIIOfhPsSNIcjI0MTCGovIjiZek9OyH1rujxCQzmjQ4=",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAKhkk8rcETjBALA64Ay1jI="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 3 de 3
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "120363168376689117@g.us",
+    "fromMe": false,
+    "id": "3EB047D6A26C4AA7CD5F35"
+  },
+  "message": {
+    "audioMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7117-24/29707573_1699895123921096_1489176142232132403_n.enc?ccb=11-4&oh=01_Q5AaIJjVAXDuWJOQuNbkU90mD-QFVWvC0XwN4ZAHo_aP6EPW&oe=6790DC2B&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "audio/ogg; codecs=opus",
+      "fileSha256": "F++TYKRL2aR9+1zkjfU56uylUDsONcGOGFLjtzpn2R0=",
+      "fileLength": "701284",
+      "seconds": 295,
+      "ptt": false,
+      "mediaKey": "89vi7KsLFgqbwgCpzJsorotjppcBcgR4/FLelXqGDMg=",
+      "fileEncSha256": "lwhRF3NiBJ4hXv03BCYKnZv1IGq3umssuDT1i0n+Y+Y=",
+      "directPath": "/v/t62.7117-24/29707573_1699895123921096_1489176142232132403_n.enc?ccb=11-4&oh=01_Q5AaIJjVAXDuWJOQuNbkU90mD-QFVWvC0XwN4ZAHo_aP6EPW&oe=6790DC2B&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1734960236",
+      "waveform": "AENETAxTQzlQQE1EYk9CW09CJ0EYTUlEX1xOP11BLgBRLk5XRUItUVFZN1ZOMlAzW1UrVkdVT0RRYUsaIlpgBw=="
+    },
+    "messageContextInfo": {
+      "messageSecret": "LhmXHdcebyuH4EFJk9siA7my8cLtoo06V6Cr8gz6XoY="
+    }
+  },
+  "messageTimestamp": "1734960723",
+  "participant": "34684306616@s.whatsapp.net",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Audio/AUD-20241223-WA0000.opus"
+  },
+  "messageSecret": "LhmXHdcebyuH4EFJk9siA7my8cLtoo06V6Cr8gz6XoY=",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAJqKW4u01/jBAJkHoFuewg="
+  }
+}>>>>>>>>>>>>>>>>>>> 

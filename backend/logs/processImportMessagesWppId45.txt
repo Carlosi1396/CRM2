@@ -1,0 +1,340 @@
+Aguardando conexão para iniciar a importação de mensagens:
+    Whatsapp nome: NEGOCIO
+    Whatsapp Id: 45
+    Criação do arquivo de logs: 12/01/2025 12:05:51
+    Selecionado Data de inicio de importação: 11/01/2025 12:04:00 
+    Selecionado Data final da importação: 12/01/2025 12:03:00 
+     
+
+Mensagem 1 de 16
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "5493794802108@s.whatsapp.net",
+    "fromMe": false,
+    "id": "0B4B07BEA03949EE88769B5F2FC09AAF"
+  },
+  "message": {
+    "conversation": "Buenos días"
+  },
+  "messageTimestamp": "1736694041",
+  "messageSecret": "Cty31TIoigOfBCR12192tlQI7nCYaWnh4dbUc72lt8g=",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAKz3sszh4njBAJkoDYmwSk="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 2 de 16
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "5493794802108@s.whatsapp.net",
+    "fromMe": false,
+    "id": "8C3D04B2B491902ED794BA13A4131467"
+  },
+  "message": {
+    "conversation": "Hola"
+  },
+  "messageTimestamp": "1736694036",
+  "messageSecret": "CUiz/pDGkl1i7D3EJI7UsHCruWSblY77bhVQBKanOKg=",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAL0XRKAkf3jBAJzNquIWOs="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 3 de 16
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "5493794802108@s.whatsapp.net",
+    "fromMe": false,
+    "id": "B5425FBE40D0A2208421B606FE944E3B"
+  },
+  "message": {
+    "conversation": "...."
+  },
+  "messageTimestamp": "1736694029",
+  "messageSecret": "SzBf/0S8WyDiSk6YsiWxw8yc/oYyeHLboQkEpqxPQbg=",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBALhv5gvybrjBAJq+gydd7I="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 4 de 16
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "5493794802108@s.whatsapp.net",
+    "fromMe": false,
+    "id": "08534447303CC484C8DF0139878733E1"
+  },
+  "message": {
+    "conversation": "Quería saber"
+  },
+  "messageTimestamp": "1736693989",
+  "messageSecret": "fA1C0NuVD2/CbNYWg0h4VKV8yqc14H+xNgDUEeLOUwU=",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBALU+KsnV5XjBAIF2qMu1Ds="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 5 de 16
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "5493794802108@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB074C85886E471AE4FEF"
+  },
+  "message": {
+    "conversation": "buenos dias bienvenido a tucasaONLINE"
+  },
+  "messageTimestamp": "1736693911",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "5493794802108@s.whatsapp.net",
+      "receiptTimestamp": "1736693911",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 6 de 16
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "5493794802108@s.whatsapp.net",
+    "fromMe": false,
+    "id": "197D030F8E882F858B8628007072CAD0"
+  },
+  "message": {
+    "conversation": "Hola"
+  },
+  "messageTimestamp": "1736693910",
+  "messageSecret": "D0QxjusPy8OdvCfcqzZx/GQ+4zH1B5L1fKU1l88VzoY=",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAKibPu1zN3jBAJ8Q3hSUpM="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 7 de 16
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "5493794802108@s.whatsapp.net",
+    "fromMe": false,
+    "id": "A9900580357C2DC9A099D949F18459D2"
+  },
+  "message": {
+    "conversation": "Hola"
+  },
+  "messageTimestamp": "1736693245",
+  "messageSecret": "iK4Dg8ty+x1OWM0yrVh6rDH2agAfryf9XRaEmbIeJNY=",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAIRrMAwtHPjBALwBI5WgZ0="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 8 de 16
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "5493794802108@s.whatsapp.net",
+    "fromMe": false,
+    "id": "67A68DD7A8CC6380322995D9B30C6111"
+  },
+  "message": {
+    "conversation": "Hola"
+  },
+  "messageTimestamp": "1736692342",
+  "messageSecret": "6EplhY8BFpUYI6eeGnrxjq7RlscmAG3fIcrMKJy6F6M=",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAK55BL6R3zjBALdlSxfWbE="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 9 de 16
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "5493794802108@s.whatsapp.net",
+    "fromMe": false,
+    "id": "A45564EB4BF180FF6CB520889F4F3AE2"
+  },
+  "message": {
+    "conversation": "Buenos días"
+  },
+  "messageTimestamp": "1736689865",
+  "messageSecret": "1TBy5UMusnm5MUopCE7p8eFmEwMo3AO6IZot34cEEpo=",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAL/YZatvM7jBAJB9vjfxr8="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 10 de 16
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "5493794802108@s.whatsapp.net",
+    "fromMe": false,
+    "id": "43B44E3723336C8E4D210BCACBD93BEB"
+  },
+  "message": {
+    "conversation": "Hola"
+  },
+  "messageTimestamp": "1736689851",
+  "messageSecret": "8f1YlqbYvKC3GsVdNavufdbJcnfjzcr/4NIRxhXruP4=",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAIw/ooEjy3jBALd8eE0OAs="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 11 de 16
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "5493794802108@s.whatsapp.net",
+    "fromMe": false,
+    "id": "5827EE65C33E0EDDE0277E0708FE7FFE"
+  },
+  "message": {
+    "conversation": "Bueno"
+  },
+  "messageTimestamp": "1736689449",
+  "messageSecret": "5vaKfehuWDHA8gEG16XLpYQ4KhaFdZwuPPAY2iO3lEA=",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAKr+UcAGCHjBAK0xzorQYg="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 12 de 16
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "5493794802108@s.whatsapp.net",
+    "fromMe": false,
+    "id": "6CC646DE66BAA65B12B0CB428E3F35BB"
+  },
+  "message": {
+    "conversation": "Hola"
+  },
+  "messageTimestamp": "1736689348",
+  "messageSecret": "Blzex/qVBDoidPYDe5HwnerBlpgIVvWd6ILD8EUexi0=",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAKBxPfgLifjBAKrf8/tppA="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 13 de 16
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "59172454632@s.whatsapp.net",
+    "fromMe": false,
+    "id": "2EC97E74A7F1EB78EFCFC005ED4797BA"
+  },
+  "message": {
+    "conversation": "Si dígame"
+  },
+  "messageTimestamp": "1736684217",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAJ/OsNEm7rjBALtvDi3mrM="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 14 de 16
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "59172454632@s.whatsapp.net",
+    "fromMe": true,
+    "id": "4AF04EA16CAC276F65CE27902EFFC88A"
+  },
+  "message": {
+    "editedMessage": {
+      "message": {
+        "protocolMessage": {
+          "key": {
+            "remoteJid": "59172454632@s.whatsapp.net",
+            "fromMe": true,
+            "id": "22FE84E0B586A273B1DF5BAB6D5500D4"
+          },
+          "type": "MESSAGE_EDIT",
+          "editedMessage": {
+            "conversation": "Tenés un minuto para hablar"
+          },
+          "timestampMs": "1736645476587"
+        }
+      }
+    }
+  },
+  "messageTimestamp": "1736644975",
+  "status": "READ",
+  "messageC2STimestamp": "1736645477",
+  "userReceipt": [
+    {
+      "userJid": "59172454632@s.whatsapp.net",
+      "receiptTimestamp": "1736645477",
+      "readTimestamp": "1736684206",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 15 de 16
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "59172454632@s.whatsapp.net",
+    "fromMe": false,
+    "id": "CAAA7B502750498047A91DEF5D7573E7"
+  },
+  "message": {
+    "conversation": "Claro si deseas"
+  },
+  "messageTimestamp": "1736644596",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAIUQ3dc7OzjBAKaOjSuHuY="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 16 de 16
+               
+Importando mensaje: {
+  "key": {
+    "remoteJid": "59172454632@s.whatsapp.net",
+    "fromMe": true,
+    "id": "47A346B50E055E9CF488905D30D4B9D0"
+  },
+  "message": {
+    "audioMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7117-24/25389463_3843604712573675_1276631674149054043_n.enc?ccb=11-4&oh=01_Q5AaIBzxAY9YI3TAs2A1Lge-_BxLWY8aBFRyq8Po2Cmt6ou0&oe=67AA6A6E&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "audio/ogg; codecs=opus",
+      "fileSha256": "wDgeDXVpoXvU7iRzqsnd1q1qQkBaDjvZS8BDpJXJKWo=",
+      "fileLength": "64848",
+      "seconds": 27,
+      "ptt": true,
+      "mediaKey": "JSEbCC5bSyKT3ufCq0+XfzlgTVkwcJHjS2NqgQZnnBA=",
+      "fileEncSha256": "kO03wrNHF9mnGB2NkwArdoMJm1SbZWpdh0ing5hkrLU=",
+      "directPath": "/v/t62.7117-24/25389463_3843604712573675_1276631674149054043_n.enc?ccb=11-4&oh=01_Q5AaIBzxAY9YI3TAs2A1Lge-_BxLWY8aBFRyq8Po2Cmt6ou0&oe=67AA6A6E&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1736633057",
+      "waveform": "UENLWFRKUVRURFNTUF9VXVNdXlVbVldOVlpXSlVER1JKRFBMVFhWUksxNz42SUxMUks4Sz9SUVRWQzY1VE8+AA=="
+    }
+  },
+  "messageTimestamp": "1736633057",
+  "status": "DELIVERY_ACK",
+  "messageC2STimestamp": "1736633170",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Voice Notes/202502/PTT-20250111-WA0000.opus"
+  },
+  "userReceipt": [
+    {
+      "userJid": "59172454632@s.whatsapp.net",
+      "receiptTimestamp": "1736644197",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 

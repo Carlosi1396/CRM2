@@ -1,0 +1,4622 @@
+Aguardando conexão para iniciar a importação de mensagens:
+    Whatsapp nome: Admisiones
+    Whatsapp Id: 4
+    Criação do arquivo de logs: 18/12/2024 12:44:44
+    Selecionado Data de inicio de importação: 17/12/2024 10:36:00 
+    Selecionado Data final da importação: 18/12/2024 10:35:00 
+     
+
+Mensagem 1 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1474388254@g.us",
+    "fromMe": false,
+    "id": "A42095E675F9BAE195403D976BF82E78"
+  },
+  "message": {
+    "conversation": "Si yo ahorita vuelvo y lo llamo"
+  },
+  "messageTimestamp": "1734528860",
+  "participant": "573123319821@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAGXtXHUjN3jBAEqu9+f5HM="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 2 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1474388254@g.us",
+    "fromMe": false,
+    "id": "3EB03CDD3C7F199379E5EE"
+  },
+  "message": {
+    "conversation": "Buenos días. Ojalá lo logre."
+  },
+  "messageTimestamp": "1734528839",
+  "participant": "573144918800@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAHEbmKqw13jBAF7PHaPTlM="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 3 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1450830104@g.us",
+    "fromMe": false,
+    "id": "A26BB62EFB1C0605D99A2A1CB168AE0F"
+  },
+  "message": {
+    "imageMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7118-24/33574357_1112948026495791_8959663205380548394_n.enc?ccb=11-4&oh=01_Q5AaIIgFPUYp0th-tOppjybcORc4DhH4t5jsTZWWRIfdGPQ5&oe=678A3A63&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "image/jpeg",
+      "fileSha256": "T1WbOhnwGfRK/9Tv80OObF+JZp4MlwFg8bwRrYZk23M=",
+      "fileLength": "89264",
+      "height": 1600,
+      "width": 720,
+      "mediaKey": "LtV0agca+Z7B4TjJKx8CanFd1astbZ9ElvlvF088DCM=",
+      "fileEncSha256": "MRGnBQ55a+ItbKNAlzVWFmbkpnlu5szqkK9VP/BndZY=",
+      "directPath": "/v/t62.7118-24/33574357_1112948026495791_8959663205380548394_n.enc?ccb=11-4&oh=01_Q5AaIIgFPUYp0th-tOppjybcORc4DhH4t5jsTZWWRIfdGPQ5&oe=678A3A63&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1734528760",
+      "scansSidecar": "tTl+dfwdOO6lu3vMJM/0lB0POZAqSUF8YaS92x/idLf2lE1czeR7Fw==",
+      "scanLengths": [
+        8146,
+        50643,
+        13833,
+        16642
+      ],
+      "midQualityFileSha256": "0yiaSquqLKC1wCb0gIWv2VnRvpOBGsox6KSfQ6QwkOs="
+    }
+  },
+  "messageTimestamp": "1734528777",
+  "participant": "573123319821@s.whatsapp.net",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Images/IMG-20241218-WA0001.jpg"
+  },
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAEaq+H0qBXjBAFtwGW/ZUU="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 4 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1450830104@g.us",
+    "fromMe": false,
+    "id": "AC93EC0B869E60C225C3787A2BB7072C"
+  },
+  "message": {
+    "imageMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7118-24/21578472_498335199324603_3665546860755198439_n.enc?ccb=11-4&oh=01_Q5AaIGzu52G4Yj_RXI9jtCwK-6Le7RXL_f_OsQ8G3v4eU0Rn&oe=678A3A13&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "image/jpeg",
+      "fileSha256": "/r09DriXCEbsQ/PLnl9RUDBNZnw38E8U9QYYYtIJN1c=",
+      "fileLength": "121465",
+      "height": 1600,
+      "width": 720,
+      "mediaKey": "kGinR/azZWpJ1nV7JXz25h6jPaoa5iZ+cZFhYoamS1M=",
+      "fileEncSha256": "7v9qui3rIxpLT/huXYj1C2cRbO2+KkdeJEQvZ52/LFQ=",
+      "directPath": "/v/t62.7118-24/21578472_498335199324603_3665546860755198439_n.enc?ccb=11-4&oh=01_Q5AaIGzu52G4Yj_RXI9jtCwK-6Le7RXL_f_OsQ8G3v4eU0Rn&oe=678A3A13&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1734528611",
+      "scansSidecar": "YVlYr3/9IwkvtEhJLvcHpRwKtB/9VUX0zmgdi0wxUwSvUDQ3IzYMNg==",
+      "scanLengths": [
+        10677,
+        63942,
+        19718,
+        27128
+      ],
+      "midQualityFileSha256": "YsMriRWMD0WVXZSEEw7Za6VRAfZtwYdSWKTI1ZdekAA="
+    }
+  },
+  "messageTimestamp": "1734528622",
+  "participant": "573123319821@s.whatsapp.net",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Images/IMG-20241218-WA0000.jpg"
+  },
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAGWmElVZDfjBAGJvu1OEQc="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 5 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573118505942@s.whatsapp.net",
+    "fromMe": false,
+    "id": "DB02ACB77B2D140E210BAAF04A0382F4"
+  },
+  "message": {
+    "conversation": "Dónde queda y cuanto vale la matrícula"
+  },
+  "messageTimestamp": "1734528098",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAG7xAOdvzPjBAHhnoqUXVo="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 6 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1474388254@g.us",
+    "fromMe": false,
+    "id": "1DF70BF3F4501DD9C0D5A2C02C185937"
+  },
+  "message": {
+    "conversation": "*Buenos días.  El papá de María Alejandra subió los topes de la tarjeta a 15 millones y dentro de una hora hace la transferencia a ver si lo deja.*"
+  },
+  "messageTimestamp": "1734528080",
+  "participant": "573123319821@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAH5hSTxIl/jBAGo1bl5PSg="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 7 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573118505942@s.whatsapp.net",
+    "fromMe": false,
+    "id": "951CDA647878DD0C10404393A540E24C"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "¡Hola! Quiero más información.",
+      "previewType": "NONE",
+      "contextInfo": {
+        "externalAdReply": {
+          "title": "¡Escríbenos!",
+          "body": "¡Liderazgo y excelencia se cultivan en el Gimnasio Santana del Norte! Nuestros estudiantes son el futuro y nosotros los preparamos para alcanzar sus metas. \nAgenda tu visita y descubre por qué somos la mejor opción para tu hijo.\n\n📞    Contacto 1: 314 491 1034 \n 📞   Contacto 2: 314 492 00 62",
+          "mediaType": "VIDEO",
+          "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.5256-10/470373061_1691202855071705_3771068859072530558_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=109&ccb=1-7&_nc_sid=40cf1a&_nc_ohc=Iu9UTO4FGvoQ7kNvgHjlpPi&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=ABqIMiJJjZPl55orboN7IdT&oh=00_AYC08KvNOJHbArV94eJiiDpSAWf1QpVdqoGRXM-6F8w3vA&oe=67688C11",
+          "mediaUrl": "https://www.facebook.com/gimnasiosantanadelnorte/videos/1132002155111594/",
+          "thumbnail": "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",
+          "sourceType": "ad",
+          "sourceId": "120212833394680743",
+          "sourceUrl": "https://fb.me/4z0323kiu",
+          "containsAutoReply": false,
+          "renderLargerThumbnail": true,
+          "showAdAttribution": true,
+          "ctwaClid": "ARA7sY8LQ_7oQTGpX0gsTa4m1SlpFcKf280TeNPZP8OsX7He39ycRDyzY2izfhwDeksX3VK0a3Oh4efBI2UlcK4KICvrDs-ihwKsM94H_XNeL6ifDMBmMR5z4rBau8kzUjnFk3Ryy3k"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1734528070",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAEqDwnN6O/jBAEZHbkK0zk="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 8 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573113779640@s.whatsapp.net",
+    "fromMe": false,
+    "id": "83B5639012726B87EA96D1F5F79306A6"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "¡Hola! Quiero más información.",
+      "previewType": "NONE",
+      "contextInfo": {
+        "externalAdReply": {
+          "title": "¡Escríbenos!",
+          "body": "¡Liderazgo y excelencia se cultivan en el Gimnasio Santana del Norte! Nuestros estudiantes son el futuro y nosotros los preparamos para alcanzar sus metas. \nAgenda tu visita y descubre por qué somos la mejor opción para tu hijo.\n\n📞    Contacto 1: 314 491 1034 \n 📞   Contacto 2: 314 492 00 62",
+          "mediaType": "VIDEO",
+          "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.5256-10/470373061_1691202855071705_3771068859072530558_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=109&ccb=1-7&_nc_sid=40cf1a&_nc_ohc=Iu9UTO4FGvoQ7kNvgFXQr-1&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=AebnCub4aysWZsx6oN2Kmf6&oh=00_AYBZ3qdSgrU-dT-w3DuxqihZdm0Doq__IREXoa--EL6VDA&oe=67688C11",
+          "mediaUrl": "https://www.facebook.com/gimnasiosantanadelnorte/videos/1132002155111594/",
+          "thumbnail": "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",
+          "sourceType": "ad",
+          "sourceId": "120212833394680743",
+          "sourceUrl": "https://fb.me/4z0323kiu",
+          "containsAutoReply": false,
+          "renderLargerThumbnail": true,
+          "showAdAttribution": true,
+          "ctwaClid": "ARBuKqWoE3OBXgX_v8thfYxk1w7zdavtL1cNN88pk54DscfE-8SjBp6BwnrQht8x4onPfgPPcaMHtuQdABo4z6hZTUwxoo6zyZGQmZ3hr_SqQrGtVUutermu425MhTvo3ei3-ccX2NE"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1734527503",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAHqjG73E/TjBAFj+6jpvX4="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 9 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573155196266@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3A365F25F260C3D674E8"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "¡Hola! Quiero más información.",
+      "previewType": "NONE",
+      "contextInfo": {
+        "externalAdReply": {
+          "title": "¡Escríbenos!",
+          "body": "¡Liderazgo y excelencia se cultivan en el Gimnasio Santana del Norte! Nuestros estudiantes son el futuro y nosotros los preparamos para alcanzar sus metas. \nAgenda tu visita y descubre por qué somos la mejor opción para tu hijo.\n\n📞    Contacto 1: 314 491 1034 \n 📞   Contacto 2: 314 492 00 62",
+          "mediaType": "VIDEO",
+          "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.5256-10/470373061_1691202855071705_3771068859072530558_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=109&ccb=1-7&_nc_sid=40cf1a&_nc_ohc=Iu9UTO4FGvoQ7kNvgFCTLW1&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=A8oMq42lRtKbWX9qYXkMrAd&oh=00_AYChxGyto5VNAaSMm2Nemav7DiOM_LZbl9Bsct6lKezKnw&oe=67688C11",
+          "mediaUrl": "https://www.facebook.com/gimnasiosantanadelnorte/videos/1132002155111594/",
+          "thumbnail": "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",
+          "sourceType": "ad",
+          "sourceId": "120212833394680743",
+          "sourceUrl": "https://fb.me/4z0323kiu",
+          "containsAutoReply": false,
+          "renderLargerThumbnail": true,
+          "showAdAttribution": true,
+          "ctwaClid": "ARDeklovSXtt1T2inuEMD-Mdj2Pr8KGyAi6SJOqlVMUgEOc9SMU1aGgiuiDj0bP0I3LWPWI1o5WmxzUP2-WIRhnEKSoHo23cKd05Pz9pK04TiJhK0ZWee-Q_yhlB0dD0nUanwIFEYMg"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1734527320",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAGeWbhq3g3jBAFhbHfpjE4="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 10 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573113779640@s.whatsapp.net",
+    "fromMe": false,
+    "id": "49B107C39319F8239F9609ABBD4168BB"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "¡Hola! Quiero más información.",
+      "previewType": "NONE",
+      "contextInfo": {
+        "externalAdReply": {
+          "title": "¡Escríbenos!",
+          "body": "¡Liderazgo y excelencia se cultivan en el Gimnasio Santana del Norte! Nuestros estudiantes son el futuro y nosotros los preparamos para alcanzar sus metas. \nAgenda tu visita y descubre por qué somos la mejor opción para tu hijo.\n\n📞    Contacto 1: 314 491 1034 \n 📞   Contacto 2: 314 492 00 62",
+          "mediaType": "VIDEO",
+          "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.5256-10/470373061_1691202855071705_3771068859072530558_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=109&ccb=1-7&_nc_sid=40cf1a&_nc_ohc=Iu9UTO4FGvoQ7kNvgHK8cyE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=A8kA3r1tYyGin081y_ctBHX&oh=00_AYD3ja_sh4BbSJ1Us099oFWOhbLWGbnJCV7DqBbJsiNn9w&oe=67688C11",
+          "mediaUrl": "https://www.facebook.com/gimnasiosantanadelnorte/videos/1132002155111594/",
+          "thumbnail": "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",
+          "sourceType": "ad",
+          "sourceId": "120212833394680743",
+          "sourceUrl": "https://fb.me/4z0323kiu",
+          "containsAutoReply": false,
+          "renderLargerThumbnail": true,
+          "showAdAttribution": true,
+          "ctwaClid": "ARBSCGroLB3TkMEPJK-qhemQUGb8u-ZAgnvVYF_byOSRwWMsaLiJhFrVzM_Tcye0aAyorCgsnDyvsTy8CCYG6UQ3E8S2OqL5FiFwGz9ZknJYJf2eid6UuOsRlOFu8dBa-DcY6TeQPCs"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1734526613",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAGehxbLXRrjBAGkUcgI/l8="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 11 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573134089203@s.whatsapp.net",
+    "fromMe": false,
+    "id": "47E918E1D4A3FEA50020FDD6C8217128"
+  },
+  "message": {
+    "conversation": "Buenos días, quisiera saber si se encuentran recepcionando hojas de vida para docentes."
+  },
+  "messageTimestamp": "1734526476",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAERggNqHpbjBAGnUdgwL30="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 12 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573165021771@s.whatsapp.net",
+    "fromMe": false,
+    "id": "73EDED90291B308871C18606524987FC"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "¡Hola! Me gustaría formar parte de su equipo de trabajo \nSoy auxiliar en primera infancia",
+      "previewType": "NONE",
+      "contextInfo": {
+        "expiration": 604800,
+        "externalAdReply": {
+          "title": "¡Escríbenos!",
+          "body": "¡Liderazgo y excelencia se cultivan en el Gimnasio Santana del Norte! Nuestros estudiantes son el futuro y nosotros los preparamos para alcanzar sus metas. \nAgenda tu visita y descubre por qué somos la mejor opción para tu hijo.\n\n📞    Contacto 1: 314 491 1034 \n 📞   Contacto 2: 314 492 00 62",
+          "mediaType": "VIDEO",
+          "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.5256-10/470373061_1691202855071705_3771068859072530558_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=109&ccb=1-7&_nc_sid=40cf1a&_nc_ohc=Iu9UTO4FGvoQ7kNvgEMsJMJ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=ATbw2w_CrwsQJXNOqD_DqfS&oh=00_AYATd5at7oQ4uIHfYY4hz5Op2yhwr1x2I4w-zJuLZjxbWw&oe=67688C11",
+          "mediaUrl": "https://www.facebook.com/gimnasiosantanadelnorte/videos/1132002155111594/",
+          "thumbnail": "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",
+          "sourceType": "ad",
+          "sourceId": "120212833394680743",
+          "sourceUrl": "https://fb.me/4z0323kiu",
+          "containsAutoReply": false,
+          "renderLargerThumbnail": true,
+          "showAdAttribution": true,
+          "ctwaClid": "ARAfSyjb0p2b8uGXPGiv6TBuHUGpDUhPdNCIN_uxgUpVEULHykmitcSUYIKtItTPBz9NTt_ARkims_kKTCIbStPr-vL0CIMOLPiMHG3JbEq3TM363RqfRfaNuUgMU6sGnUMQy7NXj6Y"
+        },
+        "disappearingMode": {
+          "initiator": "CHANGED_IN_CHAT",
+          "trigger": "ACCOUNT_SETTING",
+          "initiatedByMe": false
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1734526443",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAGcgMc2LofjBAG4oBeedpM="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 13 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573118505942@s.whatsapp.net",
+    "fromMe": false,
+    "id": "1E806718322B2EC4AE270CBBABE63DF6"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "¡Hola! Quiero más información.",
+      "previewType": "NONE",
+      "contextInfo": {
+        "externalAdReply": {
+          "title": "¡Escríbenos!",
+          "body": "¡Liderazgo y excelencia se cultivan en el Gimnasio Santana del Norte! Nuestros estudiantes son el futuro y nosotros los preparamos para alcanzar sus metas. \nAgenda tu visita y descubre por qué somos la mejor opción para tu hijo.\n\n📞    Contacto 1: 314 491 1034 \n 📞   Contacto 2: 314 492 00 62",
+          "mediaType": "VIDEO",
+          "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.5256-10/470373061_1691202855071705_3771068859072530558_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=109&ccb=1-7&_nc_sid=40cf1a&_nc_ohc=Iu9UTO4FGvoQ7kNvgHWoWax&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=AwBXGOKP35HP4pzz5xzD-qO&oh=00_AYDwvTy8J67pMcqD_XDvOthMjGJMaQxFTtDyYc2J2tS03Q&oe=67688C11",
+          "mediaUrl": "https://www.facebook.com/gimnasiosantanadelnorte/videos/1132002155111594/",
+          "thumbnail": "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",
+          "sourceType": "ad",
+          "sourceId": "120212833394680743",
+          "sourceUrl": "https://fb.me/4z0323kiu",
+          "containsAutoReply": false,
+          "renderLargerThumbnail": true,
+          "showAdAttribution": true,
+          "ctwaClid": "ARBA3H66U20PX-LeJkhbZZcpouK_mIAHJVZ96TOUaikccNKDJX9IzwsgC04-3_skMVaMNxk5F9UuQWxqi3UGCjwDJRG1lWoRL-rCNfv1doQn-hdZIvxam7Y5uQQ3aH_eROYZ6K1ScgY"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1734525958",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAHK+vMW0+DjBAGQ6NTx53s="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 14 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573005702517@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3A58CA291ED02CC8D1F6"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "¡Hola! Quiero más información.",
+      "previewType": "NONE",
+      "contextInfo": {
+        "externalAdReply": {
+          "title": "¡Escríbenos!",
+          "body": "¡Liderazgo y excelencia se cultivan en el Gimnasio Santana del Norte! Nuestros estudiantes son el futuro y nosotros los preparamos para alcanzar sus metas. \nAgenda tu visita y descubre por qué somos la mejor opción para tu hijo.\n\n📞    Contacto 1: 314 491 1034 \n 📞   Contacto 2: 314 492 00 62",
+          "mediaType": "VIDEO",
+          "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.5256-10/470373061_1691202855071705_3771068859072530558_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=109&ccb=1-7&_nc_sid=40cf1a&_nc_ohc=Iu9UTO4FGvoQ7kNvgEEHGnN&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=AwSTVLL7cCwNIY2DvR0Sx7_&oh=00_AYCYbM2rJfomhhQ928-YVW2DnmwxGUEMLkS_blYgUXogHQ&oe=67688C11",
+          "mediaUrl": "https://www.facebook.com/gimnasiosantanadelnorte/videos/1132002155111594/",
+          "thumbnail": "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",
+          "sourceType": "ad",
+          "sourceId": "120212833394680743",
+          "sourceUrl": "https://www.instagram.com/p/DDqNWmCszEk/",
+          "containsAutoReply": false,
+          "renderLargerThumbnail": true,
+          "showAdAttribution": true,
+          "ctwaClid": "ARCRbxNQmfkPE0C3Vp5CRyreGpmfjddtRxAeh_oLE1X30EhvQosWO1LF9rgMOt8SQxaSZMhhbiMV7GM8JAjVaIjxvtAl2MgRxCV9U1YgHlmxnLiu78uH953tHsZ6PqMz4HE"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1734523808",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAFe1ykZsKrjBAGpqYwJJJ4="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 15 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573132486321@s.whatsapp.net",
+    "fromMe": false,
+    "id": "494483ACBBDCA00DADC64FFD8A2B4FE8"
+  },
+  "message": {
+    "conversation": "¡Hola! Quiero más información."
+  },
+  "messageTimestamp": "1734523625",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAH1e99nZDbjBAH/VJGXmzw="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 16 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573013157169@s.whatsapp.net",
+    "fromMe": false,
+    "id": "E7C49A94E45B445A9AC99D45B12CB44B"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "¡Hola! Quiero más información.",
+      "previewType": "NONE",
+      "contextInfo": {
+        "externalAdReply": {
+          "title": "¡Escríbenos!",
+          "body": "¡Liderazgo y excelencia se cultivan en el Gimnasio Santana del Norte! Nuestros estudiantes son el futuro y nosotros los preparamos para alcanzar sus metas. \nAgenda tu visita y descubre por qué somos la mejor opción para tu hijo.\n\n📞    Contacto 1: 314 491 1034 \n 📞   Contacto 2: 314 492 00 62",
+          "mediaType": "VIDEO",
+          "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.5256-10/470373061_1691202855071705_3771068859072530558_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=109&ccb=1-7&_nc_sid=40cf1a&_nc_ohc=Iu9UTO4FGvoQ7kNvgHN905h&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=Ap8Cy-gNyGoszcqSVTpQ6n8&oh=00_AYDE8XMm2ATmGddoy4xFtebvXWagjKtViRL0Pb5s4PkLbQ&oe=67688C11",
+          "mediaUrl": "https://www.facebook.com/gimnasiosantanadelnorte/videos/1132002155111594/",
+          "thumbnail": "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",
+          "sourceType": "ad",
+          "sourceId": "120212833394680743",
+          "sourceUrl": "https://fb.me/5W5MkP8u5",
+          "containsAutoReply": false,
+          "renderLargerThumbnail": true,
+          "showAdAttribution": true,
+          "ctwaClid": "ARAqMri0oQBF_lO6HVfDnxM9IBkN5iEOhzWZR5klnqo9HiXzba9ai0Exfq85Cp8cflAKu64nJJGr0HnSdbku3slWGhrNVH5V-MUEv0aGBF3PiZRbS2wZEOJxjM10Wd9PuTD-Bu0n9PA"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1734522635",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAHgIT9Ty6jjBAE7uDZYB1w="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 17 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573175760223@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3A667D96E29E293682C3"
+  },
+  "message": {
+    "conversation": "Hola buenos días señora Diana, te escribo porque no estoy en el país y las llamadas que recibo son por este medio, para realizar el registro en la plataforma para Isabella"
+  },
+  "messageTimestamp": "1734522522",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAFCB7r6z0/jBAHucfl97WM="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 18 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573022711596@s.whatsapp.net",
+    "fromMe": false,
+    "id": "0C3CB0C4C2724D254BC01AE5FE897C29"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "¡Hola! Quiero más información.",
+      "previewType": "NONE",
+      "contextInfo": {
+        "externalAdReply": {
+          "title": "¡Escríbenos!",
+          "body": "Contáctanos, nuestra proridad es la educación de tus hijos.",
+          "mediaType": "VIDEO",
+          "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.5256-10/467986445_580097164385330_8714034473856723804_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=103&ccb=1-7&_nc_sid=131942&_nc_ohc=T4bpNYVGt0oQ7kNvgH8S8YK&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=AKchYG4SBsRUjeFjb4zMNOz&oh=00_AYBfgvu7v9OMD8gwFeB5DrNrUTc_BATQZMcFF26JyHFcFQ&oe=676871D4",
+          "mediaUrl": "https://www.facebook.com/gimnasiosantanadelnorte/videos/580097137718666/",
+          "thumbnail": "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",
+          "sourceType": "ad",
+          "sourceId": "120212555829100743",
+          "sourceUrl": "https://fb.me/5DFhD0Hcf",
+          "containsAutoReply": false,
+          "renderLargerThumbnail": true,
+          "showAdAttribution": true,
+          "ctwaClid": "ARD5tUUa4c0nuYHl9i8WLHt9iY1Bpx8bQ3xwM4fWhh670Lwzukr6oaa6BChWojkh4kKHMcubz6ceryMWiAlHs4nhI1V-80Q-12pTuLprf8pe5OocGnFBIROTykauN61i0OCJ"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1734522443",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAF1WfjqLbHjBAEAr+FMlg8="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 19 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573103246593@s.whatsapp.net",
+    "fromMe": false,
+    "id": "950EA2D91AC247F33C4967F8C599CF2C"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "¡Hola! Quiero más información.",
+      "previewType": "NONE",
+      "contextInfo": {
+        "externalAdReply": {
+          "title": "¡Escríbenos!",
+          "body": "¡Liderazgo y excelencia se cultivan en el Gimnasio Santana del Norte! Nuestros estudiantes son el futuro y nosotros los preparamos para alcanzar sus metas. \nAgenda tu visita y descubre por qué somos la mejor opción para tu hijo.\n\n📞    Contacto 1: 314 491 1034 \n 📞   Contacto 2: 314 492 00 62",
+          "mediaType": "VIDEO",
+          "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.5256-10/470373061_1691202855071705_3771068859072530558_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=109&ccb=1-7&_nc_sid=40cf1a&_nc_ohc=Iu9UTO4FGvoQ7kNvgHto7Rn&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=AXZG3TN0gc8J9W0aHkvOtbK&oh=00_AYAb-EndI6N1hVWllQPsgqHrvQymcrlXozaNT0QCQd16Rg&oe=67688C11",
+          "mediaUrl": "https://www.facebook.com/gimnasiosantanadelnorte/videos/1132002155111594/",
+          "thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/7QCEUGhvdG9zaG9wIDMuMAA4QklNBAQAAAAAAGgcAigAYkZCTUQwYTAwMGE4NDAxMDAwMDA4MDIwMDAwYmQwMjAwMDA0ZDAzMDAwMGMxMDMwMDAwNDcwNDAwMDBhODA1MDAwMGM4MDUwMDAwNDYwNjAwMDA5NjA2MDAwMDNlMDgwMDAwAP/bAIQABQYGCwgLCwsLCw0LCwsNDg4NDQ4ODw0ODg4NDxAQEBEREBAQEA8TEhMPEBETFBQTERMWFhYTFhUVFhkWGRYWEgEFBQUKBwoICQkICwgKCAsKCgkJCgoMCQoJCgkMDQsKCwsKCw0MCwsICwsMDAwNDQwMDQoLCg0MDQ0MExQTExOc/8IAEQgAWQAyAwEiAAIRAQMRAf/EAE8AAAIDAQEBAAAAAAAAAAAAAAMEAgUGAAEHEAABAgMECAUDBAIDAAAAAAABABECITEDQVFhBBAScYGRofAiscHR4RMg8TJCUmIUIzNDcv/aAAwDAQACAAMAAAABzhzgpquPorSMzO+BLJpeyrSyoX2H4lpYwShK8UNY8fQ5q/oHFGLg2eXt+rtRLoTPx59YYDV5RlV+/wAvaVrHqwTkM1svn9rYp7/45ucMwCj02etKZxppSQmRkO+yKvRMGcc5pM3o1rL6Iktz1V7VL1gye8Ewpf/aAAgBAQABBQI2CGjo2LIQbRFmpBeFM6EBRcKCMAbToCewEIIVBZqNoVALOMxDw2VnEhZr6SgAhVuQ4Eo9vZgBtV/gaSgGhsxO1hWj2TRaZH/r0HwA6TEmMcNnBawRQkqx8UWlaNC0OjED6dotAtoiiVaQ7KEeyo7Yxqzj8LLRbSRKKMDCCJlBar/IViC+1qNo41bSs5amTKEK1sdkLR6qMxBC0tlphOzHb7QWj6rP9JWkIav/2gAIAQMAAT8BDlAKEJl9EqGxJIAEzPBQaOdmKJqSWwcFZWUVpCWig2GecTSmzVdQwgRQxH/rDdFCbP6bbTOb+ytgfz6rQrSC0soTBDsQzAg2jHssf5GZxwwCI6q2gYAC5+qc/wAVo2mR6TtRx2UNl4iIYYINiHYu379Ua2Vp4a2tZk/pr/4h7wWzmhDIJl//2gAIAQIAAT8BiiiP723j1RMUP9sEYqO4yXEqKEkgOohsXuz3sF9QvCB89V4v4rah2hVwfVR+KlYjJGG0Fp+l2E27qp4RclbvDGe3UERLkXT3LR7QGcRq3RbH9wreFiL5KGIjirIFiRcvqFRTW3kjameadf/aAAgBAQAGPwKqrJb1uU9dWUiDqrrpqvC+VM7MlcgcdTgyzU5eSf8Arcg1U+x4KOrOCCQHbr/lHfBTndLFDw0bjVM0tjfegiMSgZUKuR2QBtKsn3oz/b6oPND9s1KJVh5FRP8Ap9dVblC1QhlrI1v9gOtsPsA+1/sh2B+EPBcoMX9PtH2//9oACAEBAAE/IQOMdQA3K5Ad2G5KdFIEb2DdhUkejehGZ3z7ZEDAuGCbMiAMHExLJgD2yC+A3l1f4TkmgWmhGauDyQwnIIqrvgZIDci9/NXokhDBhpEO5ci6SAHhnFFP3jPcpAmhJxCRFp2ESLs5piaJeYAukMjcCM0I1xHASGc6+iduBiKbflC2L0ZzmfQsBvij4TYQXOJ4Ms1dYUHIuATvL34BTZ4dDtjGZDqYJzDvKQYqUDRuzfFEKoqGsyJS3IMlgx5VRMgoENNx5TWBwKl7ClfhMemAzJm6gJRTFVy9uiHXgBiAR79V2B6oXvIJq+4ZYquAKpycXmQyLMJsoDfKAKuQ4ataI+PoiJTaVCgEZSZMMuNCPZVzPwgRqiUQKhq3yr1BYEVwNOSE0FyA8tScGLBOM1PNwy+dQAXHZ5SADG6uCADjN6kzLPfSU2uQhjnXZkxjBOquKC6TUqG721v/2gAMAwEAAgADAAAAEI3jYHQjwNbPw4jASCKKS9rCKP/aAAgBAwABPxD0HZWL5urlbqLRLkgZuEY6QsuEeyJywBq8nJyA99TZik2XLgQA01xgZTU/KSZ6O908AQuhk3EuCS73xVVGAZRAzRmuTSAh0Jwb5I4CyHd/CAvjLZGeAz33Ily+5EAtkmOAb03BGdTs5OaB3AmbBgJkNRwzU//aAAgBAgABPxCmYOQjKXnkztstSnsb5TmM8ZoN4/iHJGonB+onxeQ91WPVtTI6WNEO8S7FUiAEvMOnGYVYjdgr1TqBSQ5o4FKr7IACIpqf/9oACAEBAAE/EB2zM5ag3qs8kU+K9iKdABj4jLJkkan4ZTPwBCLqDHQwKHYLsflXIq2DD23Jqm2Q7XJkyVwa5CGYfC4IvqCPBcFbPITAJPw7CdKEnM7kxIDPgxh4szpiCMMJGY81VWjnxV1SqVCE3AIJIEhOYIxmRRAd6QAJl5w5pirWPN6noDrHq2InMoBoAmJoyqFQ3BS+qoSa156boRFLAMilMQ8nJlZkb/jJzxdjMQQEDo6i6FzrPdMUN9v5uh+/O9ApXxSA9sMkIiwJzzC65TQlNXNcGBcgMgHpzexiTaeTcCdN6Ac8nqDPW5VNiTB2ZH5mRaDFKO4BqDRIAvjXuWcE8yyIt1TbDpRYyYZhXmBjBLy6IK3envRLXYDcwAgAAwkFLAKKSh7oxFVKHM3IR2MwgHxKZA7MgQvSRm4STk03hip7JgL07v6I8qUYJxOKbF12CiAyIDOnQG+hH8Ec3EjIJ1OaJggEEElGRNn4IfiIpwM/qIGaVVPmOApmmoYjLenQGjxM3JdAVKi+GjE4ZohAyCSPd15LyOr0Hy1etJSjUr//2Q==",
+          "sourceType": "ad",
+          "sourceId": "120212833394680743",
+          "sourceUrl": "https://fb.me/4z0323kiu",
+          "containsAutoReply": false,
+          "renderLargerThumbnail": true,
+          "showAdAttribution": true,
+          "ctwaClid": "ARAvO2_1-q-kR-zY7KEDYN_jK3_k8V8Iv0GKDZQWj0uLJ5ZgTR2GriHreWuX1JlGXUp9AW_zr3G3DcZyS4Wq0U70DBa7WN5drZJlCLY8Nd0as1TdSiSOkU4s4wVloDm6hH6h-IDoYn0"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1734522306",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAEZz7TMGX/jBAGQV6a+jzc="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 20 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573208021297@s.whatsapp.net",
+    "fromMe": false,
+    "id": "54797FFAFAACB9F2992F8E9B1FFD6666"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "¡Hola! Quiero más información.",
+      "previewType": "NONE",
+      "contextInfo": {
+        "externalAdReply": {
+          "title": "¡Escríbenos!",
+          "body": "¡Liderazgo y excelencia se cultivan en el Gimnasio Santana del Norte! Nuestros estudiantes son el futuro y nosotros los preparamos para alcanzar sus metas. \nAgenda tu visita y descubre por qué somos la mejor opción para tu hijo.\n\n📞    Contacto 1: 314 491 1034 \n 📞   Contacto 2: 314 492 00 62",
+          "mediaType": "VIDEO",
+          "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.5256-10/470373061_1691202855071705_3771068859072530558_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=109&ccb=1-7&_nc_sid=40cf1a&_nc_ohc=Iu9UTO4FGvoQ7kNvgG3kO6I&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=AbALSxrXUred8k0oStEBU3H&oh=00_AYDOhO2qzIus1OVGa3JPZ2le1CHSM3h_1nXuWpWpMZ2yCA&oe=67688C11",
+          "mediaUrl": "https://www.facebook.com/gimnasiosantanadelnorte/videos/1132002155111594/",
+          "thumbnail": "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",
+          "sourceType": "ad",
+          "sourceId": "120212833394680743",
+          "sourceUrl": "https://www.instagram.com/p/DDqNWmCszEk/",
+          "containsAutoReply": false,
+          "renderLargerThumbnail": true,
+          "showAdAttribution": true,
+          "ctwaClid": "ARCR-mW6q67dUgK9Z8ScmSl5Q8NbqR6D2Ny32WztfJw63_Mmn9a6eiOj-MGjcgoP8yQI_3nO3DoPzw3UMKNPePqYbN2lmsCShtRcpXqDna48hAd5vWZCUcHxCoaiONNDUk0S"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1734521370",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAFhEhxSMXjjBAGyO18CLQE="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 21 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573186992520@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3ACFD8A12E348859AF45"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "Que linda foto",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3BEBC3C2554BC26A772571D7AF819F91",
+        "participant": "573144911034@s.whatsapp.net",
+        "quotedMessage": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/v/t62.7118-24/11423285_2041427289612882_4223514092086125670_n.enc?ccb=11-4&oh=01_Q5AaIGCtj43ajcJQue8cvTgNN_CpkkiDObC9IApoqzE8ul0W&oe=678934F0&_nc_sid=5e03e0&mms3=true",
+            "mimetype": "image/jpeg",
+            "caption": "🤩",
+            "fileSha256": "V+yX6n8VW+iBNq9iF/9s+HHLGO05iH8tJB2LHPf5tYo=",
+            "fileLength": "102085",
+            "height": 1280,
+            "width": 898,
+            "mediaKey": "UsXFvaXXOWekrJqjH716+YuoBX5DzEkU1h8hnE76TIE=",
+            "fileEncSha256": "/qpE85EhuYv3VACDhu88CAIXml6qbm1RFP/3YSmzCWw=",
+            "directPath": "/v/t62.7118-24/11423285_2041427289612882_4223514092086125670_n.enc?ccb=11-4&oh=01_Q5AaIGCtj43ajcJQue8cvTgNN_CpkkiDObC9IApoqzE8ul0W&oe=678934F0&_nc_sid=5e03e0",
+            "mediaKeyTimestamp": "1734456576",
+            "scansSidecar": "/gX+mzW13k4eEJtIwv6siID8lCYAaDzjkEoivvnMUoji9cAyK0fy5Q==",
+            "scanLengths": [
+              12474,
+              36931,
+              20303,
+              32377
+            ]
+          }
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1734520543",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAGWgdZH/FfjBAG4BlaT/Zo="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 22 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573186992520@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3A992D14A2EE8A4905A3"
+  },
+  "message": {
+    "conversation": "Hola Dianita 😍😍😍😍\nGracias"
+  },
+  "messageTimestamp": "1734520539",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAHgl9n1a9fjBAE2smegKZA="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 23 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573204598540@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3AFCF1E092A5A0CADAEA"
+  },
+  "message": {
+    "conversation": "Entiendo, y como sería el tema de precios"
+  },
+  "messageTimestamp": "1734499607",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAEKT8vnrFHjBAE0cP6bW7o="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 24 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573219383583@s.whatsapp.net",
+    "fromMe": false,
+    "id": "B5157CD10CC4E82FC8D1B95A83440661"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "¡Hola! Quiero más información. Tienen  vacantes disponibles soy licenciada en educación infantil",
+      "previewType": "NONE",
+      "contextInfo": {
+        "externalAdReply": {
+          "title": "¡Escríbenos!",
+          "body": "¡Liderazgo y excelencia se cultivan en el Gimnasio Santana del Norte! Nuestros estudiantes son el futuro y nosotros los preparamos para alcanzar sus metas. \nAgenda tu visita y descubre por qué somos la mejor opción para tu hijo.\n\n📞    Contacto 1: 314 491 1034 \n 📞   Contacto 2: 314 492 00 62",
+          "mediaType": "VIDEO",
+          "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.5256-10/470373061_1691202855071705_3771068859072530558_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=109&ccb=1-7&_nc_sid=40cf1a&_nc_ohc=Iu9UTO4FGvoQ7kNvgHto7Rn&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=AYk6Ur6RlD-AHD2_6l8CkJS&oh=00_AYBPWicEN_48M47m_o0NyINsOTxM9QL_cDepINPZXmIErg&oe=67681B91",
+          "mediaUrl": "https://www.facebook.com/gimnasiosantanadelnorte/videos/1132002155111594/",
+          "thumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/7QCEUGhvdG9zaG9wIDMuMAA4QklNBAQAAAAAAGgcAigAYkZCTUQwYTAwMGE4NDAxMDAwMDA4MDIwMDAwYmQwMjAwMDA0ZDAzMDAwMGMxMDMwMDAwNDcwNDAwMDBhODA1MDAwMGM4MDUwMDAwNDYwNjAwMDA5NjA2MDAwMDNlMDgwMDAwAP/bAIQABQYGCwgLCwsLCw0LCwsNDg4NDQ4ODw0ODg4NDxAQEBEREBAQEA8TEhMPEBETFBQTERMWFhYTFhUVFhkWGRYWEgEFBQUKBwoICQkICwgKCAsKCgkJCgoMCQoJCgkMDQsKCwsKCw0MCwsICwsMDAwNDQwMDQoLCg0MDQ0MExQTExOc/8IAEQgAWQAyAwEiAAIRAQMRAf/EAE8AAAIDAQEBAAAAAAAAAAAAAAMEAgUGAAEHEAABAgMECAUDBAIDAAAAAAABABECITEDQVFhBBAScYGRofAiscHR4RMg8TJCUmIUIzNDcv/aAAwDAQACAAMAAAABzhzgpquPorSMzO+BLJpeyrSyoX2H4lpYwShK8UNY8fQ5q/oHFGLg2eXt+rtRLoTPx59YYDV5RlV+/wAvaVrHqwTkM1svn9rYp7/45ucMwCj02etKZxppSQmRkO+yKvRMGcc5pM3o1rL6Iktz1V7VL1gye8Ewpf/aAAgBAQABBQI2CGjo2LIQbRFmpBeFM6EBRcKCMAbToCewEIIVBZqNoVALOMxDw2VnEhZr6SgAhVuQ4Eo9vZgBtV/gaSgGhsxO1hWj2TRaZH/r0HwA6TEmMcNnBawRQkqx8UWlaNC0OjED6dotAtoiiVaQ7KEeyo7Yxqzj8LLRbSRKKMDCCJlBar/IViC+1qNo41bSs5amTKEK1sdkLR6qMxBC0tlphOzHb7QWj6rP9JWkIav/2gAIAQMAAT8BDlAKEJl9EqGxJIAEzPBQaOdmKJqSWwcFZWUVpCWig2GecTSmzVdQwgRQxH/rDdFCbP6bbTOb+ytgfz6rQrSC0soTBDsQzAg2jHssf5GZxwwCI6q2gYAC5+qc/wAVo2mR6TtRx2UNl4iIYYINiHYu379Ua2Vp4a2tZk/pr/4h7wWzmhDIJl//2gAIAQIAAT8BiiiP723j1RMUP9sEYqO4yXEqKEkgOohsXuz3sF9QvCB89V4v4rah2hVwfVR+KlYjJGG0Fp+l2E27qp4RclbvDGe3UERLkXT3LR7QGcRq3RbH9wreFiL5KGIjirIFiRcvqFRTW3kjameadf/aAAgBAQAGPwKqrJb1uU9dWUiDqrrpqvC+VM7MlcgcdTgyzU5eSf8Arcg1U+x4KOrOCCQHbr/lHfBTndLFDw0bjVM0tjfegiMSgZUKuR2QBtKsn3oz/b6oPND9s1KJVh5FRP8Ap9dVblC1QhlrI1v9gOtsPsA+1/sh2B+EPBcoMX9PtH2//9oACAEBAAE/IQOMdQA3K5Ad2G5KdFIEb2DdhUkejehGZ3z7ZEDAuGCbMiAMHExLJgD2yC+A3l1f4TkmgWmhGauDyQwnIIqrvgZIDci9/NXokhDBhpEO5ci6SAHhnFFP3jPcpAmhJxCRFp2ESLs5piaJeYAukMjcCM0I1xHASGc6+iduBiKbflC2L0ZzmfQsBvij4TYQXOJ4Ms1dYUHIuATvL34BTZ4dDtjGZDqYJzDvKQYqUDRuzfFEKoqGsyJS3IMlgx5VRMgoENNx5TWBwKl7ClfhMemAzJm6gJRTFVy9uiHXgBiAR79V2B6oXvIJq+4ZYquAKpycXmQyLMJsoDfKAKuQ4ataI+PoiJTaVCgEZSZMMuNCPZVzPwgRqiUQKhq3yr1BYEVwNOSE0FyA8tScGLBOM1PNwy+dQAXHZ5SADG6uCADjN6kzLPfSU2uQhjnXZkxjBOquKC6TUqG721v/2gAMAwEAAgADAAAAEI3jYHQjwNbPw4jASCKKS9rCKP/aAAgBAwABPxD0HZWL5urlbqLRLkgZuEY6QsuEeyJywBq8nJyA99TZik2XLgQA01xgZTU/KSZ6O908AQuhk3EuCS73xVVGAZRAzRmuTSAh0Jwb5I4CyHd/CAvjLZGeAz33Ily+5EAtkmOAb03BGdTs5OaB3AmbBgJkNRwzU//aAAgBAgABPxCmYOQjKXnkztstSnsb5TmM8ZoN4/iHJGonB+onxeQ91WPVtTI6WNEO8S7FUiAEvMOnGYVYjdgr1TqBSQ5o4FKr7IACIpqf/9oACAEBAAE/EB2zM5ag3qs8kU+K9iKdABj4jLJkkan4ZTPwBCLqDHQwKHYLsflXIq2DD23Jqm2Q7XJkyVwa5CGYfC4IvqCPBcFbPITAJPw7CdKEnM7kxIDPgxh4szpiCMMJGY81VWjnxV1SqVCE3AIJIEhOYIxmRRAd6QAJl5w5pirWPN6noDrHq2InMoBoAmJoyqFQ3BS+qoSa156boRFLAMilMQ8nJlZkb/jJzxdjMQQEDo6i6FzrPdMUN9v5uh+/O9ApXxSA9sMkIiwJzzC65TQlNXNcGBcgMgHpzexiTaeTcCdN6Ac8nqDPW5VNiTB2ZH5mRaDFKO4BqDRIAvjXuWcE8yyIt1TbDpRYyYZhXmBjBLy6IK3envRLXYDcwAgAAwkFLAKKSh7oxFVKHM3IR2MwgHxKZA7MgQvSRm4STk03hip7JgL07v6I8qUYJxOKbF12CiAyIDOnQG+hH8Ec3EjIJ1OaJggEEElGRNn4IfiIpwM/qIGaVVPmOApmmoYjLenQGjxM3JdAVKi+GjE4ZohAyCSPd15LyOr0Hy1etJSjUr//2Q==",
+          "sourceType": "ad",
+          "sourceId": "120212833394680743",
+          "sourceUrl": "https://fb.me/4z0323kiu",
+          "containsAutoReply": false,
+          "renderLargerThumbnail": true,
+          "showAdAttribution": true,
+          "ctwaClid": "ARD2oQhY13Uc7qEzqQeJlTDARDO_v7B9UESJwf2TL7IOMWyd5LXpEghlQrhSp5yNCleeiGhPBFaTI_uh3R3SYNtajw48Q6PYox1bAkUbJdv-MjXPhWBjXTAzZqejEPyf1f-K"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1734488208",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAFM/WsHm3fjBAH22koa+7s="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 25 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573144582410@s.whatsapp.net",
+    "fromMe": false,
+    "id": "09DD7ECB85996FFFB43459CCCBD8D9EC"
+  },
+  "message": {
+    "conversation": "Q valor tendría"
+  },
+  "messageTimestamp": "1734480727",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAEHr26wIeDjBAEXh1ulahc="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 26 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573144582410@s.whatsapp.net",
+    "fromMe": false,
+    "id": "85C6A51243F75C025F80B1C556E7E0EE"
+  },
+  "message": {
+    "conversation": "Para mí hija el grado primero"
+  },
+  "messageTimestamp": "1734480713",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAF8ThqBe83jBAEZcmyHDAM="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 27 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573108582334@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3AD92B2D1F8090BCF68C"
+  },
+  "message": {
+    "conversation": "Me gusta mucho"
+  },
+  "messageTimestamp": "1734479822",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAHkFZRKlfDjBAFZty7Pg1s="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 28 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573144582410@s.whatsapp.net",
+    "fromMe": false,
+    "id": "2AFE8FD558E0FD28CD6B08AA93477BF5"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "¡Hola! Quiero más información.",
+      "previewType": "NONE",
+      "contextInfo": {
+        "externalAdReply": {
+          "title": "Gimnasio Santana Del Norte",
+          "body": "En el Gimnasio Santana del Norte, ayudamos a tu hijo a explorar el mundo que lo rodea por medio de juegos, canciones y actividades lúdicas y pedagógicas.",
+          "mediaType": "VIDEO",
+          "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.5256-10/469393708_1112787257036759_6414912211492517931_n.jpg?stp=dst-jpg_s851x315_tt6&_nc_cat=110&ccb=1-7&_nc_sid=40cf1a&_nc_ohc=k7va_I5VC1YQ7kNvgFgIujX&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=AKR19qK7mGccapO8csAj3v2&oh=00_AYA3F3rco_sPNlEleyXhZcLNQTs4wZ9tB0QxoOPOP1VhVg&oe=6767CAD6",
+          "mediaUrl": "https://www.facebook.com/gimnasiosantanadelnorte/videos/561006640018724/",
+          "thumbnail": "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",
+          "sourceType": "ad",
+          "sourceId": "120212555994650743",
+          "sourceUrl": "https://fb.me/2DzcyejbR",
+          "containsAutoReply": false,
+          "renderLargerThumbnail": true,
+          "showAdAttribution": true,
+          "ctwaClid": "ARBV_z5Inc2KppSKpCUvY7UlhgJfyvgOqsn04nYmRE9__zKmOwJnHho8OFGVa8xJlt9URc4a_a_nDbFvfFsxnOVkNLUrOdi8S26Up-6ESnFpGtbTSq4bkRHGaxwuciZXLvSCyI83pPw"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1734479454",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAElLH/vVV3jBAGM/r0CuKk="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 29 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573144322889@s.whatsapp.net",
+    "fromMe": false,
+    "id": "ED4B40EECAD6DBD2F433EB0571EFE926"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "¡Hola! Quiero más información.",
+      "previewType": "NONE",
+      "contextInfo": {
+        "externalAdReply": {
+          "title": "¡Escríbenos!",
+          "body": "¡Liderazgo y excelencia se cultivan en el Gimnasio Santana del Norte! Nuestros estudiantes son el futuro y nosotros los preparamos para alcanzar sus metas. \nAgenda tu visita y descubre por qué somos la mejor opción para tu hijo.\n\n📞    Contacto 1: 314 491 1034 \n 📞   Contacto 2: 314 492 00 62",
+          "mediaType": "VIDEO",
+          "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.5256-10/470373061_1691202855071705_3771068859072530558_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=109&ccb=1-7&_nc_sid=40cf1a&_nc_ohc=Iu9UTO4FGvoQ7kNvgHK8cyE&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=A0wvLqeNTBM9UCKK94VD1y9&oh=00_AYCdRmKOWN8Fyasg5peC-PkCYjcDfvdQ7USyYimNQjvIgg&oe=6767E351",
+          "mediaUrl": "https://www.facebook.com/gimnasiosantanadelnorte/videos/1132002155111594/",
+          "thumbnail": "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",
+          "sourceType": "ad",
+          "sourceId": "120212833394680743",
+          "sourceUrl": "https://fb.me/4z0323kiu",
+          "containsAutoReply": false,
+          "renderLargerThumbnail": true,
+          "showAdAttribution": true,
+          "ctwaClid": "ARAoiqhMn8oCaPqjHvJdSyuIsMhLyeOnEi-WiEdFr6elhcq04vfXpT_MrERMiNC87ITmi05fq27JebrYvK9bkXf6kvDX1lU97Z53v_mw9cLQlhkLOTS0NuG6iWCqW5VjU-s"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1734479267",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAFbCv3G0EPjBAEfk5xHcnQ="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 30 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1403614406@g.us",
+    "fromMe": false,
+    "id": "D00F5D8EA0F307EF3C11D5EE2EF6A931"
+  },
+  "message": {
+    "conversation": "🤣 acabo de leer esto"
+  },
+  "messageTimestamp": "1734477283",
+  "participant": "573208848586@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAETgK7pLyvjBAERJJzY3+M="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 31 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1403614406@g.us",
+    "fromMe": false,
+    "id": "4484749AE5EBAEF51FEF3B1535C65901"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "Quien es usted ?",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3EB0B107197CAA15821D37",
+        "participant": "573144918800@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Juan no hizo nada!"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1734477267",
+  "participant": "573208848586@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAE1QvcoLubjBAEJwBhmK0I="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 32 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573225848099@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB002B6C932C023649BF9"
+  },
+  "message": {
+    "stickerMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.15575-24/35441071_590477336776779_6444567275021979292_n.enc?ccb=11-4&oh=01_Q5AaID4XQz6xerQeEwvduaupYgm22j82sqslt1Hk8gIb8JTz&oe=6785333D&_nc_sid=5e03e0&mms3=true",
+      "fileSha256": "en07GlIrF31S7+Wn/grwI0X+EdU/kiupuN6LHE/i3q8=",
+      "fileEncSha256": "/Z0UJlvrHwLdhuBSD36/gmkL+6Ex4zjr2IDsclYLzLg=",
+      "mediaKey": "kRxz0kDjmYHmvTkKgFazuq1mWL0r1//eIB1LuwHFNd8=",
+      "mimetype": "image/webp",
+      "height": 64,
+      "width": 64,
+      "directPath": "/v/t62.15575-24/35441071_590477336776779_6444567275021979292_n.enc?ccb=11-4&oh=01_Q5AaIDvQUQDR4zlE9NbG27E--BBaK14srfOY9XEOoI9ALXAy&oe=67895FFD&_nc_sid=5e03e0",
+      "fileLength": "52096",
+      "mediaKeyTimestamp": "1706015864621",
+      "isAnimated": false,
+      "stickerSentTs": "1734476111000",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    }
+  },
+  "messageTimestamp": "1734476111",
+  "status": "READ",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Stickers/STK-20240123-WA0032.webp"
+  },
+  "userReceipt": [
+    {
+      "userJid": "573225848099@s.whatsapp.net",
+      "receiptTimestamp": "1734476112",
+      "readTimestamp": "1734476182",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 33 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573225848099@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0FF54F5FA43B998D971"
+  },
+  "message": {
+    "conversation": "Un abrazo a Mariana"
+  },
+  "messageTimestamp": "1734476108",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "573225848099@s.whatsapp.net",
+      "receiptTimestamp": "1734476109",
+      "readTimestamp": "1734476182",
+      "playedTimestamp": "0"
+    }
+  ],
+  "reactions": [
+    {
+      "key": {
+        "remoteJid": "573225848099@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3A9247A9FADAFE186BE1"
+      },
+      "text": "🙏",
+      "senderTimestampMs": "1734476188988",
+      "unread": true
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 34 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573225848099@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3AEA5D62BA19910C7FBC"
+  },
+  "message": {
+    "conversation": "Gracias a ti, buena tarde"
+  },
+  "messageTimestamp": "1734476043",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAGJauYK+o3jBAH1HRZG8ig="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 35 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573225848099@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB07987A2BF913EEEC468"
+  },
+  "message": {
+    "stickerMessage": {
+      "url": "https://web.whatsapp.net",
+      "fileSha256": "V2RIujLgE6Bt4KeXR4nfkoRcykO4O1owfipguGBYPG0=",
+      "fileEncSha256": "PNNr6DjBtFoG64sdnO8V9FONZMIaYBKfV29w4Dt4MJY=",
+      "mediaKey": "PKrRlFwAgqMsN9pAE/oHMSpHjfz0miaXTPZHyoPZd/g=",
+      "mimetype": "image/webp",
+      "height": 64,
+      "width": 64,
+      "directPath": "/v/t62.15575-24/20124586_580806914361982_3514270042283371383_n.enc?ccb=11-4&oh=01_Q5AaIF-w1odDIMrKyLX94ePyxODmVGDvD-D4bMXpU5pOGVFI&oe=67895D58&_nc_sid=5e03e0",
+      "fileLength": "54122",
+      "mediaKeyTimestamp": "1708437909075",
+      "isAnimated": false,
+      "stickerSentTs": "1734476026000",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    }
+  },
+  "messageTimestamp": "1734476026",
+  "status": "READ",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Stickers/STK-20240220-WA0006.webp"
+  },
+  "userReceipt": [
+    {
+      "userJid": "573225848099@s.whatsapp.net",
+      "receiptTimestamp": "1734476026",
+      "readTimestamp": "1734476026",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 36 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573225848099@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB00928C35791A4BEAEF2"
+  },
+  "message": {
+    "conversation": "Mil gracias, claro así hago el registro y habilitamos plataforma"
+  },
+  "messageTimestamp": "1734476023",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "573225848099@s.whatsapp.net",
+      "receiptTimestamp": "1734476023",
+      "readTimestamp": "1734476023",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 37 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573225848099@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3A65E91702ABC4939406"
+  },
+  "message": {
+    "conversation": "Apenas tengo el comprobante de pago, te lo envío"
+  },
+  "messageTimestamp": "1734476004",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAGToMAmavfjBAGvoexBK9s="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 38 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573225848099@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3AA39223541A7A556A8C"
+  },
+  "message": {
+    "conversation": "Por pse estaría excelente"
+  },
+  "messageTimestamp": "1734475997",
+  "reactions": [
+    {
+      "key": {
+        "remoteJid": "573225848099@s.whatsapp.net",
+        "fromMe": true,
+        "id": "3EB014356AD51486107609"
+      },
+      "text": "👍",
+      "senderTimestampMs": "1734476003000",
+      "unread": true
+    }
+  ],
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAFVC5RwmNTjBAGQS/VyZCg="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 39 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573225848099@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3AC5B0E5CD2C904E6E25"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "Entendido",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3EB078304521455D83BE8B",
+        "participant": "573144911034@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Ahí cubres el pago (anual) de:\nMatricula: $1.885.000\nSeguro Estudiantil: $75.000\nRecursos complementarios: $750.000"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1734475992",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAGsXrf7uOLjBAFPQeQT5SQ="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 40 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573225848099@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3A96A4734EA8FCE7AAD3"
+  },
+  "message": {
+    "conversation": "Perfecto, claro que si"
+  },
+  "messageTimestamp": "1734475988",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAHBdlN2T4TjBAHfWvy3TGI="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 41 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573225848099@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0E1123FCD0DE6608745"
+  },
+  "message": {
+    "conversation": "O puedes realizar transferencia o pago a través de nuestra cuenta corriente de Davivienda"
+  },
+  "messageTimestamp": "1734475950",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "573225848099@s.whatsapp.net",
+      "receiptTimestamp": "1734475951",
+      "readTimestamp": "1734475963",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 42 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573225848099@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB034AF2E547976C6FA27"
+  },
+  "message": {
+    "conversation": "En código diligencias el número de documento de Mariana\nConcepto: Matrícula - Seguro - Recursos 2025"
+  },
+  "messageTimestamp": "1734475882",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "573225848099@s.whatsapp.net",
+      "receiptTimestamp": "1734475882",
+      "readTimestamp": "1734475882",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 43 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573225848099@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0F44CC68A42D4A33974"
+  },
+  "message": {
+    "imageMessage": {
+      "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f2/m234/AQOdD1XfiUJzFOd8bN_bzKpwBRbwj5lUr_bjRJ--k_j-jYjWN8ZZI31OlNa9UdAksMksjoDNfzUVI3tXKSCW2PB5yGr5CBbERU5PbGfnCw?ccb=9-4&oh=01_Q5AaIL9PQYKhBKdraNGjsxxQHnoNZiTjEEXv7rdtIlq4lRv_&oe=678963C6&_nc_sid=e6ed6c&mms3=true",
+      "mimetype": "image/jpeg",
+      "fileSha256": "052kWwaP/62bIJWyrUEpSJokjmpWq7Uzjk3VG/4PQVQ=",
+      "fileLength": "84724",
+      "height": 870,
+      "width": 887,
+      "mediaKey": "qwPKu+3y85nkr6Kb+mbGay21G1K9ZoOT37KfkvEfDXo=",
+      "fileEncSha256": "jHq25npt1K7Ws6vQNYxMrzdyECGDSbXJekuC6BZIl/g=",
+      "directPath": "/o1/v/t62.7118-24/f2/m234/AQOdD1XfiUJzFOd8bN_bzKpwBRbwj5lUr_bjRJ--k_j-jYjWN8ZZI31OlNa9UdAksMksjoDNfzUVI3tXKSCW2PB5yGr5CBbERU5PbGfnCw?ccb=9-4&oh=01_Q5AaIL9PQYKhBKdraNGjsxxQHnoNZiTjEEXv7rdtIlq4lRv_&oe=678963C6&_nc_sid=e6ed6c",
+      "mediaKeyTimestamp": "1734475839"
+    }
+  },
+  "messageTimestamp": "1734475841",
+  "status": "READ",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Images/Sent/IMG-20241217-WA0095.jpg"
+  },
+  "userReceipt": [
+    {
+      "userJid": "573225848099@s.whatsapp.net",
+      "receiptTimestamp": "1734475842",
+      "readTimestamp": "1734475879",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 44 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573225848099@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0ACE57BE5BEFBABAE17"
+  },
+  "message": {
+    "imageMessage": {
+      "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f2/m237/AQPdOqUOow7GhP63N_wznRId0l7qdL14Vnv8kvcMTrM9h37YtV2VclV3bfR2rEp9cBlndm6DO9sDaNg0UXlI9hYAJataAoe8D4ilEYdvpA?ccb=9-4&oh=01_Q5AaIHDfQbmltIvtkfRsyPTEzvqJS3CXHHyFLB6nXkPA0uqv&oe=67896D7A&_nc_sid=e6ed6c&mms3=true",
+      "mimetype": "image/jpeg",
+      "fileSha256": "bTL5krgk+pm4Ir5/e+y8eEeUeQE0MrCV3S1obc7P08A=",
+      "fileLength": "4339",
+      "height": 67,
+      "width": 365,
+      "mediaKey": "SFgTDlfvQ6j6GCbpEFsOwsAieQ1sKjDEiyUvX0PwY08=",
+      "fileEncSha256": "wFWPEn/rqcTpmaXunv8o6G4vstpqT7Kk5UBoHvJ2KEU=",
+      "directPath": "/o1/v/t62.7118-24/f2/m237/AQPdOqUOow7GhP63N_wznRId0l7qdL14Vnv8kvcMTrM9h37YtV2VclV3bfR2rEp9cBlndm6DO9sDaNg0UXlI9hYAJataAoe8D4ilEYdvpA?ccb=9-4&oh=01_Q5AaIHDfQbmltIvtkfRsyPTEzvqJS3CXHHyFLB6nXkPA0uqv&oe=67896D7A&_nc_sid=e6ed6c",
+      "mediaKeyTimestamp": "1734475805"
+    }
+  },
+  "messageTimestamp": "1734475807",
+  "status": "READ",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Images/Sent/IMG-20241217-WA0094.jpg"
+  },
+  "userReceipt": [
+    {
+      "userJid": "573225848099@s.whatsapp.net",
+      "receiptTimestamp": "1734475808",
+      "readTimestamp": "1734475808",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 45 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573225848099@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0996B89470040AFA7FE"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "https://www.gimnasiosantanadelnorte.edu.co/",
+      "matchedText": "https://www.gimnasiosantanadelnorte.edu.co/",
+      "canonicalUrl": "https://www.gimnasiosantanadelnorte.edu.co/",
+      "description": "Jardín Infantil Gimnasio Santana del Norte - Bogotá, Somos el mejor jardín infantil de Colombia - Jardines Infantiles preescolar a quinto grado - jardín infantil Bilingüe - Sede Norte de Bogotá .",
+      "title": "Gimnasio Santana del Norte | El Mejor Jardín Infantil Bilingüe de Colombia",
+      "previewType": "NONE",
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1734475793",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "573225848099@s.whatsapp.net",
+      "receiptTimestamp": "1734475794",
+      "readTimestamp": "1734475802",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 46 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573225848099@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB09197B816F2A81E3A89"
+  },
+  "message": {
+    "conversation": "Puedes realizar el pago por PSE"
+  },
+  "messageTimestamp": "1734475776",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "573225848099@s.whatsapp.net",
+      "receiptTimestamp": "1734475777",
+      "readTimestamp": "1734475802",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 47 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573227702533@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0A1CDC17336BFFB456D"
+  },
+  "message": {
+    "conversation": "Es posible que asistas a una visita?"
+  },
+  "messageTimestamp": "1734472619",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "573227702533@s.whatsapp.net",
+      "receiptTimestamp": "1734472619",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 48 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573103193368@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB017FA1E232117DD0523"
+  },
+  "message": {
+    "conversation": "Me cuentas cualquier novedad"
+  },
+  "messageTimestamp": "1734472501",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "573103193368@s.whatsapp.net",
+      "receiptTimestamp": "1734472501",
+      "readTimestamp": "1734517334",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 49 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573144918800@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB0B69B6FFE0578062D47"
+  },
+  "message": {
+    "documentWithCaptionMessage": {
+      "message": {
+        "documentMessage": {
+          "url": "https://mmg.whatsapp.net/v/t62.7119-24/11664209_1064847752054011_6864398315248167054_n.enc?ccb=11-4&oh=01_Q5AaIF_UuDFp1wdUHe7gFigYj4e9_RrDXZA7Z55EmGeCSzvE&oe=67897193&_nc_sid=5e03e0&mms3=true",
+          "mimetype": "application/pdf",
+          "title": "ANTONELLA VACCA AÑO 2025.pdf",
+          "fileSha256": "THR5W4+Ag1I/6oS1cSWiZA1xu8C3Oty4E5wu5WNtRdg=",
+          "fileLength": "40197",
+          "pageCount": 1,
+          "mediaKey": "1DM/t0CXEnibeIFzTHwbPG0RjEGAe8Man7mwWcN+ags=",
+          "fileName": "ANTONELLA VACCA AÑO 2025.pdf",
+          "fileEncSha256": "aSV5pJHtH9Gk61y48mkW6XDSzUXN2qRPov+pKizi3Ic=",
+          "directPath": "/v/t62.7119-24/11664209_1064847752054011_6864398315248167054_n.enc?ccb=11-4&oh=01_Q5AaIF_UuDFp1wdUHe7gFigYj4e9_RrDXZA7Z55EmGeCSzvE&oe=67897193&_nc_sid=5e03e0",
+          "mediaKeyTimestamp": "1734471996",
+          "thumbnailDirectPath": "/v/t62.36145-24/31827181_1701391430805462_5347865231145395311_n.enc?ccb=11-4&oh=01_Q5AaIFBEJ0HjYIte_a1BclI6Cd0sKewVLkpBX1leRF2dClTc&oe=67894FB0&_nc_sid=5e03e0",
+          "thumbnailSha256": "lfqryz9GqhSQd6BeLErH3cYJ3ZYfu6237LmQ8UQQMn8=",
+          "thumbnailEncSha256": "uL2mWnNfyvxUS9q4RtofeRgHBY8e3w5k5bI/5hVJJJc=",
+          "thumbnailHeight": 31,
+          "thumbnailWidth": 19,
+          "caption": "ANTONELLA VACCA AÑO 2025.pdf"
+        }
+      }
+    }
+  },
+  "messageTimestamp": "1734471998",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Documents/ANTONELLA VACCA AÑO 2025.pdf"
+  },
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAEOZzdXuHjjBAH+ab9AiYI="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 50 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1474388254@g.us",
+    "fromMe": false,
+    "id": "4ECACD72179D5F60C2E9EF6D7FAA518A"
+  },
+  "message": {
+    "conversation": "Perfecto Ale jacqueline ya estoy sentada con Carlos revisando ese tema"
+  },
+  "messageTimestamp": "1734471988",
+  "participant": "573206075566@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAE1hCRLkffjBAF/elO04Gg="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 51 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573203342624@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB02F749FD5F0B9AA2488"
+  },
+  "message": {
+    "conversation": "Con mucho gusto"
+  },
+  "messageTimestamp": "1734470972",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "573203342624@s.whatsapp.net",
+      "receiptTimestamp": "1734470974",
+      "readTimestamp": "1734472369",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 52 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573223619032@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB036D98E5028E26A60A4"
+  },
+  "message": {
+    "conversation": "En esa jornada la mensualidad es de $1.900.000 e incluye onces y almuerzo"
+  },
+  "messageTimestamp": "1734470763",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "573223619032@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1734470782",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 53 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573204598540@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0415F0FAE79296B72AA"
+  },
+  "message": {
+    "conversation": "Ellos pueden estar en jornada de 8 a 12, 8 a 3, 8 a 6"
+  },
+  "messageTimestamp": "1734470500",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "573204598540@s.whatsapp.net",
+      "receiptTimestamp": "1734470502",
+      "readTimestamp": "1734499533",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 54 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573204598540@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB07B91F894DA292D95C2"
+  },
+  "message": {
+    "conversation": "Tu bebe ingresaría a grado Toddlers"
+  },
+  "messageTimestamp": "1734470481",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "573204598540@s.whatsapp.net",
+      "receiptTimestamp": "1734470483",
+      "readTimestamp": "1734499533",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 55 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573508311290@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB095C9471E1F5E3C2CBE"
+  },
+  "message": {
+    "stickerMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.15575-24/35441071_590477336776779_6444567275021979292_n.enc?ccb=11-4&oh=01_Q5AaID4XQz6xerQeEwvduaupYgm22j82sqslt1Hk8gIb8JTz&oe=6785333D&_nc_sid=5e03e0&mms3=true",
+      "fileSha256": "en07GlIrF31S7+Wn/grwI0X+EdU/kiupuN6LHE/i3q8=",
+      "fileEncSha256": "/Z0UJlvrHwLdhuBSD36/gmkL+6Ex4zjr2IDsclYLzLg=",
+      "mediaKey": "kRxz0kDjmYHmvTkKgFazuq1mWL0r1//eIB1LuwHFNd8=",
+      "mimetype": "image/webp",
+      "height": 64,
+      "width": 64,
+      "directPath": "/v/t62.15575-24/35441071_590477336776779_6444567275021979292_n.enc?ccb=11-4&oh=01_Q5AaIDvQUQDR4zlE9NbG27E--BBaK14srfOY9XEOoI9ALXAy&oe=67895FFD&_nc_sid=5e03e0",
+      "fileLength": "52096",
+      "mediaKeyTimestamp": "1706015864621",
+      "isAnimated": false,
+      "stickerSentTs": "1734470389000",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    }
+  },
+  "messageTimestamp": "1734470389",
+  "status": "READ",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Stickers/STK-20240123-WA0032.webp"
+  },
+  "userReceipt": [
+    {
+      "userJid": "573508311290@s.whatsapp.net",
+      "receiptTimestamp": "1734470390",
+      "readTimestamp": "1734470777",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 56 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573108582334@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0EDB4F09E77BFE8B3D4"
+  },
+  "message": {
+    "conversation": "El modelo pedagógico EpC (Enseñanza para la Comprensión) es un enfoque educativo que tiene como objetivo principal desarrollar habilidades cognitivas profundas en niños y niñas, promoviendo no solo la memorización de información, sino la verdadera comprensión y el uso significativo de los conocimientos.\n\nEste modelo enfatiza el aprendizaje activo, donde los estudiantes no son simples receptores de información, sino participantes activos que construyen su conocimiento a través de la reflexión, la resolución de problemas y el análisis crítico. El enfoque busca que nuestros estudiantes comprendan los contenidos de manera integral y puedan transferir lo aprendido a nuevas situaciones, desarrollando habilidades de pensamiento crítico y autónomo."
+  },
+  "messageTimestamp": "1734470275",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "573108582334@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1734479802",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 57 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573108582334@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0EB421E8B8FCFA957E5"
+  },
+  "message": {
+    "conversation": "Nuestro PEI es EpC - Enseñanza para la comprensión"
+  },
+  "messageTimestamp": "1734470213",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "573108582334@s.whatsapp.net",
+      "receiptTimestamp": "1734470214",
+      "readTimestamp": "1734479802",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 58 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573204598540@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3A9D446EFC34C7F3F1B1"
+  },
+  "message": {
+    "conversation": "No señora"
+  },
+  "messageTimestamp": "1734470205",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAFkkQkivrjjBAHO5+IOqCU="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 59 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573108582334@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0003564D70BADED2CEB"
+  },
+  "message": {
+    "conversation": "Somos un colegio Bilingüe, recibimos bebes desde los 6 meses de edad hasta grado 5 de básica primaria"
+  },
+  "messageTimestamp": "1734470197",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "573108582334@s.whatsapp.net",
+      "receiptTimestamp": "1734470198",
+      "readTimestamp": "1734479802",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 60 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573173719755@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB04396A900B502B64D36"
+  },
+  "message": {
+    "stickerMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.15575-24/35441071_590477336776779_6444567275021979292_n.enc?ccb=11-4&oh=01_Q5AaID4XQz6xerQeEwvduaupYgm22j82sqslt1Hk8gIb8JTz&oe=6785333D&_nc_sid=5e03e0&mms3=true",
+      "fileSha256": "en07GlIrF31S7+Wn/grwI0X+EdU/kiupuN6LHE/i3q8=",
+      "fileEncSha256": "/Z0UJlvrHwLdhuBSD36/gmkL+6Ex4zjr2IDsclYLzLg=",
+      "mediaKey": "kRxz0kDjmYHmvTkKgFazuq1mWL0r1//eIB1LuwHFNd8=",
+      "mimetype": "image/webp",
+      "height": 64,
+      "width": 64,
+      "directPath": "/v/t62.15575-24/35441071_590477336776779_6444567275021979292_n.enc?ccb=11-4&oh=01_Q5AaIDvQUQDR4zlE9NbG27E--BBaK14srfOY9XEOoI9ALXAy&oe=67895FFD&_nc_sid=5e03e0",
+      "fileLength": "52096",
+      "mediaKeyTimestamp": "1706015864621",
+      "isAnimated": false,
+      "stickerSentTs": "1734470140000",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    }
+  },
+  "messageTimestamp": "1734470140",
+  "status": "DELIVERY_ACK",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Stickers/STK-20240123-WA0032.webp"
+  },
+  "userReceipt": [
+    {
+      "userJid": "573173719755@s.whatsapp.net",
+      "receiptTimestamp": "1734477198",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 61 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573134055148@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0EA8A8D4D69CFF74CBC"
+  },
+  "message": {
+    "stickerMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.15575-24/35441071_590477336776779_6444567275021979292_n.enc?ccb=11-4&oh=01_Q5AaID4XQz6xerQeEwvduaupYgm22j82sqslt1Hk8gIb8JTz&oe=6785333D&_nc_sid=5e03e0&mms3=true",
+      "fileSha256": "en07GlIrF31S7+Wn/grwI0X+EdU/kiupuN6LHE/i3q8=",
+      "fileEncSha256": "/Z0UJlvrHwLdhuBSD36/gmkL+6Ex4zjr2IDsclYLzLg=",
+      "mediaKey": "kRxz0kDjmYHmvTkKgFazuq1mWL0r1//eIB1LuwHFNd8=",
+      "mimetype": "image/webp",
+      "height": 64,
+      "width": 64,
+      "directPath": "/v/t62.15575-24/35441071_590477336776779_6444567275021979292_n.enc?ccb=11-4&oh=01_Q5AaIDvQUQDR4zlE9NbG27E--BBaK14srfOY9XEOoI9ALXAy&oe=67895FFD&_nc_sid=5e03e0",
+      "fileLength": "52096",
+      "mediaKeyTimestamp": "1706015864621",
+      "isAnimated": false,
+      "stickerSentTs": "1734470084000",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    }
+  },
+  "messageTimestamp": "1734470084",
+  "status": "READ",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Stickers/STK-20240123-WA0032.webp"
+  },
+  "userReceipt": [
+    {
+      "userJid": "573134055148@s.whatsapp.net",
+      "receiptTimestamp": "1734470084",
+      "readTimestamp": "1734470181",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 62 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573114649081@s.whatsapp.net",
+    "fromMe": false,
+    "id": "BF76750D0E91395E5187AA0E435A60F9"
+  },
+  "message": {
+    "audioMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7117-24/56110955_9583692388326237_6374294928247791886_n.enc?ccb=11-4&oh=01_Q5AaINX-liYUFxjmaEgXCx6ZAJWIhQqopP0t76KuzUyBlp7A&oe=67895868&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "audio/ogg; codecs=opus",
+      "fileSha256": "rvmoHs4Ud042fOU+5P7V0OOB7Jh2Oft82/TiBcnYK8g=",
+      "fileLength": "54135",
+      "seconds": 22,
+      "ptt": true,
+      "mediaKey": "ZAPS5bb3c84yhNNO5bV2MEXE2QRyVelzBByqXzGnFn0=",
+      "fileEncSha256": "AjS4WSAjrY+lDXQbwxt+EHybks4Y60bnS9B0/KZWZRo=",
+      "directPath": "/v/t62.7117-24/56110955_9583692388326237_6374294928247791886_n.enc?ccb=11-4&oh=01_Q5AaINX-liYUFxjmaEgXCx6ZAJWIhQqopP0t76KuzUyBlp7A&oe=67895868&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1734470004",
+      "waveform": "ACJEOU0/PTdLTyETSSYyLlFXQVZGUyw6KFFdU1Y+VUlNG1NQRCwlNUY+PEVLPCtBURVQRj9OOBpMODNFN0s/HA=="
+    }
+  },
+  "messageTimestamp": "1734470025",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Voice Notes/202451/PTT-20241217-WA0091.opus"
+  },
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAEr04c/X4vjBAEDW4KtOpc="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 63 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573204598540@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0DA3E1F3A37871F8F99"
+  },
+  "message": {
+    "conversation": "Tu bebe ha estado escolarizado?"
+  },
+  "messageTimestamp": "1734470013",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "573204598540@s.whatsapp.net",
+      "receiptTimestamp": "1734470014",
+      "readTimestamp": "1734470200",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 64 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573204598540@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3A8B78129CEB64E613E5"
+  },
+  "message": {
+    "conversation": "12 de agosto del 2023"
+  },
+  "messageTimestamp": "1734469922",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAHqs+lM1l/jBAE6hNBsMu0="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 65 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573204598540@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB02929D3D4836AC6F2DA"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "Con gusto me indicas por favor la fecha de nacimiento de tu bebe",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3A94522FCCB1412A024C",
+        "participant": "573204598540@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Me gustaría conoce costos"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1734469692",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "573204598540@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1734469911",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 66 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573204598540@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0A435E998A8AE3EA01F"
+  },
+  "message": {
+    "conversation": "Super gracias a Dios"
+  },
+  "messageTimestamp": "1734469646",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "573204598540@s.whatsapp.net",
+      "receiptTimestamp": "0",
+      "readTimestamp": "1734469911",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 67 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1403614406@g.us",
+    "fromMe": false,
+    "id": "3EB075912295D02D54ACD3"
+  },
+  "message": {
+    "conversation": "no me dejan ingresar"
+  },
+  "messageTimestamp": "1734468505",
+  "participant": "573144918800@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAHNFqaWOEfjBAHiTdQFfC0="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 68 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1403614406@g.us",
+    "fromMe": false,
+    "id": "3EB05EA903C7CB0DADBDDD"
+  },
+  "message": {
+    "imageMessage": {
+      "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f2/m269/AQMaYkOOn0EwIWqP4GbTLQLLa4CBcymDg9k12yH6-UKWe-YaQXwMck9jzfIO1Mu34ij7XKBjF4FLZSICYl3JMgNM5GholWLptRSzOCtrcg?ccb=9-4&oh=01_Q5AaIOxla8eMuYCoMWTLgLz4Onbfo81zv_PP6meQ4LxRbUik&oe=67896979&_nc_sid=e6ed6c&mms3=true",
+      "mimetype": "image/jpeg",
+      "fileSha256": "/BsW/VUo7UlxB9DOCkY2PPwitx5TLFIS9/5IGa1hHEA=",
+      "fileLength": "63132",
+      "height": 900,
+      "width": 1600,
+      "mediaKey": "ebzaDYaoDiEuDrDEcXkTp/oRkeqz+g/XxXTB2zUKUXk=",
+      "fileEncSha256": "svPlqHYJqi98zUoQOkf3eIUC/Ekd4ReGLv3iq8Jb31Y=",
+      "directPath": "/o1/v/t62.7118-24/f2/m269/AQMaYkOOn0EwIWqP4GbTLQLLa4CBcymDg9k12yH6-UKWe-YaQXwMck9jzfIO1Mu34ij7XKBjF4FLZSICYl3JMgNM5GholWLptRSzOCtrcg?ccb=9-4&oh=01_Q5AaIOxla8eMuYCoMWTLgLz4Onbfo81zv_PP6meQ4LxRbUik&oe=67896979&_nc_sid=e6ed6c",
+      "mediaKeyTimestamp": "1734468494"
+    }
+  },
+  "messageTimestamp": "1734468496",
+  "participant": "573144918800@s.whatsapp.net",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Images/IMG-20241217-WA0090.jpg"
+  },
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAFthRt84JvjBAGNCAyu5nk="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 69 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1403614406@g.us",
+    "fromMe": false,
+    "id": "3EB0B107197CAA15821D37"
+  },
+  "message": {
+    "conversation": "Juan no hizo nada!"
+  },
+  "messageTimestamp": "1734468433",
+  "participant": "573144918800@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAFEu0EoAArjBAEkcY9KX+c="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 70 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1403614406@g.us",
+    "fromMe": false,
+    "id": "3A0E500C15C9F48FD488"
+  },
+  "message": {
+    "conversation": "Constanza. ??  Juan montó el módulo espero tus aporte. ??"
+  },
+  "messageTimestamp": "1734468403",
+  "participant": "573102201371@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAG476sNMZzjBAGCJj6QX9c="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 71 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573103632998@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB07DA3CEC581063A0F11"
+  },
+  "message": {
+    "stickerMessage": {
+      "url": "https://web.whatsapp.net",
+      "fileSha256": "V2RIujLgE6Bt4KeXR4nfkoRcykO4O1owfipguGBYPG0=",
+      "fileEncSha256": "PNNr6DjBtFoG64sdnO8V9FONZMIaYBKfV29w4Dt4MJY=",
+      "mediaKey": "PKrRlFwAgqMsN9pAE/oHMSpHjfz0miaXTPZHyoPZd/g=",
+      "mimetype": "image/webp",
+      "height": 64,
+      "width": 64,
+      "directPath": "/v/t62.15575-24/20124586_580806914361982_3514270042283371383_n.enc?ccb=11-4&oh=01_Q5AaIF-w1odDIMrKyLX94ePyxODmVGDvD-D4bMXpU5pOGVFI&oe=67895D58&_nc_sid=5e03e0",
+      "fileLength": "54122",
+      "mediaKeyTimestamp": "1708437909075",
+      "isAnimated": false,
+      "stickerSentTs": "1734468330000",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    }
+  },
+  "messageTimestamp": "1734468330",
+  "status": "DELIVERY_ACK",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Stickers/STK-20240220-WA0006.webp"
+  },
+  "userReceipt": [
+    {
+      "userJid": "573103632998@s.whatsapp.net",
+      "receiptTimestamp": "1734468331",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 72 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573106777163@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3A33D54A623036437809"
+  },
+  "message": {
+    "conversation": "Gracias"
+  },
+  "messageTimestamp": "1734468317",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAH1aOPIj4vjBAFqEkW6or0="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 73 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1403614406@g.us",
+    "fromMe": false,
+    "id": "3A23A7911BF87B4696F5"
+  },
+  "message": {
+    "conversation": "Correo del servicio al cliente."
+  },
+  "messageTimestamp": "1734468200",
+  "participant": "573102201371@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAE1VgfOYGnjBAHGkzEFuVs="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 74 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1403614406@g.us",
+    "fromMe": false,
+    "id": "3A0D6CB3AE58E90BBED3"
+  },
+  "message": {
+    "conversation": "Es la entrega del músico de tesorería. Facturación.   Y recibos de caja."
+  },
+  "messageTimestamp": "1734468168",
+  "participant": "573102201371@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAFJKhoWsFDjBAGlutJom+4="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 75 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1403614406@g.us",
+    "fromMe": false,
+    "id": "3A6F9121F689AE55FAE8"
+  },
+  "message": {
+    "conversation": "Constanza. Espero tus aportes. A Phideas."
+  },
+  "messageTimestamp": "1734468141",
+  "participant": "573102201371@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAGpStg4lHvjBAFyn2lrfPo="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 76 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573144920062@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB0243CDA346FD8066B45"
+  },
+  "message": {
+    "conversation": "este es el link para enviar siempre a os aspirantes"
+  },
+  "messageTimestamp": "1734468075",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAEXA2In6MTjBAEOx+VPkz0="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 77 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1403614406@g.us",
+    "fromMe": false,
+    "id": "3A17A12CDD479C99AEC7"
+  },
+  "message": {
+    "conversation": "Estamos en capacitación."
+  },
+  "messageTimestamp": "1734468055",
+  "participant": "573102201371@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAFHMEomROjjBAFtwliLjgI="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 78 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1403614406@g.us",
+    "fromMe": false,
+    "id": "3A88D7502D4D12F1FC0E"
+  },
+  "message": {
+    "conversation": "Por favor"
+  },
+  "messageTimestamp": "1734468039",
+  "participant": "573102201371@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAHRMSKslNbjBAEuF2+i21A="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 79 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1403614406@g.us",
+    "fromMe": false,
+    "id": "3EB03134CC407BFA1250FE"
+  },
+  "message": {
+    "conversation": "POR CONTADORES"
+  },
+  "messageTimestamp": "1734468037",
+  "participant": "573144918800@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAHLLk33wa/jBAFs8lvPk1c="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 80 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1403614406@g.us",
+    "fromMe": false,
+    "id": "3AD6284033510859C71C"
+  },
+  "message": {
+    "conversation": "Constanza. Tienen un chat de contabilidad."
+  },
+  "messageTimestamp": "1734468036",
+  "participant": "573102201371@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAEZj0VL7+njBAFr/TYFNtE="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 81 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1403614406@g.us",
+    "fromMe": false,
+    "id": "3A16776EA8D953682F73"
+  },
+  "message": {
+    "conversation": "Esto no es para eso."
+  },
+  "messageTimestamp": "1734468024",
+  "participant": "573102201371@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAG+8cpI6NLjBAH07LybM8w="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 82 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1403614406@g.us",
+    "fromMe": false,
+    "id": "3EB092B170D779F052C8B1"
+  },
+  "message": {
+    "conversation": "YA ENVIE LA MACRO"
+  },
+  "messageTimestamp": "1734468012",
+  "participant": "573144918800@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAEPQjg4ZNbjBAE7zrvPfpE="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 83 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573144911034@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3938A9D292119CB54C2E061AAA072318"
+  },
+  "message": {
+    "imageMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7118-24/33568004_509073392287776_9181071361622217531_n.enc?ccb=11-4&oh=01_Q5AaIAcyPAF_Wb26KH5fr1Qn-eZ8j7-c9KbITONjunyHvrKz&oe=67895874&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "image/jpeg",
+      "fileSha256": "5X6tvC7uo727UM0+agZBYcZgZuBxsILVa9FH86xHifA=",
+      "fileLength": "61247",
+      "height": 1200,
+      "width": 540,
+      "mediaKey": "VctMPnYxXzgMlkwGfBZPeVhIFEi9dUbc8C/NxAae144=",
+      "fileEncSha256": "WboQaxIzlVoOFg3fbNkCGsrUQB6hbrh9Np7A08TUTqk=",
+      "directPath": "/v/t62.7118-24/33568004_509073392287776_9181071361622217531_n.enc?ccb=11-4&oh=01_Q5AaIAcyPAF_Wb26KH5fr1Qn-eZ8j7-c9KbITONjunyHvrKz&oe=67895874&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1734467762",
+      "scansSidecar": "JTSfJ96sXcBAMkFn2yM4VuPBUNWY7xTkOJRdQq5tSqreHExbPaXtbg==",
+      "scanLengths": [
+        5767,
+        27113,
+        11839,
+        16528
+      ],
+      "midQualityFileSha256": "knbldfGP0iIgVEQxu9cmYKa3HoImWc2c9LSPnXdmOIY="
+    }
+  },
+  "messageTimestamp": "1734467762",
+  "status": "READ",
+  "messageC2STimestamp": "1734467764",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Images/Sent/IMG-20241217-WA0087.jpg"
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 84 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1450830104@g.us",
+    "fromMe": false,
+    "id": "773958493E71C6286F0C3F66A9181208"
+  },
+  "message": {
+    "conversation": "Yo hice lo que tú me dijiste de la pauta arregle la tarjeta le puse matrículas abiertas hice todo lo que me dijiste"
+  },
+  "messageTimestamp": "1734466378",
+  "participant": "573123319821@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAFROBWqcffjBAHrIGI8oDo="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 85 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573182376561@s.whatsapp.net",
+    "fromMe": false,
+    "id": "D15AD3D6CC4E500CCFC821D044F60034"
+  },
+  "message": {
+    "audioMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7117-24/32822620_1380086392973796_820390713929177071_n.enc?ccb=11-4&oh=01_Q5AaIK_aydYRPCs8wSgD1WwmZZkDUaAkwP2y3w0EqURs4khy&oe=67896250&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "audio/ogg; codecs=opus",
+      "fileSha256": "arH888mn2+OwNEszCEc7p2DJ8kU+cnwyt5THWc1TPlY=",
+      "fileLength": "6486",
+      "seconds": 2,
+      "ptt": true,
+      "mediaKey": "kWE51OJDkz+fBwoc7i0Z6V5f+IaJa5rqn0BAd1BcP+U=",
+      "fileEncSha256": "Puhn5qlSNXFtog1+ZX0GEQ48mHgeRx9jTGMKAF7wHwA=",
+      "directPath": "/v/t62.7117-24/32822620_1380086392973796_820390713929177071_n.enc?ccb=11-4&oh=01_Q5AaIK_aydYRPCs8wSgD1WwmZZkDUaAkwP2y3w0EqURs4khy&oe=67896250&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1734465827",
+      "waveform": "AAAAABw3NC4yLjY6Pj02NTJAQj88Ozo5PDk4Nzo+Pz08NzczMR8DAgAAIDQ6NjAyMjk8PDYgAwUpMDU1NTEjGA=="
+    }
+  },
+  "messageTimestamp": "1734465829",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Voice Notes/202451/PTT-20241217-WA0081.opus"
+  },
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAEammNgj8bjBAETqNaP3wU="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 86 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1450830104@g.us",
+    "fromMe": false,
+    "id": "3A5618A45B85ED1A3DB1"
+  },
+  "message": {
+    "conversation": "La programación. De esta semana. ??  Que sale mañana. En redes.  Teatro. Todo lo q va a salir. ???"
+  },
+  "messageTimestamp": "1734465093",
+  "participant": "573102201371@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAHyLKBkZFrjBAG/v29cdbw="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 87 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1450830104@g.us",
+    "fromMe": false,
+    "id": "3AE2F8B9C95C158DFC76"
+  },
+  "message": {
+    "conversation": "No el informe."
+  },
+  "messageTimestamp": "1734465069",
+  "participant": "573102201371@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAEpFalP3aDjBAFOLpfjVDI="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 88 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573159270571@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3EB0C1FE89FA27BEFB2D78"
+  },
+  "message": {
+    "conversation": "en Phideas"
+  },
+  "messageTimestamp": "1734465044",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAFdXIpB0AnjBAHlyWs3dRQ="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 89 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1474388254@g.us",
+    "fromMe": false,
+    "id": "3A10900057BA4E9474F0"
+  },
+  "message": {
+    "conversation": "Aquí solo temas de alumnos. Y devoluciones."
+  },
+  "messageTimestamp": "1734464970",
+  "participant": "573102201371@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAExAYwfsKPjBAFJGkuC7no="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 90 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1474388254@g.us",
+    "fromMe": false,
+    "id": "3ABAC6DE1C19E1385DDE"
+  },
+  "message": {
+    "conversation": "Déjame ver el recibo de.  Caja de alumno de las cesantías."
+  },
+  "messageTimestamp": "1734464954",
+  "participant": "573102201371@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAEccvqa6aXjBAGpwV5MKe0="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 91 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573182725673@s.whatsapp.net",
+    "fromMe": false,
+    "id": "2E02B764C5B2B2EE58C2E58E4D4D59EE"
+  },
+  "message": {
+    "conversation": "Muchas gracias estoy en Neiva"
+  },
+  "messageTimestamp": "1734464607",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAHQtIDThwfjBAG+QXFMkwU="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 92 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1450830104@g.us",
+    "fromMe": false,
+    "id": "3EB0F9EDC804B1BEC9F471"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "Perfecto, voy a parar lo que estoy haciendo de la pagina web y ya mismo te envio el informe con las peliculas, las fechas y todo lo que se hizo y lo que se planea hacer... Lo que se aprobo y lo que no. \nYa te lo envio",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3A0836A21970E7E1F936",
+        "participant": "573102201371@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Pásame el cuadro de las campañas. \n\nLes pedí con Sara que programara. \n\nTeatro \nQue película. ?? \n\nEnvío masivo del tiempo. \n\nQuien va a manejar la cámara. De comercio de  14 mil cliente. ???  A quien contrataron."
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1734463919",
+  "participant": "573144920062@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAHEReph7CPjBAE2+E8Ca6w="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 93 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1450830104@g.us",
+    "fromMe": false,
+    "id": "3A0836A21970E7E1F936"
+  },
+  "message": {
+    "conversation": "Pásame el cuadro de las campañas. \n\nLes pedí con Sara que programara. \n\nTeatro \nQue película. ?? \n\nEnvío masivo del tiempo. \n\nQuien va a manejar la cámara. De comercio de  14 mil cliente. ???  A quien contrataron."
+  },
+  "messageTimestamp": "1734463812",
+  "participant": "573102201371@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAHS8rrPzqrjBAEAgRY1O5g="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 94 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1450830104@g.us",
+    "fromMe": false,
+    "id": "3EB0827CEA448A5C3686DD"
+  },
+  "message": {
+    "conversation": "Por eso, estoy organizando toda la parrillla de contenido con el que vamos a pautar hasta el 31 de diciembre"
+  },
+  "messageTimestamp": "1734463785",
+  "participant": "573144920062@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAGM2MDJAiHjBAEAinBzRuw="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 95 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1450830104@g.us",
+    "fromMe": false,
+    "id": "3EB0398E5AC0CB2C7A425E"
+  },
+  "message": {
+    "conversation": "sin embargo, no puedo recuperar en un mes el trabajo que no se hizo en septiembre, octubre e inicios de noviembre....."
+  },
+  "messageTimestamp": "1734463736",
+  "participant": "573144920062@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAHfKuTnhBTjBAETEO49mb4="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 96 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1450830104@g.us",
+    "fromMe": false,
+    "id": "3A20F5AA987B2023DCEF"
+  },
+  "message": {
+    "conversation": "Necesito que tengan matriculados. Y pagados  200 matrículas."
+  },
+  "messageTimestamp": "1734463735",
+  "participant": "573102201371@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAGWJT9E+d/jBAGtownFV1Y="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 97 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1450830104@g.us",
+    "fromMe": false,
+    "id": "3EB07D0D4C1073D92F1524"
+  },
+  "message": {
+    "conversation": "La labor si se esta haciendo"
+  },
+  "messageTimestamp": "1734463704",
+  "participant": "573144920062@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAEZSlKnBXLjBAGPd/1VOCs="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 98 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1450830104@g.us",
+    "fromMe": false,
+    "id": "3EB0A7CB7DBC5A17C8B9FF"
+  },
+  "message": {
+    "conversation": "no son 200"
+  },
+  "messageTimestamp": "1734463677",
+  "participant": "573144920062@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAHZ9kQ2HTrjBAEbvh3emyc="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 99 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1450830104@g.us",
+    "fromMe": false,
+    "id": "3EB06AA71CFC2CFADD601F"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "La campaña es una sola, Matriculas. !!!! y todas las actividades que se realicen es entorno a la misma campaña. No podemos tener al aire campañas en paralelo que hablen de diferentes temas. Es importante la coherencia.\nRespecto a los 200 matriculados al 15 de diciembre. Me da pena Sra. Jackeline, pero en la oferta laboral que me hicieron para que yo ingresara a trabajar aca, el compromiso fue otro. Y tengo el correo",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3A30213C69BF4EF82DC7",
+        "participant": "573102201371@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Y tampoco tienen las campañas. ??"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1734463674",
+  "participant": "573144920062@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAHSYt5Nl3bjBAGcCQRsk/w="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 100 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573123973599@s.whatsapp.net",
+    "fromMe": false,
+    "id": "DED2D918ED67DC05EA95B42FFE442EEE"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "Ya te aviso",
+      "previewType": "NONE",
+      "contextInfo": {
+        "expiration": 7776000,
+        "disappearingMode": {
+          "initiator": "CHANGED_IN_CHAT",
+          "trigger": "ACCOUNT_SETTING",
+          "initiatedByMe": false
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1734463551",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAFDOyLS8VLjBAErDtb5M1g="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 101 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1450830104@g.us",
+    "fromMe": false,
+    "id": "3A30213C69BF4EF82DC7"
+  },
+  "message": {
+    "conversation": "Y tampoco tienen las campañas. ??"
+  },
+  "messageTimestamp": "1734463520",
+  "participant": "573102201371@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAG3D5kj9+njBAElDHHOmLQ="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 102 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1450830104@g.us",
+    "fromMe": false,
+    "id": "3A17BF727CB72AD813B0"
+  },
+  "message": {
+    "conversation": "Tiene. 113 matrículas.  Y tiene. Que haberme entregado al 15 de diciembre  200."
+  },
+  "messageTimestamp": "1734463512",
+  "participant": "573102201371@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAGu6xHbpsXjBAGzosweYVE="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 103 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573016704460@s.whatsapp.net",
+    "fromMe": true,
+    "id": "6A73AB908C22FE0910CB2052FD0CED06"
+  },
+  "message": {
+    "imageMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7118-24/32404197_446498051659196_7234475473443157458_n.enc?ccb=11-4&oh=01_Q5AaIC5-FZlbL5Kv5t9KCg7GGdZeD6i9vIC3UKIh7BEm9WB7&oe=678943ED&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "image/jpeg",
+      "caption": "Cordial saludo\n\n¡Descubre por qué el Gimnasio Santana del Norte es la mejor opción para tu hijo!\n \nTe invitamos a conocer nuestras modernas instalaciones, diseñadas para fomentar el aprendizaje y el desarrollo integral de los niños. Nuestros programas educativos, respaldados por un equipo docente altamente calificado, ofrecen una experiencia única.\n\n¡Agenda tu visita ahora y sé parte de nuestra comunidad educativa!\n\nHorarios: Lunes a Viernes 8:00 a 16:00 hrs. Sábados 9:00 a 12:00 hrs.",
+      "fileSha256": "mPwp4bl+HPCaZxUVjQ+a+RxAjeOu0V4jRJXtyAQtouE=",
+      "fileLength": "178288",
+      "height": 1600,
+      "width": 1145,
+      "mediaKey": "hGiTBZhlPCQ3bXsxh3jNoLlzN9e2A1El124cDqpD4v4=",
+      "fileEncSha256": "8uxcodeiopBOmbuEPxQxHFG7br9ftRC7pZFVajxb4FY=",
+      "directPath": "/v/t62.7118-24/32404197_446498051659196_7234475473443157458_n.enc?ccb=11-4&oh=01_Q5AaIC5-FZlbL5Kv5t9KCg7GGdZeD6i9vIC3UKIh7BEm9WB7&oe=678943ED&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1734461934",
+      "contextInfo": {
+        "stanzaId": "3EB72F0CCD83892AF44FF364CC08F350",
+        "participant": "573016704460@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "¡Hola! Quiero más información."
+        }
+      }
+    }
+  },
+  "messageTimestamp": "1734463306",
+  "status": "DELIVERY_ACK",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Images/IMG-20241205-WA0019.jpg"
+  },
+  "userReceipt": [
+    {
+      "userJid": "573016704460@s.whatsapp.net",
+      "receiptTimestamp": "1734463307",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 104 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573152383775@s.whatsapp.net",
+    "fromMe": true,
+    "id": "D473E04690522E10A953C2CB64826B20"
+  },
+  "message": {
+    "conversation": "Cordial saludo\n\n¡Descubre por qué el Gimnasio Santana del Norte es la mejor opción para tu hijo!\n \nTe invitamos a conocer nuestras modernas instalaciones, diseñadas para fomentar el aprendizaje y el desarrollo integral de los niños. Nuestros programas educativos, respaldados por un equipo docente altamente calificado, ofrecen una experiencia única.\n\n¡Agenda tu visita ahora y sé parte de nuestra comunidad educativa!\n\nHorarios: Lunes a Viernes 8:00 a 16:00 hrs. Sábados 9:00 a 12:00 hrs."
+  },
+  "messageTimestamp": "1734463295",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "573152383775@s.whatsapp.net",
+      "receiptTimestamp": "1734463296",
+      "readTimestamp": "1734495868",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 105 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573108582334@s.whatsapp.net",
+    "fromMe": true,
+    "id": "04E8F208531EA2D40AD7E4E42905301E"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "¡Descubre por qué el Gimnasio Santana del Norte es la mejor opción para tu hijo!\n \nTe invitamos a conocer nuestras modernas instalaciones, diseñadas para fomentar el aprendizaje y el desarrollo integral de los niños. Nuestros programas educativos, respaldados por un equipo docente altamente calificado, ofrecen una experiencia única.\n\n¡Agenda tu visita ahora y sé parte de nuestra comunidad educativa!\n\nHorarios: Lunes a Viernes 8:00 a 16:00 hrs. Sábados 9:00 a 12:00 hrs.",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3AAA2803A9FFF4091E78",
+        "participant": "573108582334@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Sobretodo valores"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1734463237",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "573108582334@s.whatsapp.net",
+      "receiptTimestamp": "1734463240",
+      "readTimestamp": "1734463250",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 106 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573160559296@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3AE93562FB2DC620938F"
+  },
+  "message": {
+    "conversation": "Estaba interesada en conocer el colegio y saber costos"
+  },
+  "messageTimestamp": "1734463158",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAGab25ekzTjBAGgdBhTgKY="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 107 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573125194690@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0F38E22DB4BD62088F2"
+  },
+  "message": {
+    "conversation": "Super, nos vemos mañana"
+  },
+  "messageTimestamp": "1734463155",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "573125194690@s.whatsapp.net",
+      "receiptTimestamp": "1734463156",
+      "readTimestamp": "1734463275",
+      "playedTimestamp": "0"
+    }
+  ],
+  "reactions": [
+    {
+      "key": {
+        "remoteJid": "573125194690@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3AF8C6B57047843B6065"
+      },
+      "text": "❤️",
+      "senderTimestampMs": "1734463275975",
+      "unread": true
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 108 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573214324147@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3A83CC27551A111CDD8D"
+  },
+  "message": {
+    "conversation": "Muchas Gracias"
+  },
+  "messageTimestamp": "1734462735",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAEvL4Mgyw3jBAGAVPC3a6g="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 109 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1474388254@g.us",
+    "fromMe": false,
+    "id": "3AB028747A3449817106"
+  },
+  "message": {
+    "conversation": "El. Dry de PQR JENY LO TIENE."
+  },
+  "messageTimestamp": "1734462447",
+  "participant": "573102201371@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAFQzTwt8trjBAFg3jxlgpA="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 110 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1474388254@g.us",
+    "fromMe": false,
+    "id": "3AB086B82E0FA622C4A4"
+  },
+  "message": {
+    "conversation": "Jeny."
+  },
+  "messageTimestamp": "1734462378",
+  "participant": "573102201371@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAEVy+x5lBnjBAHLnLYR1XQ="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 111 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1474388254@g.us",
+    "fromMe": false,
+    "id": "3AAB29D05475EE898F2A"
+  },
+  "message": {
+    "conversation": "Está. Cartera. Está en Phideas."
+  },
+  "messageTimestamp": "1734462376",
+  "participant": "573102201371@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAF9EUeKZ7zjBAHZg6sBfeI="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 112 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1474388254@g.us",
+    "fromMe": false,
+    "id": "3A8890618CF6ECED3E91"
+  },
+  "message": {
+    "conversation": "Gonzales Osorio pago 2024 y 2025. De contado."
+  },
+  "messageTimestamp": "1734462339",
+  "participant": "573102201371@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAG6BOhL8jrjBAGj5Rj108I="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 113 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1474388254@g.us",
+    "fromMe": false,
+    "id": "3A957E5808781EE2DFE3"
+  },
+  "message": {
+    "conversation": "Jeny. Estados de cuenta."
+  },
+  "messageTimestamp": "1734462277",
+  "participant": "573102201371@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAEkEujlD5jjBAFu3YK7djU="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 114 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573102201371-1474388254@g.us",
+    "fromMe": false,
+    "id": "3ADC481E325CC1BA65B4"
+  },
+  "message": {
+    "conversation": "CARLOS ESTADO DE CUENTA CARLOS LÓPEZ.  EL PAGO TODO EL Año y pago 2025"
+  },
+  "messageTimestamp": "1734462271",
+  "participant": "573102201371@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAGYcZJ27krjBAFRba3HQyQ="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 115 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573124803063@s.whatsapp.net",
+    "fromMe": true,
+    "id": "F2B32B839D3EFD6B1E5BCF3E87EE23F0"
+  },
+  "message": {
+    "imageMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7118-24/32404197_446498051659196_7234475473443157458_n.enc?ccb=11-4&oh=01_Q5AaIC5-FZlbL5Kv5t9KCg7GGdZeD6i9vIC3UKIh7BEm9WB7&oe=678943ED&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "image/jpeg",
+      "fileSha256": "mPwp4bl+HPCaZxUVjQ+a+RxAjeOu0V4jRJXtyAQtouE=",
+      "fileLength": "178288",
+      "height": 1600,
+      "width": 1145,
+      "mediaKey": "hGiTBZhlPCQ3bXsxh3jNoLlzN9e2A1El124cDqpD4v4=",
+      "fileEncSha256": "8uxcodeiopBOmbuEPxQxHFG7br9ftRC7pZFVajxb4FY=",
+      "directPath": "/v/t62.7118-24/32404197_446498051659196_7234475473443157458_n.enc?ccb=11-4&oh=01_Q5AaIC5-FZlbL5Kv5t9KCg7GGdZeD6i9vIC3UKIh7BEm9WB7&oe=678943ED&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1734461934"
+    }
+  },
+  "messageTimestamp": "1734461935",
+  "status": "READ",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Images/IMG-20241205-WA0019.jpg"
+  },
+  "userReceipt": [
+    {
+      "userJid": "573124803063@s.whatsapp.net",
+      "receiptTimestamp": "1734461936",
+      "readTimestamp": "1734463017",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 116 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573124803063@s.whatsapp.net",
+    "fromMe": true,
+    "id": "4B32DC4FB4B4C1F62A96E25936F8B608"
+  },
+  "message": {
+    "conversation": "Cordial saludo\n\n¡Descubre por qué el Gimnasio Santana del Norte es la mejor opción para tu hijo!\n \nTe invitamos a conocer nuestras modernas instalaciones, diseñadas para fomentar el aprendizaje y el desarrollo integral de los niños. Nuestros programas educativos, respaldados por un equipo docente altamente calificado, ofrecen una experiencia única.\n\n¡Agenda tu visita ahora y sé parte de nuestra comunidad educativa!\n\nHorarios: Lunes a Viernes 8:00 a 16:00 hrs. Sábados 9:00 a 12:00 hrs."
+  },
+  "messageTimestamp": "1734461927",
+  "status": "READ",
+  "starred": true,
+  "userReceipt": [
+    {
+      "userJid": "573124803063@s.whatsapp.net",
+      "receiptTimestamp": "1734461927",
+      "readTimestamp": "1734463017",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 117 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573207318569@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3ACEBE36A0B590AA0CF0"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "Gracias 😘",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3EB08D28D56C320013F99D",
+        "participant": "573144911034@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Hermoso ya tengo las fotos...sé que están muy lejos, igual acá te las guardo muy bien 💕"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1734461909",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAEY7q4h4YzjBAEXi5x/0cg="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 118 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573124803063@s.whatsapp.net",
+    "fromMe": true,
+    "id": "F4334C4A38238E9D0C785AE291C4C6DA"
+  },
+  "message": {
+    "conversation": "El modelo pedagógico EpC (Enseñanza para la Comprensión) es un enfoque educativo que tiene como objetivo principal desarrollar habilidades cognitivas profundas en niños y niñas, promoviendo no solo la memorización de información, sino la verdadera comprensión y el uso significativo de los conocimientos.\n\nEste modelo enfatiza el aprendizaje activo, donde niños y niñas no son simples receptores de información, sino participantes activos que construyen su conocimiento a través de la reflexión, la resolución de problemas y el análisis crítico. El enfoque busca que nuestros estudiantes comprendan los contenidos de manera integral y puedan transferir lo aprendido a nuevas situaciones, desarrollando habilidades de pensamiento crítico y autónomo.\n\nNos centramos en fomentar la comprensión profunda y la aplicación práctica del conocimiento, en lugar de enfocarnos exclusivamente en la retención de datos."
+  },
+  "messageTimestamp": "1734461892",
+  "status": "READ",
+  "messageC2STimestamp": "1734461893",
+  "userReceipt": [
+    {
+      "userJid": "573124803063@s.whatsapp.net",
+      "receiptTimestamp": "1734461894",
+      "readTimestamp": "1734463017",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 119 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573134131322@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB003610031FD13F2B0DB"
+  },
+  "message": {
+    "conversation": "Jajajaja ya voy"
+  },
+  "messageTimestamp": "1734461861",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "573134131322@s.whatsapp.net",
+      "receiptTimestamp": "1734461862",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 120 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573028119671@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3F15F898FBD75C184AB4"
+  },
+  "message": {
+    "conversation": "Por ahora es difícil, me gustaria me pueda informar de la parte económica"
+  },
+  "messageTimestamp": "1734461829",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAF9xKvWJn3THCLtgQ=="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 121 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573183979490@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3A0442E143FF1D84C3FE"
+  },
+  "message": {
+    "conversation": "aya"
+  },
+  "messageTimestamp": "1734461706",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAFErbRcWeLjBAHA7W1Gda0="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 122 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573103004726@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3A0F53158D89E8CD7DE8"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "Gracias",
+      "previewType": "NONE",
+      "contextInfo": {
+        "expiration": 7776000,
+        "disappearingMode": {
+          "initiator": "CHANGED_IN_CHAT",
+          "trigger": "ACCOUNT_SETTING",
+          "initiatedByMe": false
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1734461515",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAHXgDpDgyvjBAEC4vAEJA0="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 123 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573204101029@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3A7B2373C530560B6AE9"
+  },
+  "message": {
+    "conversation": "Cuando podríamos pasar"
+  },
+  "messageTimestamp": "1734461505",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAE3m/lj6CTjBAHOhX6vS60="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 124 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573162293367@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0C592535328757EAD32"
+  },
+  "message": {
+    "conversation": "Cuando quieras, siempre bienvenida 💕"
+  },
+  "messageTimestamp": "1734461434",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "573162293367@s.whatsapp.net",
+      "receiptTimestamp": "1734461434",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 125 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573138274176@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3A5190E133BFF6B0B3AB"
+  },
+  "message": {
+    "conversation": "Todo muy bien"
+  },
+  "messageTimestamp": "1734461432",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAHrPUz96eHjBAFOu9VrejQ="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 126 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573194960786@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB096C52A3E5C26A3070D"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "Las fotos ya se encuentran en el colegio 🤗",
+      "previewType": "NONE",
+      "contextInfo": {
+        "expiration": 7776000,
+        "disappearingMode": {
+          "initiator": "CHANGED_IN_CHAT",
+          "trigger": "ACCOUNT_SETTING",
+          "initiatedByMe": false
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1734461415",
+  "status": "READ",
+  "ephemeralStartTimestamp": "1734461415",
+  "userReceipt": [
+    {
+      "userJid": "573194960786@s.whatsapp.net",
+      "receiptTimestamp": "1734461415",
+      "readTimestamp": "1734490929",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 127 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573023890212@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0ABB39AA4FDA1AC2630"
+  },
+  "message": {
+    "stickerMessage": {
+      "url": "https://web.whatsapp.net",
+      "fileSha256": "V2RIujLgE6Bt4KeXR4nfkoRcykO4O1owfipguGBYPG0=",
+      "fileEncSha256": "PNNr6DjBtFoG64sdnO8V9FONZMIaYBKfV29w4Dt4MJY=",
+      "mediaKey": "PKrRlFwAgqMsN9pAE/oHMSpHjfz0miaXTPZHyoPZd/g=",
+      "mimetype": "image/webp",
+      "height": 64,
+      "width": 64,
+      "directPath": "/v/t62.15575-24/20124586_580806914361982_3514270042283371383_n.enc?ccb=11-4&oh=01_Q5AaIIIdYZdNPMFCgcvmgFn2skoc3j2Vq8fmvfRH9pMQ1GqA&oe=67892518&_nc_sid=5e03e0",
+      "fileLength": "54122",
+      "mediaKeyTimestamp": "1708437909075",
+      "isAnimated": false,
+      "stickerSentTs": "1734461365000",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    }
+  },
+  "messageTimestamp": "1734461365",
+  "status": "READ",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Stickers/STK-20240220-WA0006.webp"
+  },
+  "userReceipt": [
+    {
+      "userJid": "573023890212@s.whatsapp.net",
+      "receiptTimestamp": "1734461366",
+      "readTimestamp": "1734462908",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 128 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573229495995@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB08C83CA6BFAA372CD"
+  },
+  "message": {
+    "editedMessage": {
+      "message": {
+        "protocolMessage": {
+          "key": {
+            "remoteJid": "573229495995@s.whatsapp.net",
+            "fromMe": true,
+            "id": "3EB0A550DB9A16D5C7962E"
+          },
+          "type": "MESSAGE_EDIT",
+          "editedMessage": {
+            "conversation": "¿Cómo te encuentras?"
+          },
+          "timestampMs": "1734461277236"
+        }
+      }
+    }
+  },
+  "messageTimestamp": "1734461270",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "573229495995@s.whatsapp.net",
+      "receiptTimestamp": "1734461278",
+      "readTimestamp": "1734461783",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573152627539@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB09E2F5F9420D1FD7468"
+  },
+  "message": {
+    "conversation": "¿Cómo te encuentras?"
+  },
+  "messageTimestamp": "1734461179",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "573152627539@s.whatsapp.net",
+      "receiptTimestamp": "1734461306",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 129 de 173
+               
+
+Mensagem 130 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573192972413@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB05A7C32585B68E9EE76"
+  },
+  "message": {
+    "conversation": "¿Cómo te encuentras?"
+  },
+  "messageTimestamp": "1734461145",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "573192972413@s.whatsapp.net",
+      "receiptTimestamp": "1734461145",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 131 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573176357456@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB01BDC5632402063048E"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "¿Cómo te encuentras?",
+      "previewType": "NONE",
+      "contextInfo": {
+        "expiration": 604800,
+        "disappearingMode": {
+          "initiator": "CHANGED_IN_CHAT",
+          "trigger": "ACCOUNT_SETTING",
+          "initiatedByMe": false
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1734461120",
+  "status": "READ",
+  "ephemeralStartTimestamp": "1734461120",
+  "userReceipt": [
+    {
+      "userJid": "573176357456@s.whatsapp.net",
+      "receiptTimestamp": "1734461120",
+      "readTimestamp": "1734466709",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 132 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573203842789@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0395F92CB98D580B246"
+  },
+  "message": {
+    "conversation": "Yo estoy de 9 am a 5 pm"
+  },
+  "messageTimestamp": "1734460970",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "573203842789@s.whatsapp.net",
+      "receiptTimestamp": "1734460972",
+      "readTimestamp": "1734500113",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 133 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573228484356@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB092BF159896D370618B"
+  },
+  "message": {
+    "stickerMessage": {
+      "url": "https://web.whatsapp.net",
+      "fileSha256": "V2RIujLgE6Bt4KeXR4nfkoRcykO4O1owfipguGBYPG0=",
+      "fileEncSha256": "PNNr6DjBtFoG64sdnO8V9FONZMIaYBKfV29w4Dt4MJY=",
+      "mediaKey": "PKrRlFwAgqMsN9pAE/oHMSpHjfz0miaXTPZHyoPZd/g=",
+      "mimetype": "image/webp",
+      "height": 64,
+      "width": 64,
+      "directPath": "/v/t62.15575-24/20124586_580806914361982_3514270042283371383_n.enc?ccb=11-4&oh=01_Q5AaIIIdYZdNPMFCgcvmgFn2skoc3j2Vq8fmvfRH9pMQ1GqA&oe=67892518&_nc_sid=5e03e0",
+      "fileLength": "54122",
+      "mediaKeyTimestamp": "1708437909075",
+      "isAnimated": false,
+      "stickerSentTs": "1734460735000",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    }
+  },
+  "messageTimestamp": "1734460735",
+  "status": "READ",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Stickers/STK-20240220-WA0006.webp"
+  },
+  "userReceipt": [
+    {
+      "userJid": "573228484356@s.whatsapp.net",
+      "receiptTimestamp": "1734460736",
+      "readTimestamp": "1734461769",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 134 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573203420217@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3ABB5348094EFABA952C"
+  },
+  "message": {
+    "conversation": "Owwww esta semana paso entonces"
+  },
+  "messageTimestamp": "1734459736",
+  "reactions": [
+    {
+      "key": {
+        "remoteJid": "573203420217@s.whatsapp.net",
+        "fromMe": true,
+        "id": "3EB01A0A5F5D2F8A7D6766"
+      },
+      "text": "❤️",
+      "senderTimestampMs": "1734460097000",
+      "unread": true
+    }
+  ],
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAEibmJj4RXjBAHFXmH4Zds="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 135 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573196455608@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0BBD77AB00F5FDB17"
+  },
+  "message": {
+    "contactMessage": {
+      "displayName": "Argenis * Fotografía",
+      "vcard": "BEGIN:VCARD\nVERSION:3.0\nN:* Fotografía;Argenis;;;\nFN:Argenis * Fotografía\nTEL;type=CELL;waid=573114588180:+57 311 4588180\nEND:VCARD"
+    }
+  },
+  "messageTimestamp": "1734459443",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "573196455608@s.whatsapp.net",
+      "receiptTimestamp": "1734459444",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 136 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573127101668@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB09BE8F66EAB92F75D6D"
+  },
+  "message": {
+    "conversation": "¿Cómo te encuentras?"
+  },
+  "messageTimestamp": "1734459317",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "573127101668@s.whatsapp.net",
+      "receiptTimestamp": "1734459318",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 137 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "13057426720@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB00376BFDF9AFE62E601"
+  },
+  "message": {
+    "conversation": "Si puedes pasar al colegio de 9am a 4:30 pm"
+  },
+  "messageTimestamp": "1734459227",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "13057426720@s.whatsapp.net",
+      "receiptTimestamp": "1734459234",
+      "readTimestamp": "1734496483",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 138 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "120363359631811236@g.us",
+    "fromMe": false,
+    "id": "3A2E373F0704397BCB7B"
+  },
+  "message": {
+    "editedMessage": {
+      "message": {
+        "protocolMessage": {
+          "key": {
+            "remoteJid": "120363359631811236@g.us",
+            "fromMe": false,
+            "id": "3AABD7E9058DE27E44E3",
+            "participant": "573156777700@s.whatsapp.net"
+          },
+          "type": "MESSAGE_EDIT",
+          "editedMessage": {
+            "conversation": "Qué lástima que como siempre no den la cara en el grupo sino que estén arreglando todo por fuera y nos tengamos que enterar porque se comunican con el uno y con el otro, esperamos la respuesta hoy mismo."
+          },
+          "timestampMs": "1734458042753"
+        }
+      }
+    }
+  },
+  "messageTimestamp": "1734458029",
+  "participant": "573156777700@s.whatsapp.net",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAGcN1DG+1rjBAGDRaIVgu4="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 139 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573227696442@s.whatsapp.net",
+    "fromMe": false,
+    "id": "95725AF68F9BA1E4BCC8D651DFE31946"
+  },
+  "message": {
+    "conversation": "Buenas tardes me regala costos"
+  },
+  "messageTimestamp": "1734458007",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAH36CzL4E/jBAHUXHsi+d0="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 140 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573103207089@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0FC0308D042666DFCFE"
+  },
+  "message": {
+    "conversation": "Y ese hombre bello, cómo está?"
+  },
+  "messageTimestamp": "1734457813",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "573103207089@s.whatsapp.net",
+      "receiptTimestamp": "1734458039",
+      "readTimestamp": "1734463063",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 141 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573162851681@s.whatsapp.net",
+    "fromMe": true,
+    "id": "F14E986D37C0D3D6572D43CB47DB7E85"
+  },
+  "message": {
+    "imageMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7118-24/35771776_584307054208237_8470485162625052084_n.enc?ccb=11-4&oh=01_Q5AaIEy43IBttQTrKTMDNHkNQcpcjFIx_VE-qM1eOv7TBoO3&oe=678940C6&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "image/jpeg",
+      "caption": "🤩",
+      "fileSha256": "Aeb2oMDnhIyE90Nc7uES0Zf6Kc0zXIbpMAZP+EM/G5o=",
+      "fileLength": "94601",
+      "height": 1280,
+      "width": 877,
+      "mediaKey": "OwAZAqyDsQ5KUn1+LBOmWYqeySe0Z+YMPpJvcu35LN0=",
+      "fileEncSha256": "OWx8PBTPrB46/vs17lg9Qm4zu6EbIC4TE2SBSHPZdBE=",
+      "directPath": "/v/t62.7118-24/35771776_584307054208237_8470485162625052084_n.enc?ccb=11-4&oh=01_Q5AaIEy43IBttQTrKTMDNHkNQcpcjFIx_VE-qM1eOv7TBoO3&oe=678940C6&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1734457578",
+      "scansSidecar": "dA1DFl//aDYV8ZrMAzJN/E6W7mhUbaL5YhfaJNEgFUJxpvseXTkkaA==",
+      "scanLengths": [
+        11647,
+        37562,
+        17079,
+        28313
+      ],
+      "midQualityFileSha256": "Z6EtL6+hAV2NjE4yY9IbAKGfIPpPH4aJN1eGsW5VfvQ="
+    }
+  },
+  "messageTimestamp": "1734457577",
+  "status": "READ",
+  "messageC2STimestamp": "1734457579",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Images/Sent/IMG-20241217-WA0073.jpg"
+  },
+  "userReceipt": [
+    {
+      "userJid": "573162851681@s.whatsapp.net",
+      "receiptTimestamp": "1734457581",
+      "readTimestamp": "1734458016",
+      "playedTimestamp": "0"
+    }
+  ],
+  "reactions": [
+    {
+      "key": {
+        "remoteJid": "573162851681@s.whatsapp.net",
+        "fromMe": false,
+        "id": "41979EC6C82E6F9E609389D9F94A80FC"
+      },
+      "text": "❤️",
+      "senderTimestampMs": "1734457754275",
+      "unread": true
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 142 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573002846918@s.whatsapp.net",
+    "fromMe": true,
+    "id": "F9616A8E2794ADF86692A40AA577F33E"
+  },
+  "message": {
+    "imageMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7118-24/11824836_894180319368795_2286044914077679375_n.enc?ccb=11-4&oh=01_Q5AaIL11_5-wxgwUt4NCikz5GM9_HzT4HvfFPf95mO6dBPo6&oe=67891A4E&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "image/jpeg",
+      "caption": "🤩",
+      "fileSha256": "sTjGATqK82TNHBgYiScGdS9gyxOeX6en1Csw2pytSAw=",
+      "fileLength": "97676",
+      "height": 1280,
+      "width": 957,
+      "mediaKey": "iMwyxyERUAJfwQxCuPx33kDgez/QxFYie0XQDjiq7Pw=",
+      "fileEncSha256": "tVLT5NRu2TjeepzINfj+AaSLiS/ylMSFWChMxgy01uY=",
+      "directPath": "/v/t62.7118-24/11824836_894180319368795_2286044914077679375_n.enc?ccb=11-4&oh=01_Q5AaIL11_5-wxgwUt4NCikz5GM9_HzT4HvfFPf95mO6dBPo6&oe=67891A4E&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1734457532",
+      "scansSidecar": "EIAXfmh5X6okgj+idSNph+WxmXnD4Xv82zVrcT8mRPeL/rIlOf+JjA==",
+      "scanLengths": [
+        12457,
+        39156,
+        17168,
+        28895
+      ],
+      "midQualityFileSha256": "FcUvsadEaP/INUhglSX0BVgruElISPoNFzqF8vUQMmo="
+    }
+  },
+  "messageTimestamp": "1734457531",
+  "status": "READ",
+  "messageC2STimestamp": "1734457533",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Images/Sent/IMG-20241217-WA0071.jpg"
+  },
+  "userReceipt": [
+    {
+      "userJid": "573002846918@s.whatsapp.net",
+      "receiptTimestamp": "1734457534",
+      "readTimestamp": "1734457746",
+      "playedTimestamp": "0"
+    }
+  ],
+  "reactions": [
+    {
+      "key": {
+        "remoteJid": "573002846918@s.whatsapp.net",
+        "fromMe": false,
+        "id": "349FCCF1BD483C4E7A45B8F72D53E607"
+      },
+      "text": "❤️",
+      "senderTimestampMs": "1734457760609"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 143 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573004034798@s.whatsapp.net",
+    "fromMe": true,
+    "id": "C5121A296E36A0754972A08C5CA8CEE3"
+  },
+  "message": {
+    "imageMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7118-24/32817732_1389368522038166_5842160926621742140_n.enc?ccb=11-4&oh=01_Q5AaIIV7Gwp20nwFcBQxjsCcoY-iLrUKuSm0M_5h-nhXWMpT&oe=6789412C&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "image/jpeg",
+      "caption": "🤩",
+      "fileSha256": "jF/1ZUkhfFlkx8eYbrcm1GIrNhrsxUlvWbnjxOZcfS8=",
+      "fileLength": "106092",
+      "height": 1280,
+      "width": 927,
+      "mediaKey": "wzxROjoHqRbzXV7CgQX7ykQC6MjkGrTb+I62okgf5NA=",
+      "fileEncSha256": "yOFKOjm/XaeiD7xmqyydJOHSfVPjKyqAdt462xGAaZI=",
+      "directPath": "/v/t62.7118-24/32817732_1389368522038166_5842160926621742140_n.enc?ccb=11-4&oh=01_Q5AaIIV7Gwp20nwFcBQxjsCcoY-iLrUKuSm0M_5h-nhXWMpT&oe=6789412C&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1734457260",
+      "scansSidecar": "5rob7/gEEeb5GU9tklPhQKbCf/kAng8IEEI74fmu9pByp1DwUZBfyg==",
+      "scanLengths": [
+        12276,
+        37752,
+        21877,
+        34187
+      ],
+      "midQualityFileSha256": "B7zry30oHgr45Iitekil5qAsCI0yv2AUM16M+zragnw="
+    }
+  },
+  "messageTimestamp": "1734457259",
+  "status": "READ",
+  "messageC2STimestamp": "1734457262",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Images/Sent/IMG-20241217-WA0061.jpg"
+  },
+  "userReceipt": [
+    {
+      "userJid": "573004034798@s.whatsapp.net",
+      "receiptTimestamp": "1734457273",
+      "readTimestamp": "1734457953",
+      "playedTimestamp": "0"
+    }
+  ],
+  "reactions": [
+    {
+      "key": {
+        "remoteJid": "573004034798@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3AE2E38165730D1E25D9"
+      },
+      "text": "❤️",
+      "senderTimestampMs": "1734457956987",
+      "unread": true
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 144 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573113260287@s.whatsapp.net",
+    "fromMe": false,
+    "id": "BE3C9C8C732439A4E01795D7B565D8CF"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "¡Hola! Quiero más información.",
+      "previewType": "NONE",
+      "contextInfo": {
+        "externalAdReply": {
+          "title": "¡Escríbenos!",
+          "body": "¡Liderazgo y excelencia se cultivan en el Gimnasio Santana del Norte! Nuestros estudiantes son el futuro y nosotros los preparamos para alcanzar sus metas. \nAgenda tu visita y descubre por qué somos la mejor opción para tu hijo.\n\n📞    Contacto 1: 314 491 1034 \n 📞   Contacto 2: 314 492 00 62",
+          "mediaType": "VIDEO",
+          "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.5256-10/470373061_1691202855071705_3771068859072530558_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=109&ccb=1-7&_nc_sid=40cf1a&_nc_ohc=Iu9UTO4FGvoQ7kNvgHN905h&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=AF31FNaDnjrcIRF7PYEcTcI&oh=00_AYCOJzb9omFr2r9meTk8KqahPhoW8bBYl_qjef4TI5o2og&oe=676772D1",
+          "mediaUrl": "https://www.facebook.com/gimnasiosantanadelnorte/videos/1132002155111594/",
+          "thumbnail": "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",
+          "sourceType": "ad",
+          "sourceId": "120212833394680743",
+          "sourceUrl": "https://fb.me/5W5MkP8u5",
+          "containsAutoReply": false,
+          "renderLargerThumbnail": true,
+          "showAdAttribution": true,
+          "ctwaClid": "ARDQ1goTZGksqwh2RMXUjRhIPsALATIiw_zcUEl4MJJM3XVjDf2Ohq6FbicWLuVdpQ6cph0mw6o-b1SfL1DXAy-bIPNgAzIiP02cZDMPU3G9-bUbozm1_LEOgQY0Qhb5P99h5-QmGkY"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1734457042",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAHjdWkbQADjBAHm5Lmfrxs="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 145 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573114583195@s.whatsapp.net",
+    "fromMe": true,
+    "id": "8AB615555318706EEE7456706AF5BDEB"
+  },
+  "message": {
+    "imageMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7118-24/11248367_1295514248119436_295233638134205108_n.enc?ccb=11-4&oh=01_Q5AaICXuYP1uyF0tZVHgVXLj5vSZA4J5b4yGdYHWGiGsR1cI&oe=67893D16&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "image/jpeg",
+      "caption": "🤩",
+      "fileSha256": "uyJ5r6ZV3N+ybC/iB8SXYn2f/XmGFPyYILfseISxQIM=",
+      "fileLength": "112448",
+      "height": 1280,
+      "width": 1009,
+      "mediaKey": "mkAUEoSQ/O9kiD0tyLyiPygyU1huhNahB70oG9P0aEk=",
+      "fileEncSha256": "C/rPOE1J/XOh51w4V+r2GNDC4IoOydTnZ5y3lbL2wX0=",
+      "directPath": "/v/t62.7118-24/11248367_1295514248119436_295233638134205108_n.enc?ccb=11-4&oh=01_Q5AaICXuYP1uyF0tZVHgVXLj5vSZA4J5b4yGdYHWGiGsR1cI&oe=67893D16&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1734456807",
+      "scansSidecar": "OkiiXE8R4XPfEzXa+vun5xnRkHVA6VmCL1WgwjDkOJZGAaEiFNIyUA==",
+      "scanLengths": [
+        14076,
+        44891,
+        20105,
+        33376
+      ],
+      "midQualityFileSha256": "YA/niwp3/ER8LKrg8QZhwLh+UvmiGyDoySoo/karNgo="
+    }
+  },
+  "messageTimestamp": "1734456804",
+  "status": "DELIVERY_ACK",
+  "messageC2STimestamp": "1734456809",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Images/Sent/IMG-20241217-WA0037.jpg"
+  },
+  "userReceipt": [
+    {
+      "userJid": "573114583195@s.whatsapp.net",
+      "receiptTimestamp": "1734456809",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ],
+  "reactions": [
+    {
+      "key": {
+        "remoteJid": "573114583195@s.whatsapp.net",
+        "fromMe": false,
+        "id": "3AA62F26CC1872B4A734"
+      },
+      "text": "😍",
+      "senderTimestampMs": "1734456870712",
+      "unread": true
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 146 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573173667761@s.whatsapp.net",
+    "fromMe": true,
+    "id": "9AB7D4EB75364D3FE3DD4ECBD9C085C6"
+  },
+  "message": {
+    "imageMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7118-24/22562953_1441392033569259_2007516845350591846_n.enc?ccb=11-4&oh=01_Q5AaIMLbkK-SrTi4O7H5rbffLD4tkuUf5jQncDzjWRRbciou&oe=67893BA9&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "image/jpeg",
+      "caption": "🤩",
+      "fileSha256": "Ng0092w/jsjaWA169HC4E+E+hr3K465b23yJNnvJtf4=",
+      "fileLength": "105814",
+      "height": 1280,
+      "width": 903,
+      "mediaKey": "8xoV1cI0VboQvq4zLnvc43QuXPov1MYs0uRrOuOfZIM=",
+      "fileEncSha256": "WEysNfvhx+USJLDHu0waRBTS3+ijxe2GWk6yog76A4g=",
+      "directPath": "/v/t62.7118-24/22562953_1441392033569259_2007516845350591846_n.enc?ccb=11-4&oh=01_Q5AaIMLbkK-SrTi4O7H5rbffLD4tkuUf5jQncDzjWRRbciou&oe=67893BA9&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1734456697",
+      "scansSidecar": "NohzkhbiOZ5VN6ypTUMGFXDR1rI7rsSevjm/X+AVEQ2+ZRh5nWUntw==",
+      "scanLengths": [
+        12417,
+        37892,
+        21379,
+        34126
+      ],
+      "midQualityFileSha256": "1puiA81/nkSzBdi1kI/PELe6OC5rnxTqKtBWKrpXEQQ="
+    }
+  },
+  "messageTimestamp": "1734456696",
+  "status": "SERVER_ACK",
+  "messageC2STimestamp": "1734456698",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Images/Sent/IMG-20241217-WA0031.jpg"
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 147 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573186992520@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3BEBC3C2554BC26A772571D7AF819F91"
+  },
+  "message": {
+    "imageMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7118-24/11423285_2041427289612882_4223514092086125670_n.enc?ccb=11-4&oh=01_Q5AaIGCtj43ajcJQue8cvTgNN_CpkkiDObC9IApoqzE8ul0W&oe=678934F0&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "image/jpeg",
+      "caption": "🤩",
+      "fileSha256": "V+yX6n8VW+iBNq9iF/9s+HHLGO05iH8tJB2LHPf5tYo=",
+      "fileLength": "102085",
+      "height": 1280,
+      "width": 898,
+      "mediaKey": "UsXFvaXXOWekrJqjH716+YuoBX5DzEkU1h8hnE76TIE=",
+      "fileEncSha256": "/qpE85EhuYv3VACDhu88CAIXml6qbm1RFP/3YSmzCWw=",
+      "directPath": "/v/t62.7118-24/11423285_2041427289612882_4223514092086125670_n.enc?ccb=11-4&oh=01_Q5AaIGCtj43ajcJQue8cvTgNN_CpkkiDObC9IApoqzE8ul0W&oe=678934F0&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1734456576",
+      "scansSidecar": "/gX+mzW13k4eEJtIwv6siID8lCYAaDzjkEoivvnMUoji9cAyK0fy5Q==",
+      "scanLengths": [
+        12474,
+        36931,
+        20303,
+        32377
+      ],
+      "midQualityFileSha256": "2nf6hsbIZRupb5KeXRbAAD7Hht7g4X3WfZZmrA2gg1c="
+    }
+  },
+  "messageTimestamp": "1734456574",
+  "status": "READ",
+  "messageC2STimestamp": "1734456577",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Images/Sent/IMG-20241217-WA0025.jpg"
+  },
+  "userReceipt": [
+    {
+      "userJid": "573186992520@s.whatsapp.net",
+      "receiptTimestamp": "1734456680",
+      "readTimestamp": "1734457124",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 148 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573503434511@s.whatsapp.net",
+    "fromMe": true,
+    "id": "FB8F068640EE2299B199D8CAF231E9BF"
+  },
+  "message": {
+    "imageMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7118-24/13795886_990329056465779_3502856225764865231_n.enc?ccb=11-4&oh=01_Q5AaIJ2YMWCitfCxuIwfVuegpe1rQZO8iZRI9cYzJpiahri0&oe=67892B6D&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "image/jpeg",
+      "caption": "🤩",
+      "fileSha256": "eobg8wpjfeWYWa49qQ7I34DOGw1B5uTCaTSibeczNNc=",
+      "fileLength": "76141",
+      "height": 1280,
+      "width": 720,
+      "mediaKey": "bjXXtKOL8pbnaFlV971uj4xrUml+JV+UbpF117czc5g=",
+      "fileEncSha256": "22yeLfLiqLVcwYrC5hZyM6WRbkRJMzgueWVq33xdiBA=",
+      "directPath": "/v/t62.7118-24/13795886_990329056465779_3502856225764865231_n.enc?ccb=11-4&oh=01_Q5AaIJ2YMWCitfCxuIwfVuegpe1rQZO8iZRI9cYzJpiahri0&oe=67892B6D&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1734456486",
+      "scansSidecar": "0CItLlYDI+v2sasB+eOv/2BAOqQXse5OUsdThtvqLic064R/2lAlZQ==",
+      "scanLengths": [
+        9377,
+        28367,
+        14700,
+        23697
+      ],
+      "midQualityFileSha256": "Wz9DV0gJ3sJcMSszRBtUsz+0oUbUjwMKtqbynpLJBNI="
+    }
+  },
+  "messageTimestamp": "1734456492",
+  "status": "READ",
+  "messageC2STimestamp": "1734456493",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Images/Sent/IMG-20241217-WA0021.jpg"
+  },
+  "userReceipt": [
+    {
+      "userJid": "573503434511@s.whatsapp.net",
+      "receiptTimestamp": "1734456494",
+      "readTimestamp": "1734456960",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 149 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573203691558-1455634279@g.us",
+    "fromMe": false,
+    "id": "5A22C6A1CAAF96B12EE6273A33A96473"
+  },
+  "message": {
+    "imageMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.7118-24/11837402_1052247419988528_5945110788040324201_n.enc?ccb=11-4&oh=01_Q5AaIFc3m_zpN6x4O_OqwooIVlu4AUsaAimKnI-SVCeJ3HH1&oe=67890D25&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "image/jpeg",
+      "fileSha256": "08Kdmq87YKjlyEr09dKXAUk8zapxXn+Ka5WXkbP5ZNY=",
+      "fileLength": "135563",
+      "height": 738,
+      "width": 1600,
+      "mediaKey": "b99bbZ+ZVHNPQo3YlBZqf9MSGJpVrr9/xiTOeCAT+n8=",
+      "fileEncSha256": "nLtpNbn8yDzCPtOJg0osBpJ8vCd6wLH5raJ/wV0uEiU=",
+      "directPath": "/v/t62.7118-24/11837402_1052247419988528_5945110788040324201_n.enc?ccb=11-4&oh=01_Q5AaIFc3m_zpN6x4O_OqwooIVlu4AUsaAimKnI-SVCeJ3HH1&oe=67890D25&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1734455963",
+      "scansSidecar": "XKpeGxD8ROUyAiidxnPXA/2aq3DQHRgENRlAV/DwpsAGcMVv4G1O3w==",
+      "scanLengths": [
+        13065,
+        47254,
+        26960,
+        48284
+      ],
+      "midQualityFileSha256": "4g5ZgrLg6DMRd6PCVnSfrhIsgz/LcQ7/qV6Hy7CT2RI="
+    }
+  },
+  "messageTimestamp": "1734455975",
+  "participant": "573163194308@s.whatsapp.net",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Images/IMG-20241217-WA0019.jpg"
+  },
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAEyRS3aIwfjBAGBaD+oOGA="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 150 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573022711596@s.whatsapp.net",
+    "fromMe": false,
+    "id": "BAE13B10B987584B58F99507936B2B16"
+  },
+  "message": {
+    "conversation": "Hola"
+  },
+  "messageTimestamp": "1734454823",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAGS56GmmwrjBAEjsBuXoQs="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 151 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573022711596@s.whatsapp.net",
+    "fromMe": false,
+    "id": "9817B5E4A4D27E856DDD678F2438AA24"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "¡Hola! Quiero más información.",
+      "previewType": "NONE",
+      "contextInfo": {
+        "externalAdReply": {
+          "title": "¡Escríbenos!",
+          "body": "¡Liderazgo y excelencia se cultivan en el Gimnasio Santana del Norte! Nuestros estudiantes son el futuro y nosotros los preparamos para alcanzar sus metas. \nAgenda tu visita y descubre por qué somos la mejor opción para tu hijo.\n\n📞    Contacto 1: 314 491 1034 \n 📞   Contacto 2: 314 492 00 62",
+          "mediaType": "VIDEO",
+          "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.5256-10/470373061_1691202855071705_3771068859072530558_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=109&ccb=1-7&_nc_sid=40cf1a&_nc_ohc=Iu9UTO4FGvoQ7kNvgEHRjtq&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=AcsOz_bh58tV_6KTS6DMjYL&oh=00_AYB0QehtTwudbVXY0jO9UQcd8ESsd4Nzj_C9ZZ7gP_b4pg&oe=676772D1",
+          "mediaUrl": "https://www.facebook.com/gimnasiosantanadelnorte/videos/1132002155111594/",
+          "thumbnail": "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",
+          "sourceType": "ad",
+          "sourceId": "120212833394680743",
+          "sourceUrl": "https://www.instagram.com/p/DDqNWmCszEk/",
+          "containsAutoReply": false,
+          "renderLargerThumbnail": true,
+          "showAdAttribution": true,
+          "ctwaClid": "ARAYkKArQZJZ7XFPepE6MUR9ZdgseQ_09RnYFSsdjt5Pi_iYzS65WEVG_fD9NOmm4qO-oZCfSK3EJC9vN3cryXqD2FvxotNyrxHo3yf4jMekL6HmZck1o7ATSnU5Yq419hYC"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1734454820",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAEV7R4KZEbjBAERGOgtT88="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 152 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573002614300@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3A8AE6CE1C326C564269"
+  },
+  "message": {
+    "conversation": "🥲"
+  },
+  "messageTimestamp": "1734454107",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAF55npxx2DjBAGg1Y7M3kM="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 153 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573044686420@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3AF2CCDFC0111DC701A0"
+  },
+  "message": {
+    "conversation": "Perfecto Dianita. Por otro lado. Que falta para legalizar la matrícula?"
+  },
+  "messageTimestamp": "1734453684",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAHGg3mMf/PjBAHf/TUEN4w="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 154 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573212843810@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB05C8E211E5899DB94A3"
+  },
+  "message": {
+    "conversation": "¿Cómo se encuentran?"
+  },
+  "messageTimestamp": "1734453508",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "573212843810@s.whatsapp.net",
+      "receiptTimestamp": "1734453511",
+      "readTimestamp": "1734467334",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 155 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573108582334@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3A248408C35669ABA057"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "Gracias a Dios bien",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3EB0DE70165063516236AE",
+        "participant": "573144911034@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "¿Cómo te encuentras?"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1734452011",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAG1lgEleyXjBAF/3Nbyqks="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 156 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573134713177@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0FFB1E00B3102F7DD16"
+  },
+  "message": {
+    "conversation": "Excelente día"
+  },
+  "messageTimestamp": "1734452007",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "573134713177@s.whatsapp.net",
+      "receiptTimestamp": "1734452008",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 157 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573108582334@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3AAA2803A9FFF4091E78"
+  },
+  "message": {
+    "conversation": "Sobretodo valores"
+  },
+  "messageTimestamp": "1734452005",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAGQP9PVVPXjBAG8QvEC0og="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 158 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573108582334@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB0DE70165063516236AE"
+  },
+  "message": {
+    "conversation": "¿Cómo te encuentras?"
+  },
+  "messageTimestamp": "1734452002",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "573108582334@s.whatsapp.net",
+      "receiptTimestamp": "1734452002",
+      "readTimestamp": "1734452002",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 159 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573108582334@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3A0F3129371E79DCE7CA"
+  },
+  "message": {
+    "conversation": "Me encantaría saber más del colegio"
+  },
+  "messageTimestamp": "1734452001",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAF3HNopi1PjBAECTPY7WDk="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 160 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573108582334@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB045A491E5C476D01611"
+  },
+  "message": {
+    "conversation": "Mi nombre es Diana, Coordinadora de Admisiones del Gimnasio Santana del Norte"
+  },
+  "messageTimestamp": "1734451997",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "573108582334@s.whatsapp.net",
+      "receiptTimestamp": "1734451998",
+      "readTimestamp": "1734451998",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 161 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573108582334@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3A09F028C5B54D81A941"
+  },
+  "message": {
+    "conversation": "Buenos días"
+  },
+  "messageTimestamp": "1734451995",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAHilQHmgNvjBAFOrvLmEj4="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 162 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573108582334@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB00AE0747C2DF3B74B6D"
+  },
+  "message": {
+    "conversation": "Excelente día"
+  },
+  "messageTimestamp": "1734451980",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "573108582334@s.whatsapp.net",
+      "receiptTimestamp": "1734451982",
+      "readTimestamp": "1734451991",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 163 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573204598540@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3AE5EFBF839A1597D18E"
+  },
+  "message": {
+    "conversation": "Y tu ?"
+  },
+  "messageTimestamp": "1734449907",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAFlTFg7YfzjBAFZPk9QpAI="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 164 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573204598540@s.whatsapp.net",
+    "fromMe": false,
+    "id": "3AEDE807C2F67D8A0DF0"
+  },
+  "message": {
+    "conversation": "Muy bien gracias"
+  },
+  "messageTimestamp": "1734449900",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAGu5H6vXa7jBAEuFwJzfD4="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 165 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573003839457@s.whatsapp.net",
+    "fromMe": false,
+    "id": "2E8DB0FF9AF00785A0E34FE49FC2AD60"
+  },
+  "message": {
+    "extendedTextMessage": {
+      "text": "¡Hola!  Buenos días quisiera consultar acerca de vacantes \nGracias",
+      "previewType": "NONE",
+      "contextInfo": {
+        "externalAdReply": {
+          "title": "¡Escríbenos!",
+          "body": "¡Liderazgo y excelencia se cultivan en el Gimnasio Santana del Norte! Nuestros estudiantes son el futuro y nosotros los preparamos para alcanzar sus metas. \nAgenda tu visita y descubre por qué somos la mejor opción para tu hijo.\n\n📞    Contacto 1: 314 491 1034 \n 📞   Contacto 2: 314 492 00 62",
+          "mediaType": "VIDEO",
+          "thumbnailUrl": "https://scontent.xx.fbcdn.net/v/t15.5256-10/470373061_1691202855071705_3771068859072530558_n.jpg?stp=dst-jpg_p180x540_tt6&_nc_cat=109&ccb=1-7&_nc_sid=40cf1a&_nc_ohc=Iu9UTO4FGvoQ7kNvgHto7Rn&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&_nc_gid=AWaRcxAM59ljevrjI1cbtXr&oh=00_AYDWjU9SiyQIG23ASbzW0tbRlzBVJucdMiVF0lhw_XswgQ&oe=676772D1",
+          "mediaUrl": "https://www.facebook.com/gimnasiosantanadelnorte/videos/1132002155111594/",
+          "thumbnail": "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",
+          "sourceType": "ad",
+          "sourceId": "120212833394680743",
+          "sourceUrl": "https://fb.me/5W5MkP8u5",
+          "containsAutoReply": false,
+          "renderLargerThumbnail": true,
+          "showAdAttribution": true,
+          "ctwaClid": "ARAb8iTZZcvF4PZR6cYCAYNGtfgOfG8-xStbuUxvqXXx1ReTN7ElkbMMjiqTaAoSpeJNrkr6ycir11whu2rc4x6M1ehvAcShFK5hlh8leo-O6hanezHA-tg2IyhTMI1TMC_qU7B0Oyk"
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    }
+  },
+  "messageTimestamp": "1734449120",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAEJT56WJD3jBAGN+2z0oy0="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 166 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573108401229@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB091B503AB37540A63AE"
+  },
+  "message": {
+    "conversation": "Excelente día"
+  },
+  "messageTimestamp": "1734448561",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "573108401229@s.whatsapp.net",
+      "receiptTimestamp": "1734448561",
+      "readTimestamp": "1734450817",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 167 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573176969245@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB08E33F8B10AE13B2FE2"
+  },
+  "message": {
+    "conversation": "¿Cómo te encuentras?"
+  },
+  "messageTimestamp": "1734448549",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "573176969245@s.whatsapp.net",
+      "receiptTimestamp": "1734448549",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 168 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573219084583@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB04C3A293C73A9AA5697"
+  },
+  "message": {
+    "conversation": "En una jornada de 7:30 am a 3:00 pm tenemos opcional una jornada de 3:00 pm a 6:00 pm"
+  },
+  "messageTimestamp": "1734448515",
+  "status": "READ",
+  "userReceipt": [
+    {
+      "userJid": "573219084583@s.whatsapp.net",
+      "receiptTimestamp": "1734448515",
+      "readTimestamp": "1734449218",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 169 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573161418797@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB015000338B2DEFDDD22"
+  },
+  "message": {
+    "stickerMessage": {
+      "url": "https://mmg.whatsapp.net/v/t62.15575-24/35441071_590477336776779_6444567275021979292_n.enc?ccb=11-4&oh=01_Q5AaID4XQz6xerQeEwvduaupYgm22j82sqslt1Hk8gIb8JTz&oe=6785333D&_nc_sid=5e03e0&mms3=true",
+      "fileSha256": "en07GlIrF31S7+Wn/grwI0X+EdU/kiupuN6LHE/i3q8=",
+      "fileEncSha256": "/Z0UJlvrHwLdhuBSD36/gmkL+6Ex4zjr2IDsclYLzLg=",
+      "mediaKey": "kRxz0kDjmYHmvTkKgFazuq1mWL0r1//eIB1LuwHFNd8=",
+      "mimetype": "image/webp",
+      "height": 64,
+      "width": 64,
+      "directPath": "/v/t62.15575-24/35441071_590477336776779_6444567275021979292_n.enc?ccb=11-4&oh=01_Q5AaICoVIKIa3VXfcW4wVk3AEoLED54MAC-p-J1BXmqcfEUf&oe=6788EF7D&_nc_sid=5e03e0",
+      "fileLength": "52096",
+      "mediaKeyTimestamp": "1706015864621",
+      "isAnimated": false,
+      "stickerSentTs": "1734448449000",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    }
+  },
+  "messageTimestamp": "1734448449",
+  "status": "READ",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Stickers/STK-20240123-WA0032.webp"
+  },
+  "userReceipt": [
+    {
+      "userJid": "573161418797@s.whatsapp.net",
+      "receiptTimestamp": "1734448449",
+      "readTimestamp": "1734448881",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 170 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573216229322@s.whatsapp.net",
+    "fromMe": false,
+    "id": "049A6AC585B8EE1A7FC516F386173490"
+  },
+  "message": {
+    "conversation": "Bn\nGracias"
+  },
+  "messageTimestamp": "1734447781",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAFWYmFg2JrjBAEmuYNUHbM="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 171 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573013191016@s.whatsapp.net",
+    "fromMe": false,
+    "id": "7764DDBE18571AFAB7DCF81596B2ADF2"
+  },
+  "message": {
+    "conversation": "Gracias"
+  },
+  "messageTimestamp": "1734446011",
+  "reportingTokenInfo": {
+    "reportingTag": "Q+bjBAEG4tYoIjfjBAEWOaj/Log="
+  }
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 172 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573155615863@s.whatsapp.net",
+    "fromMe": true,
+    "id": "3EB068630337A09063DDFF"
+  },
+  "message": {
+    "stickerMessage": {
+      "url": "https://web.whatsapp.net",
+      "fileSha256": "V2RIujLgE6Bt4KeXR4nfkoRcykO4O1owfipguGBYPG0=",
+      "fileEncSha256": "PNNr6DjBtFoG64sdnO8V9FONZMIaYBKfV29w4Dt4MJY=",
+      "mediaKey": "PKrRlFwAgqMsN9pAE/oHMSpHjfz0miaXTPZHyoPZd/g=",
+      "mimetype": "image/webp",
+      "height": 64,
+      "width": 64,
+      "directPath": "/v/t62.15575-24/20124586_580806914361982_3514270042283371383_n.enc?ccb=11-4&oh=01_Q5AaIAoxDRZIrnsgjuH6m0QGnkslkHZvf_MkD2z6u-JYo23n&oe=6788ECD8&_nc_sid=5e03e0",
+      "fileLength": "54122",
+      "mediaKeyTimestamp": "1708437909075",
+      "isAnimated": false,
+      "stickerSentTs": "1734445733000",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    }
+  },
+  "messageTimestamp": "1734445733",
+  "status": "DELIVERY_ACK",
+  "mediaData": {
+    "localPath": "Media/WhatsApp Business Stickers/STK-20240220-WA0006.webp"
+  },
+  "userReceipt": [
+    {
+      "userJid": "573155615863@s.whatsapp.net",
+      "receiptTimestamp": "1734445734",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 
+
+Mensagem 173 de 173
+               
+Importando Mensagem: {
+  "key": {
+    "remoteJid": "573160496608@s.whatsapp.net",
+    "fromMe": true,
+    "id": "2D443BD0CBCED1B79EC05E0A31993B1C"
+  },
+  "message": {
+    "conversation": "Te las entregaron?"
+  },
+  "messageTimestamp": "1734444497",
+  "status": "DELIVERY_ACK",
+  "userReceipt": [
+    {
+      "userJid": "573160496608@s.whatsapp.net",
+      "receiptTimestamp": "1734444498",
+      "readTimestamp": "0",
+      "playedTimestamp": "0"
+    }
+  ]
+}>>>>>>>>>>>>>>>>>>> 

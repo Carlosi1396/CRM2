@@ -1,0 +1,167 @@
+/* General root style for the container */
+.root {
+  display: flex;
+  height: 100vh;
+}
+
+/* Signup container styles */
+.container-signup {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 50%;
+  padding: 32px;
+}
+
+/* Image container for the signup page */
+.container-img-signup {
+  width: 50%;
+  background-image: url('../../assets/backgroundStep.png');
+  background-size: cover;
+  background-position: center;
+}
+
+/* Form styling */
+.form {
+  width: 100%;
+  max-width: 500px;
+  margin-top: 24px;
+}
+
+.MuiButton-fullWidth {
+  margin: 20px 0px 16px;
+  border-radius: 30px;
+  background: linear-gradient(90deg, rgba(45, 186, 84, 1) 0%, rgba(25, 181, 9, 1) 50%);
+  color: white;
+  border-radius: 25px;
+}
+
+.MuiButton-contained {
+  color: rgba(0, 0, 0, 0.87);
+  box-shadow: 0px 3px 1px -2px rgba(0, 0, 0, 0.2), 0px 2px 2px 0px rgba(0, 0, 0, 0.14), 0px 1px 5px 0px rgba(0, 0, 0, 0.12);
+  margin: 20px 0px 16px;
+  border-radius: 30px;
+  background: linear-gradient(90deg, rgba(45, 186, 84, 1) 0%, rgba(25, 181, 9, 1) 50%);
+  color: white;
+  border-radius: 25px;
+}
+
+/* Submit button styles */
+.submit {
+  margin: 24px 0 16px;
+  background-color: #3489ff;
+  color: #fff;
+  border-radius: 30px;
+  padding: 15px;
+  font-weight: bold;
+}
+
+.submit:hover {
+  background-color: #285ec9;
+}
+
+/* Logo styling for the header */
+.logo {
+  width: 150px;
+  margin-bottom: 16px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Header text alignment */
+.header-text {
+  text-align: center;
+}
+
+/* Footer styling */
+.footer {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.footer .p {
+  font-size: 14px;
+  color: #666;
+}
+
+.footer a {
+  color: #3489ff;
+  text-decoration: none;
+}
+
+/* Image signup styling */
+.img-signup {
+  background-image: url('../../assets/backgroundStep.png');
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: fixed;
+  width: 700px;
+  height: 100vh;
+  object-fit: cover;
+}
+
+/* Link styles for the login link */
+.link-login {
+  color: #3489ff;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.link-login:hover {
+  text-decoration: underline;
+}
+
+/* Input Label adjustments */
+input-label {
+  color: #000;
+  font-weight: bold;
+}
+
+/* Responsive styles for mobile devices */
+@media (max-width: 768px) {
+  .root {
+    flex-direction: column;
+  }
+
+  .container-signup,
+  .container-img-signup {
+    width: 100%;
+  }
+
+  .container-img-signup {
+    display: none;
+  }
+
+  .form {
+    max-width: 100%;
+  }
+
+  .logo {
+    width: 120px;
+  }
+
+  .submit {
+    padding: 12px;
+  }
+
+  .footer {
+    margin-top: 10px;
+  }
+}
+
+@media (max-width: 480px) {
+  .form {
+    padding: 16px;
+  }
+
+  .header-text .h4 {
+    font-size: 1.5em;
+  }
+
+  .footer .p {
+    font-size: 12px;
+  }
+}
